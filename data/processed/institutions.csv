@@ -1,0 +1,348 @@
+nom,sigle,categorie,sous_type,adm2_pcode,precision_localisation,source,commune,departement,lat,lon
+Université d'État d'Haïti (rectorat),UEH,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté de Droit et des Sciences Économiques,FDSE,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté d'Agronomie et de Médecine Vétérinaire,FAMV,Université / Enseignement supérieur,Public – UEH,HT0118,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Tabarre,Ouest,18.57184,-72.26691
+Faculté des Sciences,FDS,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté de Linguistique Appliquée,FLA,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté d'Ethnologie,FE,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté d'Odontologie,FO,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté de Médecine et de Pharmacie,FMP,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Institut National d'Administration de Gestion et des Hautes Études Internationales,INAGHEI,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Faculté des Sciences Humaines,FASCH,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Institut Supérieur d'Études et de Recherche en Sciences Sociales,ISERSS,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Normale Supérieure,ENS,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Nationale des Infirmières de Port-au-Prince,ENIP,Université / Enseignement supérieur,Public – UEH,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École de Droit et des Sciences Économiques des Gonaïves,,Université / Enseignement supérieur,Public – UEH,HT0511,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Gonaïves,Artibonite,19.49342,-72.68419
+Faculté de Droit des Sciences Économiques et de Gestion du Cap-Haïtien,,Université / Enseignement supérieur,Public – UEH,HT0311,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Cap-Haïtien,Nord,19.74965,-72.22864
+École de Droit et des Sciences Économiques des Cayes,,Université / Enseignement supérieur,Public – UEH,HT0711,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Les Cayes,Sud,18.25881,-73.76624
+École de Droit et des Sciences Économiques de Jacmel,,Université / Enseignement supérieur,Public – UEH,HT0211,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jacmel,Sud-Est,18.28729,-72.5531
+École de Droit et des Sciences Économiques de Hinche,,Université / Enseignement supérieur,Public – UEH,HT0611,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Hinche,Centre,19.16524,-71.97527
+École de Droit de Fort-Liberté,,Université / Enseignement supérieur,Public – UEH,HT0411,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Fort-Liberté,Nord-Est,19.56682,-71.84912
+École de Droit et des Sciences Économiques de Port-de-Paix,,Université / Enseignement supérieur,Public – UEH,HT0911,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-de-Paix,Nord-Ouest,19.83938,-72.9497
+Campus Henri Christophe de Limonade,,Université / Enseignement supérieur,Public – UEH,HT0313,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Limonade,Nord,19.67163,-72.10346
+École Nationale des Infirmières du Cap-Haïtien (Justinien),,Université / Enseignement supérieur,Public – UEH,HT0311,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Cap-Haïtien,Nord,19.74965,-72.22864
+École Nationale des Infirmières des Cayes,,Université / Enseignement supérieur,Public – UEH,HT0711,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Les Cayes,Sud,18.25881,-73.76624
+École Nationale des Infirmières de Jérémie,,Université / Enseignement supérieur,Public – UEH,HT0811,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jérémie,Grande'Anse,18.53322,-74.15576
+Université Publique du Nord au Cap-Haïtien,UPNCH,Université / Enseignement supérieur,Public – UPR,HT0311,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Cap-Haïtien,Nord,19.74965,-72.22864
+Université Publique de l'Artibonite aux Gonaïves,UPAG,Université / Enseignement supérieur,Public – UPR,HT0511,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Gonaïves,Artibonite,19.49342,-72.68419
+Université Publique du Sud aux Cayes,UPSAC,Université / Enseignement supérieur,Public – UPR,HT0711,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Les Cayes,Sud,18.25881,-73.76624
+Université Publique du Sud-Est à Jacmel,UPSEJ,Université / Enseignement supérieur,Public – UPR,HT0211,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jacmel,Sud-Est,18.28729,-72.5531
+Université Publique du Nord-Ouest à Port-de-Paix,UPNOPP,Université / Enseignement supérieur,Public – UPR,HT0911,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-de-Paix,Nord-Ouest,19.83938,-72.9497
+Université Publique du Centre (Hinche),UPCHM,Université / Enseignement supérieur,Public – UPR,HT0611,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Hinche,Centre,19.16524,-71.97527
+Université Publique du Centre (Mirebalais),UPCHM,Université / Enseignement supérieur,Public – UPR,HT0621,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Mirebalais,Centre,18.80003,-72.06717
+Université Publique des Nippes,UPNIP,Université / Enseignement supérieur,Public – UPR,HT1011,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Miragoâne,Nippes,18.34029,-73.05262
+Université Publique du Nord-Est,UPNE,Université / Enseignement supérieur,Public – UPR,HT0411,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Fort-Liberté,Nord-Est,19.56682,-71.84912
+Université Publique de la Grand'Anse,UPGA,Université / Enseignement supérieur,Public – UPR,HT0811,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jérémie,Grande'Anse,18.53322,-74.15576
+Université Publique du Bas Artibonite à Saint-Marc,UPBAS,Université / Enseignement supérieur,Public – UPR,HT0531,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Saint-Marc,Artibonite,19.10389,-72.6287
+Centre de Techniques de Planification et d'Économie Appliquée,CTPEA,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Centre de Formation des Enseignants du Fondamental,CFEF,Université / Enseignement supérieur,Public – École ministérielle,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+École Nationale Supérieure de Technologie,ENST,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Nationale des Arts,ENARTS,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Nationale de Géologie Appliquée,ENGA,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Nationale d'Administration Financière,ENAF,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+École Nationale d'Administration et de Politiques Publiques,ENAPP,Université / Enseignement supérieur,Public – École ministérielle,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Quisqueya,UNIQ,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Notre Dame d'Haïti,UNDH,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Adventiste d'Haïti,UNAH,Université / Enseignement supérieur,Privé – Privé,HT0113,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Carrefour,Ouest,18.4631,-72.41852
+Université Épiscopale d'Haïti,UNEPH,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université de la Fondation Aristide,UNIFA,Université / Enseignement supérieur,Privé – Privé,HT0118,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Tabarre,Ouest,18.57184,-72.26691
+Université INUKA,,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Lumière,UL,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Autonome de Port-au-Prince,UNAP,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université de Port-au-Prince,UP,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université de Pétion-Ville,UNP,Université / Enseignement supérieur,Privé – Privé,HT0114,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Pétion-Ville,Ouest,18.48366,-72.23971
+Université de Léogane,UNIVEL,Université / Enseignement supérieur,Privé – Privé,HT0121,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Léogâne,Ouest,18.44289,-72.57326
+Université Fondwa,UNIF,Université / Enseignement supérieur,Privé – Privé,HT0121,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Léogâne,Ouest,18.44289,-72.57326
+Collège Universitaire de Christianville,CUC,Université / Enseignement supérieur,Privé – Privé,HT0116,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Gressier,Ouest,18.51184,-72.51486
+Séminaire de Théologie Évangélique de Port-au-Prince,STEP,Université / Enseignement supérieur,Privé – Privé,HT0111,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Port-au-Prince,Ouest,18.53053,-72.33546
+Université Roi Henri Christophe,URHC,Université / Enseignement supérieur,Privé – Privé,HT0313,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Limonade,Nord,19.67163,-72.10346
+Université Chrétienne du Nord d'Haïti,UCNH,Université / Enseignement supérieur,Privé – Privé,HT0361,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Limbé,Nord,19.64682,-72.41688
+Université Franco-Haïtienne du Cap-Haïtien,UFCH,Université / Enseignement supérieur,Privé – Privé,HT0311,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Cap-Haïtien,Nord,19.74965,-72.22864
+Université Américaine des Cayes,AUC,Université / Enseignement supérieur,Privé – Privé,HT0711,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Les Cayes,Sud,18.25881,-73.76624
+Institut de Formation Juridique et des Sciences Connexes des Cayes,INFOJUSC,Université / Enseignement supérieur,Privé – Privé,HT0711,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Les Cayes,Sud,18.25881,-73.76624
+Université de Jérémie,UJ,Université / Enseignement supérieur,Privé – Privé,HT0811,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jérémie,Grande'Anse,18.53322,-74.15576
+École Supérieure Catholique de Droit de Jérémie,ESCDROJ,Université / Enseignement supérieur,Privé – Privé,HT0811,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jérémie,Grande'Anse,18.53322,-74.15576
+Université Nouvelle Grand'Anse,UNOGA,Université / Enseignement supérieur,Privé – Privé,HT0811,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Jérémie,Grande'Anse,18.53322,-74.15576
+Université Chrétienne d'Haïti - Mission Évangélique des Gonaïves,,Université / Enseignement supérieur,Privé – Privé,HT0511,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Gonaïves,Artibonite,19.49342,-72.68419
+École de Droit et de Notariat de Saint-Marc,,Université / Enseignement supérieur,Privé – Privé,HT0531,commune,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",Saint-Marc,Artibonite,19.10389,-72.6287
+Université Indépendante de l'Artibonite,UIA,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Artibonite,,
+Université de Bas Artibonite,UNIBA,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Artibonite,,
+Université Libre du Sud-Est,,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Sud-Est,,
+Université du Grand Sud d'Haïti,UGSH,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Sud,,
+Institut d'Études Supérieures de l'Ouest,IESO,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Ouest,,
+Institut Universitaire de l'Ouest,IUO,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Ouest,,
+Université Chrétienne Renaissance du Centre d'Haïti,UCRECH,Université / Enseignement supérieur,Privé – Privé,,nom (département),"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,Centre,,
+Université Américaine des Sciences Modernes d'Haïti,UNASMOH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université André Laroche,UAL,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Anténor Firmin,UNAF,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Alexandre Dumas,UNAD,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Autonome Charlemagne Péralte,UNACP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Atlantique d'Haïti,UNIVERSAH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Bellevue,UNIBEL,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Caraïbe,UC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Chrétienne de la Communauté de Caïman,UCCC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Espoir de Calvary Chapel,UECC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Emmaüs,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université de la Concorde,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université de Technologie d'Haïti,UNITECH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université des Sciences Administratives et de la Santé,UNISAS,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université d'Études Internationales,UDEI,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Évangélique d'Haïti,UNEH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Edouard Genner,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université GOC,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Intégrée de la Caraïbe,UNICA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Internationale d'Hispaniola,UNIDHI,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Jean-Price Mars,UJPM,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Métropole d'Haïti,UMH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Métropolitaine Anacaona,UMA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Polyvalente d'Haïti,UPH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Providence d'Haïti,UPROH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Queensland,UQ,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Ruben Leconte,URL,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Saint-Gérard,USG,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Saint François d'Assise d'Haïti,USFAH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Ponds d'Espoir d'Haïti,UPOESAH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Joseph Lafortune,UJLF,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université La Pléiade d'Haïti,UPLEH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Royale d'Haïti,URH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Mont Everest d'Haïti,UNEDH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Polytechnique Notre Dame du Rosaire,UPONDRO,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Sainte Geneviève,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Patronale d'Haïti,UNPH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Innovatrice d'Haïti,UNIH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Internationale de la Caraïbe,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Nobel d'Haïti,UNH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Valparaiso,UV,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Moderne d'Haïti,UMDH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Michel Nord Isaac,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Nissage Saget,UNISSA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Nelson Mandela,UNM,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université La Ferrière Joseph,UFJ,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université de la Renaissance d'Haïti,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Les Encyclopédistes d'Haïti,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université du SEED International Institute of Tropical Agriculture,USITA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université de Technologies et Sciences,UTS,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Soleil d'Haïti,USH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Université Yahvé Nissi,UNYN,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Séminaire Théologique de l'Église de Dieu en Haïti,STEDH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Faculté Craan d'Haïti,FCA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Faculté des Sciences Appliquées,FSA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Faculté des Sciences de l'Éducation Regina Assumpta,FERA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Technologie Électronique d'Haïti,ITEH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Technique de la Côte Sud,ITCS,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut des Sciences des Technologies et des Études Avancées d'Haïti,ISTEAH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Formation des Cadres,IFC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Formation Appliquée,IFA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Formation Supérieure en Sciences Administratives et Appliquées,IFSA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut des Hautes Études Commerciales et Économiques,IHECE,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Haïtien des Sciences Administratives,IHSA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Haïtien de Formation en Sciences de l'Éducation,IHFOSED,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut International de Communication et des Relations Publiques,IICRP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Supérieur de Recherche et de Développement Technologique,ISRDT,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Supérieur des Sciences Économiques Politiques et Juridiques,ISSEPJ,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Supérieur Technique d'Haïti,ISTH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Supérieur et Universitaire Professionnalisé,ISUP-EMATECH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Universitaire des Sciences de l'Éducation,IUSE/CREFI,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Universitaire des Sciences Juridiques et de Développement Régional,INUJED,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Universitaire de Formation des Cadres,INUFOCAD,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Universitaire de la Référence,INUREP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut Louis Pasteur,ILP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Formation Biblique et Théologique d'Haïti,IFBTH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Institut de Philosophie Saint François de Sales,IPSES,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Info World University,IWU,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+École Supérieure Isaac Newton,ESIN,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+École Supérieure d'Infotronique d'Haïti,ESIH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+École Supérieure de Chimie,CHEMTEK,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+École Supérieure de Technologie d'Haïti,ESTH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre d'Études Diplomatiques et Internationales,CEDI,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre de Formation et de Développement Économique,CFDE,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre de Management et de Productivité,CMP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre de Recherche en Finance Informatique et Management,CREFIMA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre de Conseil et de Formation aux Entreprises,CECOFE,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre d'Informatique de Statistique et d'Administration,CISA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre du Savoir Universel,CSU,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre Universitaire Moderne d'Haïti,CUMOH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre Universitaire Lumière Anacaona,CULA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre Universitaire de Développement Intégré,CUDI,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre Universitaire Maurice Laroche,CUML,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Centre Universitaire Polytechnique d'Haïti,CUPH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Collège Universitaire de Roumanie,CURO,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+CFEF Filles de Marie Paridaens,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Académie Nationale Diplomatique et Consulaire,ANDC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Académie Internationale des Sciences Politiques Administratives et Stratégiques,AISPAS,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Académie des Sciences Pures et Appliquées,ASPA,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Azure University,AU,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Académie de Formation et de Perfectionnement des Cadres,AFPEC,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Burnett International University,BIU,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Grand Séminaire Notre Dame,GSND,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Haitian Education and Leadership Program,HELP,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Mission Baptiste Conservatrice d'Haïti,MBCH,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+PAODES Université,,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Spring Hill University,SHU,Université / Enseignement supérieur,Privé – Privé,,non précisée,"MENFP – liste des IES reconnues (via Le Scientifique, 2023/2026)",,,,
+Hôpital de l'Université d'État d'Haïti (HUEH),,Santé,Hôpital universitaire,HT0111,commune,Liste de référence (à compléter par OpenStreetMap),Port-au-Prince,Ouest,18.53053,-72.33546
+Hôpital Universitaire La Paix,,Santé,Hôpital universitaire,HT0112,commune,Liste de référence (à compléter par OpenStreetMap),Delmas,Ouest,18.55133,-72.28723
+Hôpital Bernard Mevs,,Santé,Hôpital,HT0111,commune,Liste de référence (à compléter par OpenStreetMap),Port-au-Prince,Ouest,18.53053,-72.33546
+Hôpital Saint-Damien (NPH),,Santé,Hôpital pédiatrique,HT0118,commune,Liste de référence (à compléter par OpenStreetMap),Tabarre,Ouest,18.57184,-72.26691
+Hôpital Universitaire de Mirebalais,,Santé,Hôpital universitaire,HT0621,commune,Liste de référence (à compléter par OpenStreetMap),Mirebalais,Centre,18.80003,-72.06717
+Hôpital Sainte-Thérèse de Hinche,,Santé,Hôpital départemental,HT0611,commune,Liste de référence (à compléter par OpenStreetMap),Hinche,Centre,19.16524,-71.97527
+Hôpital Universitaire Justinien,,Santé,Hôpital départemental,HT0311,commune,Liste de référence (à compléter par OpenStreetMap),Cap-Haïtien,Nord,19.74965,-72.22864
+Hôpital Sacré-Cœur de Milot,,Santé,Hôpital,HT0323,commune,Liste de référence (à compléter par OpenStreetMap),Milot,Nord,19.64715,-72.21855
+Hôpital de Fort-Liberté,,Santé,Hôpital départemental,HT0411,commune,Liste de référence (à compléter par OpenStreetMap),Fort-Liberté,Nord-Est,19.56682,-71.84912
+Hôpital La Providence des Gonaïves,,Santé,Hôpital départemental,HT0511,commune,Liste de référence (à compléter par OpenStreetMap),Gonaïves,Artibonite,19.49342,-72.68419
+Hôpital Saint-Nicolas de Saint-Marc,,Santé,Hôpital,HT0531,commune,Liste de référence (à compléter par OpenStreetMap),Saint-Marc,Artibonite,19.10389,-72.6287
+Hôpital Albert Schweitzer (Deschapelles),,Santé,Hôpital,HT0532,commune,Liste de référence (à compléter par OpenStreetMap),Verrettes,Artibonite,19.03683,-72.50235
+Hôpital Immaculée Conception de Port-de-Paix,,Santé,Hôpital départemental,HT0911,commune,Liste de référence (à compléter par OpenStreetMap),Port-de-Paix,Nord-Ouest,19.83938,-72.9497
+Hôpital Immaculée Conception des Cayes,,Santé,Hôpital départemental,HT0711,commune,Liste de référence (à compléter par OpenStreetMap),Les Cayes,Sud,18.25881,-73.76624
+Hôpital Saint-Michel de Jacmel,,Santé,Hôpital départemental,HT0211,commune,Liste de référence (à compléter par OpenStreetMap),Jacmel,Sud-Est,18.28729,-72.5531
+Hôpital Saint-Antoine de Jérémie,,Santé,Hôpital départemental,HT0811,commune,Liste de référence (à compléter par OpenStreetMap),Jérémie,Grande'Anse,18.53322,-74.15576
+Hôpital Sainte-Thérèse de Miragoâne,,Santé,Hôpital départemental,HT1011,commune,Liste de référence (à compléter par OpenStreetMap),Miragoâne,Nippes,18.34029,-73.05262
+Mairie de Abricots,,Administration locale,Mairie (commune),HT0812,commune,CNIGS – découpage communal,Abricots,Grande'Anse,18.6145,-74.31891
+Mairie de Acul du Nord,,Administration locale,Mairie (commune),HT0321,commune,CNIGS – découpage communal,Acul du Nord,Nord,19.66989,-72.32165
+Mairie de Anse-à-Foleur,,Administration locale,Mairie (commune),HT0922,commune,CNIGS – découpage communal,Anse-à-Foleur,Nord-Ouest,19.86286,-72.62497
+Mairie de Anse-à-Pître,,Administration locale,Mairie (commune),HT0234,commune,CNIGS – découpage communal,Anse-à-Pître,Sud-Est,18.1619,-71.80389
+Mairie de Anse-à-Veau,,Administration locale,Mairie (commune),HT1021,commune,CNIGS – découpage communal,Anse-à-Veau,Nippes,18.46192,-73.31831
+Mairie de Anse à Galets,,Administration locale,Mairie (commune),HT0151,commune,CNIGS – découpage communal,Anse à Galets,Ouest,18.80951,-72.91447
+Mairie de Anse d'Hainault,,Administration locale,Mairie (commune),HT0821,commune,CNIGS – découpage communal,Anse d'Hainault,Grande'Anse,18.4641,-74.41092
+Mairie de Anse Rouge,,Administration locale,Mairie (commune),HT0523,commune,CNIGS – découpage communal,Anse Rouge,Artibonite,19.6248,-72.95584
+Mairie de Aquin,,Administration locale,Mairie (commune),HT0731,commune,CNIGS – découpage communal,Aquin,Sud,18.27524,-73.21601
+Mairie de Arcahaie,,Administration locale,Mairie (commune),HT0141,commune,CNIGS – découpage communal,Arcahaie,Ouest,18.87009,-72.49319
+Mairie de Arnaud,,Administration locale,Mairie (commune),HT1024,commune,CNIGS – découpage communal,Arnaud,Nippes,18.44819,-73.38675
+Mairie de Arniquet,,Administration locale,Mairie (commune),HT0723,commune,CNIGS – découpage communal,Arniquet,Sud,18.14238,-73.89351
+Mairie de Bahon,,Administration locale,Mairie (commune),HT0332,commune,CNIGS – découpage communal,Bahon,Nord,19.45258,-72.11986
+Mairie de Baie de Henne,,Administration locale,Mairie (commune),HT0932,commune,CNIGS – découpage communal,Baie de Henne,Nord-Ouest,19.70934,-73.20228
+Mairie de Bainet,,Administration locale,Mairie (commune),HT0221,commune,CNIGS – découpage communal,Bainet,Sud-Est,18.21523,-72.82061
+Mairie de Baradères,,Administration locale,Mairie (commune),HT1031,commune,CNIGS – découpage communal,Baradères,Nippes,18.47534,-73.67108
+Mairie de Bas Limbé,,Administration locale,Mairie (commune),HT0362,commune,CNIGS – découpage communal,Bas Limbé,Nord,19.76302,-72.39448
+Mairie de Bassin Bleu,,Administration locale,Mairie (commune),HT0913,commune,CNIGS – découpage communal,Bassin Bleu,Nord-Ouest,19.78784,-72.84862
+Mairie de Beaumont,,Administration locale,Mairie (commune),HT0833,commune,CNIGS – découpage communal,Beaumont,Grande'Anse,18.44654,-73.98174
+Mairie de Belladère,,Administration locale,Mairie (commune),HT0632,commune,CNIGS – découpage communal,Belladère,Centre,18.86588,-71.81143
+Mairie de Belle Anse,,Administration locale,Mairie (commune),HT0231,commune,CNIGS – découpage communal,Belle Anse,Sud-Est,18.27641,-72.07869
+Mairie de Bombardopolis,,Administration locale,Mairie (commune),HT0933,commune,CNIGS – découpage communal,Bombardopolis,Nord-Ouest,19.70165,-73.34617
+Mairie de Bonbon,,Administration locale,Mairie (commune),HT0813,commune,CNIGS – découpage communal,Bonbon,Grande'Anse,18.62996,-74.24011
+Mairie de Borgne,,Administration locale,Mairie (commune),HT0351,commune,CNIGS – découpage communal,Borgne,Nord,19.80668,-72.57221
+Mairie de Boucan Carré,,Administration locale,Mairie (commune),HT0623,commune,CNIGS – découpage communal,Boucan Carré,Centre,18.96378,-72.15475
+Mairie de Cabaret,,Administration locale,Mairie (commune),HT0142,commune,CNIGS – découpage communal,Cabaret,Ouest,18.7701,-72.41471
+Mairie de Camp-Perrin,,Administration locale,Mairie (commune),HT0714,commune,CNIGS – découpage communal,Camp-Perrin,Sud,18.33903,-73.86506
+Mairie de Cap-Haïtien,,Administration locale,Mairie (commune),HT0311,commune,CNIGS – découpage communal,Cap-Haïtien,Nord,19.74965,-72.22864
+Mairie de Capotille,,Administration locale,Mairie (commune),HT0422,commune,CNIGS – découpage communal,Capotille,Nord-Est,19.46327,-71.70284
+Mairie de Caracol,,Administration locale,Mairie (commune),HT0434,commune,CNIGS – découpage communal,Caracol,Nord-Est,19.67929,-72.01002
+Mairie de Carice,,Administration locale,Mairie (commune),HT0442,commune,CNIGS – découpage communal,Carice,Nord-Est,19.35475,-71.82242
+Mairie de Carrefour,,Administration locale,Mairie (commune),HT0113,commune,CNIGS – découpage communal,Carrefour,Ouest,18.4631,-72.41852
+Mairie de Cavaillon,,Administration locale,Mairie (commune),HT0733,commune,CNIGS – découpage communal,Cavaillon,Sud,18.32119,-73.6325
+Mairie de Cayes-Jacmel,,Administration locale,Mairie (commune),HT0213,commune,CNIGS – découpage communal,Cayes-Jacmel,Sud-Est,18.28026,-72.4166
+Mairie de Cerca Carvajal,,Administration locale,Mairie (commune),HT0614,commune,CNIGS – découpage communal,Cerca Carvajal,Centre,19.26046,-71.92233
+Mairie de Cerca La Source,,Administration locale,Mairie (commune),HT0641,commune,CNIGS – découpage communal,Cerca La Source,Centre,19.16307,-71.73143
+Mairie de Chambellan,,Administration locale,Mairie (commune),HT0815,commune,CNIGS – découpage communal,Chambellan,Grande'Anse,18.51876,-74.33511
+Mairie de Chamsolme,,Administration locale,Mairie (commune),HT0914,commune,CNIGS – découpage communal,Chamsolme,Nord-Ouest,19.85967,-72.81123
+Mairie de Chantal,,Administration locale,Mairie (commune),HT0713,commune,CNIGS – découpage communal,Chantal,Sud,18.28153,-73.97466
+Mairie de Chardonnières,,Administration locale,Mairie (commune),HT0751,commune,CNIGS – découpage communal,Chardonnières,Sud,18.33092,-74.09446
+Mairie de Cité Soleil,,Administration locale,Mairie (commune),HT0117,commune,CNIGS – découpage communal,Cité Soleil,Ouest,18.59529,-72.31743
+Mairie de Corail,,Administration locale,Mairie (commune),HT0831,commune,CNIGS – découpage communal,Corail,Grande'Anse,18.54337,-73.90141
+Mairie de Cornillon / Grand Bois,,Administration locale,Mairie (commune),HT0134,commune,CNIGS – découpage communal,Cornillon / Grand Bois,Ouest,18.68744,-71.93069
+Mairie de Côteaux,,Administration locale,Mairie (commune),HT0741,commune,CNIGS – découpage communal,Côteaux,Sud,18.24278,-74.03208
+Mairie de Côtes de Fer,,Administration locale,Mairie (commune),HT0222,commune,CNIGS – découpage communal,Côtes de Fer,Sud-Est,18.24162,-72.95369
+Mairie de Croix-Des-Bouquets,,Administration locale,Mairie (commune),HT0131,commune,CNIGS – découpage communal,Croix-Des-Bouquets,Ouest,18.56346,-72.1931
+Mairie de Dame Marie,,Administration locale,Mairie (commune),HT0822,commune,CNIGS – découpage communal,Dame Marie,Grande'Anse,18.56814,-74.3794
+Mairie de Delmas,,Administration locale,Mairie (commune),HT0112,commune,CNIGS – découpage communal,Delmas,Ouest,18.55133,-72.28723
+Mairie de Desdunes,,Administration locale,Mairie (commune),HT0544,commune,CNIGS – découpage communal,Desdunes,Artibonite,19.31483,-72.69057
+Mairie de Dessalines,,Administration locale,Mairie (commune),HT0541,commune,CNIGS – découpage communal,Dessalines,Artibonite,19.22398,-72.44097
+Mairie de Dondon,,Administration locale,Mairie (commune),HT0342,commune,CNIGS – découpage communal,Dondon,Nord,19.52282,-72.27088
+Mairie de Ennery,,Administration locale,Mairie (commune),HT0512,commune,CNIGS – découpage communal,Ennery,Artibonite,19.48867,-72.47426
+Mairie de Ferrier,,Administration locale,Mairie (commune),HT0412,commune,CNIGS – découpage communal,Ferrier,Nord-Est,19.64434,-71.7646
+Mairie de Fonds-Verrettes,,Administration locale,Mairie (commune),HT0135,commune,CNIGS – découpage communal,Fonds-Verrettes,Ouest,18.36474,-71.8405
+Mairie de Fonds des Nègres,,Administration locale,Mairie (commune),HT1013,commune,CNIGS – découpage communal,Fonds des Nègres,Nippes,18.38476,-73.24624
+Mairie de Fort-Liberté,,Administration locale,Mairie (commune),HT0411,commune,CNIGS – découpage communal,Fort-Liberté,Nord-Est,19.56682,-71.84912
+Mairie de Ganthier,,Administration locale,Mairie (commune),HT0133,commune,CNIGS – découpage communal,Ganthier,Ouest,18.48594,-72.01017
+Mairie de Gonaïves,,Administration locale,Mairie (commune),HT0511,commune,CNIGS – découpage communal,Gonaïves,Artibonite,19.49342,-72.68419
+Mairie de Grand-Boucan,,Administration locale,Mairie (commune),HT1032,commune,CNIGS – découpage communal,Grand-Boucan,Nippes,18.567,-73.64784
+Mairie de Grand-Goâve,,Administration locale,Mairie (commune),HT0123,commune,CNIGS – découpage communal,Grand-Goâve,Ouest,18.36168,-72.74244
+Mairie de Grand Gosier,,Administration locale,Mairie (commune),HT0232,commune,CNIGS – découpage communal,Grand Gosier,Sud-Est,18.25738,-71.89894
+Mairie de Grande Riviere Du Nord,,Administration locale,Mairie (commune),HT0331,commune,CNIGS – découpage communal,Grande Riviere Du Nord,Nord,19.55835,-72.16379
+Mairie de Grande Saline,,Administration locale,Mairie (commune),HT0543,commune,CNIGS – découpage communal,Grande Saline,Artibonite,19.25728,-72.66113
+Mairie de Gressier,,Administration locale,Mairie (commune),HT0116,commune,CNIGS – découpage communal,Gressier,Ouest,18.51184,-72.51486
+Mairie de Gros Morne,,Administration locale,Mairie (commune),HT0521,commune,CNIGS – découpage communal,Gros Morne,Artibonite,19.70667,-72.71549
+Mairie de Hinche,,Administration locale,Mairie (commune),HT0611,commune,CNIGS – découpage communal,Hinche,Centre,19.16524,-71.97527
+Mairie de Île à Vache,,Administration locale,Mairie (commune),HT0716,commune,CNIGS – découpage communal,Île à Vache,Sud,18.08204,-73.60998
+Mairie de Jacmel,,Administration locale,Mairie (commune),HT0211,commune,CNIGS – découpage communal,Jacmel,Sud-Est,18.28729,-72.5531
+Mairie de Jean Rabel,,Administration locale,Mairie (commune),HT0934,commune,CNIGS – découpage communal,Jean Rabel,Nord-Ouest,19.81493,-73.14106
+Mairie de Jérémie,,Administration locale,Mairie (commune),HT0811,commune,CNIGS – découpage communal,Jérémie,Grande'Anse,18.53322,-74.15576
+Mairie de Kenscoff,,Administration locale,Mairie (commune),HT0115,commune,CNIGS – découpage communal,Kenscoff,Ouest,18.41262,-72.29299
+Mairie de L'Asile,,Administration locale,Mairie (commune),HT1023,commune,CNIGS – découpage communal,L'Asile,Nippes,18.39398,-73.3888
+Mairie de L'Estère,,Administration locale,Mairie (commune),HT0513,commune,CNIGS – découpage communal,L'Estère,Artibonite,19.3658,-72.63171
+Mairie de La Chapelle,,Administration locale,Mairie (commune),HT0533,commune,CNIGS – découpage communal,La Chapelle,Artibonite,18.92078,-72.35488
+Mairie de La Tortue,,Administration locale,Mairie (commune),HT0912,commune,CNIGS – découpage communal,La Tortue,Nord-Ouest,20.04177,-72.78752
+Mairie de La Vallée,,Administration locale,Mairie (commune),HT0214,commune,CNIGS – découpage communal,La Vallée,Sud-Est,18.27108,-72.70742
+Mairie de La Victoire,,Administration locale,Mairie (commune),HT0345,commune,CNIGS – découpage communal,La Victoire,Nord,19.35244,-72.02023
+Mairie de Lascahobas,,Administration locale,Mairie (commune),HT0631,commune,CNIGS – découpage communal,Lascahobas,Centre,18.86588,-71.96958
+Mairie de Léogâne,,Administration locale,Mairie (commune),HT0121,commune,CNIGS – découpage communal,Léogâne,Ouest,18.44289,-72.57326
+Mairie de Les Anglais,,Administration locale,Mairie (commune),HT0752,commune,CNIGS – découpage communal,Les Anglais,Sud,18.34653,-74.17999
+Mairie de Les Cayes,,Administration locale,Mairie (commune),HT0711,commune,CNIGS – découpage communal,Les Cayes,Sud,18.25881,-73.76624
+Mairie de Les Irois,,Administration locale,Mairie (commune),HT0823,commune,CNIGS – découpage communal,Les Irois,Grande'Anse,18.40422,-74.37645
+Mairie de Limbé,,Administration locale,Mairie (commune),HT0361,commune,CNIGS – découpage communal,Limbé,Nord,19.64682,-72.41688
+Mairie de Limonade,,Administration locale,Mairie (commune),HT0313,commune,CNIGS – découpage communal,Limonade,Nord,19.67163,-72.10346
+Mairie de Maïssade,,Administration locale,Mairie (commune),HT0612,commune,CNIGS – découpage communal,Maïssade,Centre,19.18861,-72.17312
+Mairie de Maniche,,Administration locale,Mairie (commune),HT0715,commune,CNIGS – découpage communal,Maniche,Sud,18.36795,-73.75215
+Mairie de Marigot,,Administration locale,Mairie (commune),HT0212,commune,CNIGS – découpage communal,Marigot,Sud-Est,18.29074,-72.29842
+Mairie de Marmelade,,Administration locale,Mairie (commune),HT0552,commune,CNIGS – découpage communal,Marmelade,Artibonite,19.52713,-72.37826
+Mairie de Milot,,Administration locale,Mairie (commune),HT0323,commune,CNIGS – découpage communal,Milot,Nord,19.64715,-72.21855
+Mairie de Miragoâne,,Administration locale,Mairie (commune),HT1011,commune,CNIGS – découpage communal,Miragoâne,Nippes,18.34029,-73.05262
+Mairie de Mirebalais,,Administration locale,Mairie (commune),HT0621,commune,CNIGS – découpage communal,Mirebalais,Centre,18.80003,-72.06717
+Mairie de Môle Saint Nicolas,,Administration locale,Mairie (commune),HT0931,commune,CNIGS – découpage communal,Môle Saint Nicolas,Nord-Ouest,19.77162,-73.37609
+Mairie de Mombin Crochu,,Administration locale,Mairie (commune),HT0443,commune,CNIGS – découpage communal,Mombin Crochu,Nord-Est,19.33697,-71.90199
+Mairie de Mont-Organisé,,Administration locale,Mairie (commune),HT0423,commune,CNIGS – découpage communal,Mont-Organisé,Nord-Est,19.38764,-71.77968
+Mairie de Moron,,Administration locale,Mairie (commune),HT0814,commune,CNIGS – découpage communal,Moron,Grande'Anse,18.48333,-74.28129
+Mairie de Ouanaminthe,,Administration locale,Mairie (commune),HT0421,commune,CNIGS – découpage communal,Ouanaminthe,Nord-Est,19.49738,-71.77136
+Mairie de Paillant,,Administration locale,Mairie (commune),HT1014,commune,CNIGS – découpage communal,Paillant,Nippes,18.41613,-73.18353
+Mairie de Perches,,Administration locale,Mairie (commune),HT0413,commune,CNIGS – découpage communal,Perches,Nord-Est,19.51537,-71.93078
+Mairie de Pestel,,Administration locale,Mairie (commune),HT0834,commune,CNIGS – découpage communal,Pestel,Grande'Anse,18.46246,-73.84551
+Mairie de Pétion-Ville,,Administration locale,Mairie (commune),HT0114,commune,CNIGS – découpage communal,Pétion-Ville,Ouest,18.48366,-72.23971
+Mairie de Petit-Goâve,,Administration locale,Mairie (commune),HT0122,commune,CNIGS – découpage communal,Petit-Goâve,Ouest,18.3624,-72.92082
+Mairie de Petit Trou de Nippes,,Administration locale,Mairie (commune),HT1022,commune,CNIGS – découpage communal,Petit Trou de Nippes,Nippes,18.45345,-73.47386
+Mairie de Petite Rivière de l'Artibonite,,Administration locale,Mairie (commune),HT0542,commune,CNIGS – découpage communal,Petite Rivière de l'Artibonite,Artibonite,19.06745,-72.33927
+Mairie de Petite Rivière de Nippes,,Administration locale,Mairie (commune),HT1012,commune,CNIGS – découpage communal,Petite Rivière de Nippes,Nippes,18.44853,-73.19019
+Mairie de Pignon,,Administration locale,Mairie (commune),HT0344,commune,CNIGS – découpage communal,Pignon,Nord,19.3289,-72.08599
+Mairie de Pilate,,Administration locale,Mairie (commune),HT0372,commune,CNIGS – découpage communal,Pilate,Nord,19.68605,-72.54086
+Mairie de Plaine du Nord,,Administration locale,Mairie (commune),HT0322,commune,CNIGS – découpage communal,Plaine du Nord,Nord,19.67154,-72.25927
+Mairie de Plaisance,,Administration locale,Mairie (commune),HT0371,commune,CNIGS – découpage communal,Plaisance,Nord,19.60007,-72.49436
+Mairie de Plaisance du Sud,,Administration locale,Mairie (commune),HT1025,commune,CNIGS – découpage communal,Plaisance du Sud,Nippes,18.42532,-73.55811
+Mairie de Pointe à Raquette,,Administration locale,Mairie (commune),HT0152,commune,CNIGS – découpage communal,Pointe à Raquette,Ouest,18.85829,-73.18154
+Mairie de Port-à-Piment,,Administration locale,Mairie (commune),HT0742,commune,CNIGS – découpage communal,Port-à-Piment,Sud,18.28202,-74.07183
+Mairie de Port-au-Prince,,Administration locale,Mairie (commune),HT0111,commune,CNIGS – découpage communal,Port-au-Prince,Ouest,18.53053,-72.33546
+Mairie de Port-de-Paix,,Administration locale,Mairie (commune),HT0911,commune,CNIGS – découpage communal,Port-de-Paix,Nord-Ouest,19.83938,-72.9497
+Mairie de Port-Margot,,Administration locale,Mairie (commune),HT0352,commune,CNIGS – découpage communal,Port-Margot,Nord,19.74999,-72.46833
+Mairie de Port-Salut,,Administration locale,Mairie (commune),HT0721,commune,CNIGS – découpage communal,Port-Salut,Sud,18.11172,-73.89851
+Mairie de Quartier Morin,,Administration locale,Mairie (commune),HT0312,commune,CNIGS – découpage communal,Quartier Morin,Nord,19.67621,-72.16661
+Mairie de Ranquitte,,Administration locale,Mairie (commune),HT0343,commune,CNIGS – découpage communal,Ranquitte,Nord,19.40294,-72.06002
+Mairie de Roche à Bâteau,,Administration locale,Mairie (commune),HT0743,commune,CNIGS – découpage communal,Roche à Bâteau,Sud,18.19609,-73.96862
+Mairie de Roseaux,,Administration locale,Mairie (commune),HT0832,commune,CNIGS – découpage communal,Roseaux,Grande'Anse,18.50231,-74.06311
+Mairie de Saint-Louis du Nord,,Administration locale,Mairie (commune),HT0921,commune,CNIGS – découpage communal,Saint-Louis du Nord,Nord-Ouest,19.87625,-72.70462
+Mairie de Saint-Marc,,Administration locale,Mairie (commune),HT0531,commune,CNIGS – découpage communal,Saint-Marc,Artibonite,19.10389,-72.6287
+Mairie de Saint-Michel de l'Attalaye,,Administration locale,Mairie (commune),HT0551,commune,CNIGS – découpage communal,Saint-Michel de l'Attalaye,Artibonite,19.3487,-72.36167
+Mairie de Saint-Raphaël,,Administration locale,Mairie (commune),HT0341,commune,CNIGS – découpage communal,Saint-Raphaël,Nord,19.39517,-72.18174
+Mairie de Saint Jean du Sud,,Administration locale,Mairie (commune),HT0722,commune,CNIGS – découpage communal,Saint Jean du Sud,Sud,18.07065,-73.8446
+Mairie de Saint Louis du Sud,,Administration locale,Mairie (commune),HT0732,commune,CNIGS – découpage communal,Saint Louis du Sud,Sud,18.27704,-73.52407
+Mairie de Sainte Suzanne,,Administration locale,Mairie (commune),HT0432,commune,CNIGS – découpage communal,Sainte Suzanne,Nord-Est,19.53408,-72.06144
+Mairie de Saut d'Eau,,Administration locale,Mairie (commune),HT0622,commune,CNIGS – découpage communal,Saut d'Eau,Centre,18.8259,-72.242
+Mairie de Savanette,,Administration locale,Mairie (commune),HT0633,commune,CNIGS – découpage communal,Savanette,Centre,18.74034,-71.84491
+Mairie de Tabarre,,Administration locale,Mairie (commune),HT0118,commune,CNIGS – découpage communal,Tabarre,Ouest,18.57184,-72.26691
+Mairie de Terre Neuve,,Administration locale,Mairie (commune),HT0522,commune,CNIGS – découpage communal,Terre Neuve,Artibonite,19.62174,-72.79906
+Mairie de Terrier Rouge,,Administration locale,Mairie (commune),HT0433,commune,CNIGS – découpage communal,Terrier Rouge,Nord-Est,19.62683,-71.94395
+Mairie de Thiotte,,Administration locale,Mairie (commune),HT0233,commune,CNIGS – découpage communal,Thiotte,Sud-Est,18.20927,-71.8703
+Mairie de Thomassique,,Administration locale,Mairie (commune),HT0642,commune,CNIGS – découpage communal,Thomassique,Centre,19.08296,-71.8265
+Mairie de Thomazeau,,Administration locale,Mairie (commune),HT0132,commune,CNIGS – découpage communal,Thomazeau,Ouest,18.66742,-72.14609
+Mairie de Thomonde,,Administration locale,Mairie (commune),HT0613,commune,CNIGS – découpage communal,Thomonde,Centre,19.00011,-71.9848
+Mairie de Tiburon,,Administration locale,Mairie (commune),HT0753,commune,CNIGS – découpage communal,Tiburon,Sud,18.33974,-74.3163
+Mairie de Torbeck,,Administration locale,Mairie (commune),HT0712,commune,CNIGS – découpage communal,Torbeck,Sud,18.24286,-73.86826
+Mairie de Trou du Nord,,Administration locale,Mairie (commune),HT0431,commune,CNIGS – découpage communal,Trou du Nord,Nord-Est,19.5825,-72.01274
+Mairie de Vallières,,Administration locale,Mairie (commune),HT0441,commune,CNIGS – découpage communal,Vallières,Nord-Est,19.44235,-71.94737
+Mairie de Verrettes,,Administration locale,Mairie (commune),HT0532,commune,CNIGS – découpage communal,Verrettes,Artibonite,19.03683,-72.50235
+Délégation départementale – Artibonite,,Administration de l'État,Délégation / chef-lieu,HT0511,commune,CNIGS,Gonaïves,Artibonite,19.49342,-72.68419
+Délégation départementale – Centre,,Administration de l'État,Délégation / chef-lieu,HT0611,commune,CNIGS,Hinche,Centre,19.16524,-71.97527
+Délégation départementale – Grande'Anse,,Administration de l'État,Délégation / chef-lieu,HT0811,commune,CNIGS,Jérémie,Grande'Anse,18.53322,-74.15576
+Délégation départementale – Nippes,,Administration de l'État,Délégation / chef-lieu,HT1011,commune,CNIGS,Miragoâne,Nippes,18.34029,-73.05262
+Délégation départementale – Nord,,Administration de l'État,Délégation / chef-lieu,HT0311,commune,CNIGS,Cap-Haïtien,Nord,19.74965,-72.22864
+Délégation départementale – Nord-Est,,Administration de l'État,Délégation / chef-lieu,HT0411,commune,CNIGS,Fort-Liberté,Nord-Est,19.56682,-71.84912
+Délégation départementale – Nord-Ouest,,Administration de l'État,Délégation / chef-lieu,HT0911,commune,CNIGS,Port-de-Paix,Nord-Ouest,19.83938,-72.9497
+Délégation départementale – Sud,,Administration de l'État,Délégation / chef-lieu,HT0711,commune,CNIGS,Les Cayes,Sud,18.25881,-73.76624
+Délégation départementale – Sud-Est,,Administration de l'État,Délégation / chef-lieu,HT0211,commune,CNIGS,Jacmel,Sud-Est,18.28729,-72.5531
+Délégation départementale – Ouest,,Administration de l'État,Délégation / chef-lieu,HT0111,commune,CNIGS,Port-au-Prince,Ouest,18.53053,-72.33546
