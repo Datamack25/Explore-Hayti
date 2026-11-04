@@ -2,7 +2,7 @@
 
 Usage :
     python scripts/update_all.py            # complet (hebdomadaire)
-    python scripts/update_all.py --rapide   # actualités + HDX seulement (toutes les 6 h)
+    python scripts/update_all.py --rapide   # actualités + HDX + presse électorale (toutes les 6 h)
     python scripts/update_all.py --sans-osm
 Appelé par le bouton « Mettre à jour » de l'application et par l'action GitHub planifiée.
 """
@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from scripts import update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
+from scripts import update_elections, update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
 
 
 def main(sans_osm: bool = False, rapide: bool = False) -> None:
@@ -23,6 +23,11 @@ def main(sans_osm: bool = False, rapide: bool = False) -> None:
     print("== HDX (IPC, catalogue) ==")
     update_hdx.maj_ipc()
     update_hdx.catalogue()
+    print("== Élections (presse, candidats, listes de sanctions) ==")
+    try:
+        update_elections.main(sans_sanctions=rapide)
+    except Exception as e:  # une source en échec ne bloque pas le reste
+        print(f"  ! élections : {e}")
     if rapide:
         print("Mode rapide terminé.")
         return
