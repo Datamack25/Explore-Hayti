@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from scripts import update_elections, update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
+from scripts import update_elections, update_popularite, update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
 
 
 def main(sans_osm: bool = False, rapide: bool = False) -> None:
@@ -28,6 +28,12 @@ def main(sans_osm: bool = False, rapide: bool = False) -> None:
         update_elections.main(sans_sanctions=rapide)
     except Exception as e:  # une source en échec ne bloque pas le reste
         print(f"  ! élections : {e}")
+    if not rapide:
+        print("== Élections : popularité en ligne (GDELT, Wikipédia, réseaux) ==")
+        try:
+            update_popularite.main()
+        except Exception as e:
+            print(f"  ! popularité : {e}")
     if rapide:
         print("Mode rapide terminé.")
         return

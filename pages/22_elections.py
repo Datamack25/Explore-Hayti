@@ -14,6 +14,7 @@ from src import data as D
 from src import elections as E
 from src import elections_export as X
 from src import elections_ml as ML
+from src import popularite as POP
 from src.charts import choropleth
 from src.ui import BLEU_HAITI, ROUGE_HAITI, SERIES, analyse_box, entete, kpis, note, pied, setup
 from src.utils import ROOT
@@ -39,8 +40,8 @@ c = c.merge(integ[["id", "total", "niveau"]].rename(columns={"total": "score_ris
 jours = (E.DATE_PREMIER_TOUR - date.today()).days
 URL_COL = st.column_config.LinkColumn
 
-(t_bord, t_cand, t_fiche, t_prog, t_integ, t_org, t_hist, t_250, t_ml, t_exp) = st.tabs([
-    "🗳️ Tableau de bord", "👥 Candidats", "🪪 Fiche candidat", "📋 Programmes & faisabilité", "⚖️ Intégrité & sanctions",
+(t_bord, t_cand, t_fiche, t_prog, t_integ, t_pop, t_org, t_hist, t_250, t_ml, t_exp) = st.tabs([
+    "🗳️ Tableau de bord", "👥 Candidats", "🪪 Fiche candidat", "📋 Programmes & faisabilité", "⚖️ Intégrité & sanctions", "📈 Popularité",
     "🏛️ Organismes", "📊 Historique des élections", "🕰️ 250 ans", "🤖 Machine learning", "📤 Exports & mise à jour"])
 
 # ======================================================================= 1. TABLEAU DE BORD
@@ -329,6 +330,104 @@ with t_integ:
         "**Transparence** (10) : pas de site internet identifié +5 · pas de programme publié +5.",
         "Seuils : < 20 faible · 20-39 modéré · 40-59 élevé · ≥ 60 très élevé. Le score n'est pas un verdict de culpabilité.",
     ])
+
+# ======================================================================= 5 bis. POPULARITÉ
+with t_pop:
+    st.markdown("#### 📈 Popularité en ligne et probabilité d'être élu")
+    note("Indice calculé à partir de <b>ce qui se dit en ligne</b> : presse (60 j), médias mondiaux GDELT (90 j), consultations "
+         "Wikipédia (30 j), Reddit, Bluesky et YouTube (si une clé <code>YOUTUBE_API_KEY</code> est fournie). Facebook, X, TikTok "
+         "et WhatsApp, très utilisés en Haïti, n'ont pas d'API publique gratuite. La probabilité vient d'une <b>simulation de 10 000 "
+         "scrutins à deux tours</b> (élu au 1er tour si > 50 % ou 25 points d'avance).")
+    pc1, pc2 = st.columns([1, 2])
+    avec_presse = pc2.toggle("Relancer aussi la veille de presse électorale", value=True, key="pop_presse")
+    if pc1.button("🔄 Mettre à jour la popularité", type="primary", key="pop_maj"):
+        cmd = [sys.executable, str(ROOT / "scripts" / "update_popularite.py")] + (["--avec-presse"] if avec_presse else [])
+        with st.status("Collecte des signaux (≈ 3 à 5 min : GDELT limite à une requête toutes les 5 s)…", expanded=True) as stt:
+            p_ = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=1500)
+            st.code(((p_.stdout or "") + (p_.stderr or ""))[-4000:], language="text")
+            stt.update(label="Mise à jour terminée" if p_.returncode == 0 else "Terminée avec erreurs",
+                       state="complete" if p_.returncode == 0 else "error")
+        E.vider_cache()
+        D.vider_cache()
+        st.rerun()
+    sig = POP.charger_signaux()
+    if not POP.a_des_donnees(sig):
+        st.info("Aucun signal collecté pour l'instant : cliquez sur « 🔄 Mettre à jour la popularité ». Les probabilités "
+                "s'afficheront ensuite (et leur évolution à chaque mise à jour).")
+    else:
+        with st.expander("⚙️ Réglages du modèle (pondérations et incertitude)"):
+            cols = st.columns(3)
+            poids = {k: cols[i % 3].slider(v[0], 0.0, 1.0, v[1], 0.05, key=f"pw_{k}") for i, (k, v) in enumerate(POP.SIGNAUX.items())}
+            q1, q2 = st.columns(2)
+            temp = q1.slider("Contraste entre candidats (température)", 0.2, 2.0, 0.6, 0.1,
+                             help="Plus la valeur est basse, plus l'écart de popularité se traduit en écart de voix.")
+            conc = q2.slider("Certitude du modèle", 5, 200, 40, 5,
+                             help="Plus la valeur est basse, plus les résultats simulés sont dispersés (prudence).")
+        idx = POP.indice(sig, poids)
+        sim = POP.simuler(idx, temp, conc)
+        top = sim.iloc[0]
+        kpis([{"lab": "En tête de la simulation", "val": top.nom, "sub": f"{top.proba_elu:.0f} % de chances d'être élu", "style": "accent"},
+              {"lab": "Victoire dès le 1er tour", "val": f"{sim.proba_victoire_1er_tour.sum():.0f} %", "sub": "tous candidats confondus"},
+              {"lab": "Signaux collectés", "val": f"{int(sig[['presse_60j', 'gdelt_90j', 'social_30j']].sum().sum()):,}".replace(",", " "),
+               "sub": "articles et publications"},
+              {"lab": "Pages Wikipédia vues", "val": f"{int(sig.wiki_30j.sum()):,}".replace(",", " "), "sub": "30 derniers jours"}])
+        fig = go.Figure()
+        s_ = sim.sort_values("proba_elu")
+        fig.add_trace(go.Bar(y=s_.nom, x=s_.proba_elu, orientation="h", name="Probabilité d'être élu (%)", marker_color=BLEU_HAITI,
+                             text=s_.proba_elu.map(lambda v: f"{v:.0f} %"), textposition="outside"))
+        fig.add_trace(go.Bar(y=s_.nom, x=s_.proba_qualif_2e_tour, orientation="h", name="Probabilité d'aller au 2e tour (%)",
+                             marker_color=SERIES[1], opacity=0.55))
+        fig.update_layout(height=640, barmode="group", title="Probabilités issues de la popularité en ligne (10 000 simulations)",
+                          xaxis=dict(range=[0, 105], title="%"), hovermode="y unified", legend_title_text="")
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(sim[["nom", "sigle", "indice_100", "part_1er_tour", "part_bas", "part_haut", "proba_qualif_2e_tour", "proba_elu",
+                          "presse_60j", "gdelt_90j", "wiki_30j", "social_30j", "tonalite", "dynamique"]],
+                     hide_index=True, width="stretch",
+                     column_config={"nom": "Candidat", "sigle": "Parti",
+                                    "indice_100": st.column_config.ProgressColumn("Indice /100", min_value=0, max_value=100, format="%d"),
+                                    "part_1er_tour": st.column_config.NumberColumn("Part 1er tour (%)", format="%.1f"),
+                                    "part_bas": st.column_config.NumberColumn("bas (P10)", format="%.1f"),
+                                    "part_haut": st.column_config.NumberColumn("haut (P90)", format="%.1f"),
+                                    "proba_qualif_2e_tour": st.column_config.NumberColumn("2e tour (%)", format="%.0f"),
+                                    "proba_elu": st.column_config.NumberColumn("Élu (%)", format="%.1f"),
+                                    "presse_60j": "Presse", "gdelt_90j": "GDELT", "wiki_30j": "Wikipédia", "social_30j": "Réseaux",
+                                    "tonalite": st.column_config.NumberColumn("Tonalité", format="%+.2f"),
+                                    "dynamique": st.column_config.NumberColumn("Dynamique ×", format="%.1f")})
+        st.markdown("##### 🧠 Pourquoi ce candidat est-il populaire ?")
+        choix_p = st.selectbox("Candidat à analyser", sim.nom.tolist(), key="pop_cand")
+        rp_ = idx[idx.nom == choix_p].iloc[0]
+        ex = POP.expliquer(rp_, idx, presse)
+        a, b = st.columns([3, 2])
+        with a:
+            analyse_box(f"Analyse automatique — {choix_p}", ex["texte"])
+        with b:
+            cc_ = pd.DataFrame({"Signal": [POP.SIGNAUX[k][0] for k in POP.SIGNAUX],
+                                "Contribution": [rp_[f"contrib_{k}"] for k in POP.SIGNAUX]}).sort_values("Contribution")
+            fig = go.Figure(go.Bar(x=cc_.Contribution, y=cc_.Signal, orientation="h",
+                                   marker_color=[SERIES[2] if v >= 0 else SERIES[7] for v in cc_.Contribution]))
+            fig.update_layout(height=320, title="Moteurs de l'indice (écart à la moyenne)", hovermode="closest", yaxis_title=None)
+            st.plotly_chart(fig, width="stretch")
+        if len(ex["articles"]):
+            with st.expander(f"Les {min(15, len(ex['articles']))} articles les plus récents qui le citent"):
+                for x in ex["articles"].head(15).itertuples():
+                    st.markdown(f"- {str(x.date)[:10]} · *{x.source}* — [{x.titre}]({x.lien}) <span class='ay-badge'>{x.tonalite}</span>",
+                                unsafe_allow_html=True)
+        if POP.F_HISTO.exists():
+            h = pd.read_csv(POP.F_HISTO)
+            if h.date.nunique() >= 2:
+                fig = px.line(h, x="date", y="proba_elu", color="nom", markers=True, color_discrete_sequence=SERIES,
+                              labels={"proba_elu": "Probabilité d'être élu (%)", "date": "", "nom": ""})
+                fig.update_layout(height=420, title="Évolution à chaque mise à jour (réglages par défaut)")
+                st.plotly_chart(fig, width="stretch")
+            else:
+                st.caption("La courbe d'évolution apparaîtra après la deuxième mise à jour.")
+        st.download_button("⬇️ Télécharger les probabilités (CSV)", sim.drop(columns=[c_ for c_ in sim.columns if c_.startswith(("z_", "contrib_"))])
+                           .to_csv(index=False).encode("utf-8-sig"), f"popularite_{date.today():%Y%m%d}.csv", "text/csv", on_click="ignore")
+    note("<b>À lire avant d'interpréter.</b> Ce n'est pas un sondage : aucun sondage d'intentions de vote n'est publié à ce jour. "
+         "La notoriété en ligne mesure qu'on parle d'un candidat, pas qu'on vote pour lui : une controverse ou des sanctions "
+         "augmentent la visibilité. Environ 4 Haïtiens sur 10 utilisent Internet, la diaspora est sur-représentée en ligne et son vote "
+         "n'est pas organisé, et les campagnes de terrain (radio, réseaux locaux, partis) échappent à ces mesures. Les "
+         "probabilités sont donc un <b>indicateur de visibilité relative</b>, à recouper avec les sondages dès leur parution.", "warn")
 
 # ======================================================================= 6. ORGANISMES
 with t_org:
