@@ -26,6 +26,9 @@ navigation = st.navigation({
         P("06_humanitaire.py", "Humanitaire", "🆘"),
         P("19_diaspora.py", "Diaspora", "🌍"),
     ],
+    "Politique & élections": [
+        P("22_elections.py", "Élections 2026-2027", "🗳️"),
+    ],
     "Économie & richesses": [
         P("04_economie.py", "Économie & finances", "📈"),
         P("10_richesses_et_ressources.py", "Richesses & ressources", "💎"),

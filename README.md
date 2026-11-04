@@ -30,6 +30,7 @@ Toutes les tables sont reliées par les **P-codes officiels du CNIGS** (HT01 →
 | 🍲 Gastronomie | 17 spécialités (soup joumou UNESCO, griot, djon djon, pikliz, kremas, Barbancourt…) avec liens recettes |
 | 📜 Histoire & solidarité | Grandes dates et carte des peuples qu'Haïti a aidés (Bolívar, Miranda, Grèce, Savannah…) |
 | 🌍 Diaspora | Carte mondiale par pays et par ville, métiers aux États-Unis, transferts |
+| 🗳️ Élections 2026-2027 | 10 sous-onglets : tableau de bord (compte à rebours, chronologie, carte d'ancrage), 18 candidats filtrables et comparables, **fiche candidat interactive** (parcours, résidence, sanctions, éligibilité art. 135, presse, export PDF/PNG/HTML), **faisabilité des programmes /100** + analyseur de texte + note experte, **intégrité & sanctions** (score type LCB-FT/PPE, filtrage OFAC/ONU/Canada), organismes, historique des scrutins 1807-2027, **250 ans** de chefs d'État et évolution du pays, machine learning, rapport complet PDF/HTML/PNG, bouton de mise à jour |
 | 🔐 Administration | Espace protégé : modifier toutes les données, ajouter images/vidéos/liens, importer des CSV, lancer les mises à jour |
 
 ## Installation locale
@@ -62,6 +63,7 @@ python scripts/update_world_bank.py --tous   # les ~600 indicateurs Banque mondi
 | `update_osm.py` | OpenStreetMap / Overpass : écoles, universités, hôpitaux, cliniques, pharmacies, police, tribunaux, mairies, banques, bibliothèques, marchés… rattachés à leur commune | `data/live/osm_institutions.csv` |
 | `update_hdx.py` | HDX/OCHA : dernière analyse IPC + catalogue des jeux de données Haïti | `data/live/ipc_live.csv`, `hdx_catalogue_haiti.csv` |
 | `update_news.py` | 22 sources : médias haïtiens (Le Nouvelliste, Haïti Libre, Juno7, AyiboPost, AlterPresse, Rezo Nòdwès…), diaspora (Haitian Times…), Google Actualités (« Haïti », « Ayiti », « Hayti » + tourisme, culture, économie, sport), ReliefWeb. Chaque article reçoit un **thème** et une **tonalité** | `data/live/actualites.csv` |
+| `update_elections.py` | Google Actualités + médias haïtiens (presse électorale, mentions par candidat), listes OFAC SDN / ONU / Canada LMES (filtrage des noms), sites des candidats (programmes) | `data/live/elections_actualites.csv`, `elections_mentions.csv`, `elections_screening.csv`, `elections_programmes_textes.csv` |
 | `update_routes.py` | OpenStreetMap : autoroutes, nationales, départementales, aéroports, ports, gares routières | `data/live/routes_osm.geojson`, `transports_osm.csv` |
 
 - **Dans l'application** : page 🔄 → « Mettre à jour maintenant ».
@@ -77,6 +79,20 @@ environnement, diaspora, agriculture, sécurité, humanitaire, société) et cal
 à partir de listes de mots en français, anglais et créole. Par défaut, la plateforme **affiche d'abord les nouvelles
 positives et les thèmes valorisants**, sans cacher le reste (interrupteur « Regard positif d'abord »). Les listes de mots
 sont modifiables dans ce fichier ; une source s'ajoute par une ligne dans `data/curated/sources_actualites.csv`.
+
+## Module Élections : données et méthode
+
+- Données vérifiées (modifiables dans 🔐 Administration) : `data/curated/elections_candidats.csv`, `elections_sanctions.csv`,
+  `elections_organismes.csv`, `elections_calendrier.csv`, `elections_historique.csv`, `elections_resultats_detail.csv`,
+  `elections_chefs_etat.csv` (1801-2026), `elections_250_ans.csv`, `elections_criteres_faisabilite.csv`, `elections_programmes.csv`.
+- **Date du scrutin** : constantes `DATE_PREMIER_TOUR` / `DATE_SECOND_TOUR` dans `src/elections.py` (calendrier CEP du 28/10/2026).
+  La mise à jour signale dans le journal tout article évoquant un nouveau calendrier.
+- **Score d'intégrité (0-100)** : sanctions (ONU 40, États-Unis 25, UE 20, Canada 15 ; plafond 50) + procédures (30) + exposition
+  politique (10) + transparence (10). Signaux publics, pas un verdict de culpabilité.
+- **Faisabilité (/100)** : 8 critères pondérés (sécurité 20, financement 20, précision 15, gouvernance 15, économie 10, social 10,
+  calendrier 5, territoires 5), mesures chiffrées, financement explicite, pénalité pour promesses irréalistes. Un programme est noté
+  dès qu'il est collé dans l'analyseur, saisi dans `elections_programmes.csv` ou publié sur le site renseigné du candidat.
+- Liste des candidats **provisoire** (presse, 25/10/2026) : à aligner sur la liste définitive du CEP dès sa publication.
 
 ## Ajouter vos propres données (ex. celles de Haïti Explorer)
 
