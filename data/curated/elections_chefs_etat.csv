@@ -1,0 +1,63 @@
+ordre,nom,titre,debut,fin,mode_accession,fin_categorie,destin,regime
+0,Toussaint Louverture,Gouverneur général de Saint-Domingue,1801-07-08,1802-06-07,Insurrection / conquête,Déporté ou exilé,Arrêté par l'expédition Leclerc et déporté ; mort au fort de Joux (France) en 1803,Colonie (avant l'indépendance)
+1,Jean-Jacques Dessalines,Gouverneur général puis empereur Jacques Ier,1804-01-01,1806-10-17,Indépendance,Mort violente,Assassiné au Pont-Rouge (Port-au-Prince),Empire
+2,Henri Christophe,Président puis roi Henri Ier (État du Nord),1807-02-17,1820-10-08,Désignation par une assemblée,Mort violente,Se donne la mort à Sans-Souci pendant une insurrection,Royaume (Nord)
+3,Alexandre Pétion,Président de la République (Sud et Ouest),1807-03-10,1818-03-29,Élection indirecte (Sénat),Mort en fonction,Meurt en fonction ; président à vie depuis 1816 ; a aidé Bolívar,République
+4,Jean-Pierre Boyer,Président de la République,1818-03-30,1843-03-13,Élection indirecte (Sénat),Renversé – exil,Renversé par la révolution de 1843 ; exil en Jamaïque puis à Paris ; a accepté la dette de 1825,République
+5,Charles Rivière-Hérard,Président,1843-03-13,1844-05-03,Insurrection / coup d'État,Renversé – exil,Renversé ; exil en Jamaïque,République
+6,Philippe Guerrier,Président,1844-05-03,1845-04-15,Désignation par les militaires,Mort en fonction,Meurt en fonction (très âgé),République
+7,Jean-Louis Pierrot,Président,1845-04-16,1846-03-01,Désignation par les militaires,Renversé – exil,Renversé par l'armée,République
+8,Jean-Baptiste Riché,Président,1846-03-01,1847-02-27,Désignation par les militaires,Mort en fonction,Meurt en fonction,République
+9,Faustin Soulouque,Président puis empereur Faustin Ier,1847-03-01,1859-01-15,Élection indirecte (Sénat),Renversé – exil,Renversé par Geffrard ; exil en Jamaïque,Empire
+10,Fabre Geffrard,Président,1859-01-15,1867-03-13,Insurrection / coup d'État,Renversé – exil,Renversé ; exil en Jamaïque ; signe le concordat de 1860,République
+11,Sylvain Salnave,Président,1867-05-04,1869-12-27,Insurrection / coup d'État,Mort violente,Renversé puis fusillé (janvier 1870),République
+12,Nissage Saget,Président,1870-03-19,1874-05-12,Élection indirecte (Assemblée),Fin de mandat,Premier président à achever son mandat constitutionnel,République
+13,Michel Domingue,Président,1874-06-11,1876-04-15,Élection indirecte (Assemblée),Renversé – exil,Renversé ; exil en Jamaïque,République
+14,Pierre Théoma Boisrond-Canal,Président,1876-07-17,1879-07-17,Élection indirecte (Assemblée),Démission – exil,Démissionne et s'exile,République
+15,Lysius Salomon,Président,1879-10-23,1888-08-10,Élection indirecte (Assemblée),Renversé – exil,Renversé ; meurt en exil à Paris ; crée la Banque nationale et l'adhésion à l'Union postale,République
+16,François Denys Légitime,Président,1888-12-16,1889-08-22,Élection indirecte (Assemblée),Renversé – exil,Renversé au terme d'une guerre civile,République
+17,Florvil Hyppolite,Président,1889-10-17,1896-03-24,Élection indirecte (Assemblée),Mort en fonction,Meurt en fonction ; a construit le Marché en Fer,République
+18,Tirésias Simon Sam,Président,1896-03-31,1902-05-12,Élection indirecte (Assemblée),Démission – exil,Démissionne et s'exile,République
+19,Pierre Nord Alexis,Président,1902-12-21,1908-12-02,Désignation par les militaires,Renversé – exil,Renversé ; exil en Jamaïque,République
+20,François C. Antoine Simon,Président,1908-12-17,1911-08-02,Désignation par les militaires,Renversé – exil,Renversé ; exil en Jamaïque,République
+21,Cincinnatus Leconte,Président,1911-08-15,1912-08-08,Insurrection / coup d'État,Mort violente,Meurt dans l'explosion du Palais national,République
+22,Tancrède Auguste,Président,1912-08-08,1913-05-02,Élection indirecte (Assemblée),Mort en fonction,Meurt en fonction (empoisonnement soupçonné),République
+23,Michel Oreste,Président,1913-05-04,1914-01-27,Élection indirecte (Assemblée),Renversé – exil,Renversé,République
+24,Oreste Zamor,Président,1914-02-08,1914-10-29,Insurrection / coup d'État,Renversé – exil,Renversé ; assassiné en prison en 1915,République
+25,Joseph Davilmar Théodore,Président,1914-11-07,1915-02-22,Insurrection / coup d'État,Renversé – exil,Renversé,République
+26,Vilbrun Guillaume Sam,Président,1915-03-04,1915-07-28,Insurrection / coup d'État,Mort violente,Lynché après le massacre de prisonniers ; débarquement américain le jour même,République
+27,Philippe Sudré Dartiguenave,Président,1915-08-12,1922-05-15,Élection indirecte (Assemblée) sous occupation,Fin de mandat,Élu sous l'occupation américaine (1915-1934),République sous occupation
+28,Louis Borno,Président,1922-05-15,1930-05-15,Élection indirecte (Conseil d'État) sous occupation,Fin de mandat,Gouverne avec l'occupant ; grèves de 1929,République sous occupation
+29,Louis Eugène Roy,Président provisoire,1930-05-15,1930-11-18,Désignation provisoire,Intérim achevé,Organise les élections législatives de 1930,République sous occupation
+30,Sténio Vincent,Président,1930-11-18,1941-05-15,Élection indirecte (Assemblée),Fin de mandat,Obtient le départ des troupes américaines (1934) ; massacre du Persil en 1937 sous son mandat,République
+31,Élie Lescot,Président,1941-05-15,1946-01-11,Élection indirecte (Assemblée),Renversé – exil,Renversé par la révolution étudiante de 1946,République
+32,Franck Lavaud (Comité exécutif militaire),Junte,1946-01-11,1946-08-16,Coup d'État militaire,Intérim achevé,Remet le pouvoir à Estimé,Junte militaire
+33,Dumarsais Estimé,Président,1946-08-16,1950-05-10,Élection indirecte (Assemblée),Renversé – exil,Renversé par l'armée ; exil à New York ; Exposition du bicentenaire de Port-au-Prince,République
+34,Franck Lavaud (Junte),Junte,1950-05-10,1950-12-06,Coup d'État militaire,Intérim achevé,Organise la première présidentielle au suffrage universel direct,Junte militaire
+35,Paul Eugène Magloire,Président,1950-12-06,1956-12-12,Suffrage universel direct,Démission – exil,Contraint à la démission ; exil,République
+36,Joseph Nemours Pierre-Louis,Président provisoire,1956-12-12,1957-02-03,Désignation provisoire,Démission – exil,Démissionne,République
+37,Franck Sylvain,Président provisoire,1957-02-07,1957-04-02,Désignation provisoire,Renversé – exil,Renversé,République
+38,Daniel Fignolé,Président provisoire,1957-05-25,1957-06-14,Désignation provisoire,Renversé – exil,Renversé après 19 jours ; exil à New York,République
+39,Antonio Thrasybule Kébreau,Junte,1957-06-14,1957-10-22,Coup d'État militaire,Intérim achevé,Organise l'élection de septembre 1957,Junte militaire
+40,François Duvalier,Président puis président à vie,1957-10-22,1971-04-21,Suffrage universel direct,Mort en fonction,Président à vie (1964) ; dictature et tontons macoutes ; meurt en fonction,Dictature
+41,Jean-Claude Duvalier,Président à vie,1971-04-22,1986-02-07,Succession héréditaire,Renversé – exil,Renversé par le soulèvement populaire ; exil en France ; retour en 2011 ; mort en 2014,Dictature
+42,Henri Namphy (CNG),Conseil national de gouvernement,1986-02-07,1988-02-07,Désignation par les militaires,Intérim achevé,Élections de nov. 1987 annulées après le massacre de la ruelle Vaillant,Junte militaire
+43,Leslie Manigat,Président,1988-02-07,1988-06-20,Suffrage universel direct,Renversé – exil,Élu lors d'un scrutin contesté ; renversé après 4 mois,République
+44,Henri Namphy,Président (militaire),1988-06-20,1988-09-17,Coup d'État militaire,Renversé – exil,Renversé par Prosper Avril,Junte militaire
+45,Prosper Avril,Président (militaire),1988-09-17,1990-03-10,Coup d'État militaire,Démission – exil,Démissionne sous la pression ; exil,Junte militaire
+46,Hérard Abraham,Président par intérim,1990-03-10,1990-03-13,Désignation provisoire,Intérim achevé,Transmet le pouvoir sous 72 heures,République
+47,Ertha Pascal-Trouillot,Présidente provisoire,1990-03-13,1991-02-07,Désignation provisoire,Intérim achevé,Première femme chef de l'État ; organise les élections de 1990,République
+48,Jean-Bertrand Aristide,Président,1991-02-07,1991-09-30,Suffrage universel direct,Renversé – exil,Renversé par le coup d'État de Raoul Cédras ; exil aux États-Unis,République
+49,Joseph Nérette,Président provisoire (de facto),1991-10-08,1992-06-19,Coup d'État militaire,Intérim achevé,Désigné sous le régime militaire,Junte militaire
+50,Émile Jonassaint,Président provisoire (de facto),1994-05-12,1994-10-12,Coup d'État militaire,Renversé – exil,Écarté lors de l'intervention internationale de 1994,Junte militaire
+51,Jean-Bertrand Aristide,Président (retour),1994-10-15,1996-02-07,Retour constitutionnel,Fin de mandat,Rétabli par l'intervention internationale ; dissout l'armée (1995),République
+52,René Préval,Président,1996-02-07,2001-02-07,Suffrage universel direct,Fin de mandat,Premier transfert pacifique entre deux présidents élus,République
+53,Jean-Bertrand Aristide,Président,2001-02-07,2004-02-29,Suffrage universel direct,Renversé – exil,Quitte le pays sous la pression d'une rébellion ; exil en Afrique du Sud ; retour en 2011,République
+54,Boniface Alexandre,Président provisoire,2004-02-29,2006-05-14,Désignation provisoire,Intérim achevé,Organise les élections de 2006 ; arrivée de la MINUSTAH,République
+55,René Préval,Président,2006-05-14,2011-05-14,Suffrage universel direct,Fin de mandat,Séisme de 2010 ; seul président à achever deux mandats ; mort en 2017,République
+56,Michel Martelly,Président,2011-05-14,2016-02-07,Suffrage universel direct,Fin de mandat,Part sans successeur élu ; sanctionné (Canada 2022 ; États-Unis 2024 ; UE 2025) ; candidat en 2026-2027,République
+57,Jocelerme Privert,Président provisoire,2016-02-14,2017-02-07,Désignation provisoire,Intérim achevé,Élu par l'Assemblée nationale ; organise les élections de 2016 ; candidat en 2026-2027,République
+58,Jovenel Moïse,Président,2017-02-07,2021-07-07,Suffrage universel direct,Mort violente,Assassiné dans sa résidence le 7 juillet 2021,République
+59,Ariel Henry,Premier ministre (exécutif de facto),2021-07-20,2024-04-25,Désignation provisoire,Démission – exil,Démissionne alors qu'il est bloqué hors du pays,Transition
+60,Conseil présidentiel de transition,Exécutif collégial,2024-04-25,2026-02-07,Accord politique,Intérim achevé,Mandat expiré le 7 février 2026,Transition
+61,Alix Didier Fils-Aimé,Premier ministre (exécutif unique),2026-02-07,,Accord politique,En fonction,Chargé de conduire le pays jusqu'aux élections,Transition
