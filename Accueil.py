@@ -16,6 +16,7 @@ navigation = st.navigation({
     "": [P("00_accueil.py", "Accueil", "🏠", defaut=True)],
     "Territoire & population": [
         P("01_carte_interactive.py", "Carte interactive", "🗺️"),
+        P("23_carte_avancee.py", "Carte avancée (satellite, relief, ressources)", "🛰️"),
         P("02_fiche_commune.py", "Fiche commune", "🏘️"),
         P("05_population.py", "Population & territoire", "👥"),
         P("12_iles.py", "Les îles", "🏝️"),
