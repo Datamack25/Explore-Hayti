@@ -12,6 +12,7 @@ Toutes les tables sont reliées par les **P-codes officiels du CNIGS** (HT01 →
 |---|---|
 | 🏠 Accueil (tableau de bord) | **Diaporama de photos** (fondu toutes les 6 s, photos de la rubrique « Accueil » ajoutables par l'administrateur) avec **date et heure en direct** (heure d'Haïti et du visiteur) ; **Carte d'Haïti** + **fil d'actualités** à droite (mis à jour toutes les 6 h, « regard positif d'abord »), **indice de développement multifactoriel** sous la carte, richesses, liens utiles |
 | 🗺️ Carte interactive | Choroplèthes par commune/département (9 indicateurs), carte Leaflet des localités et institutions |
+| 🛰️ Carte avancée | Fonds **rues / satellite** (+ routes et noms) / **relief & mornes** / topographie, **rivières et lacs**, sommets, massifs et plaines, mines et carrières OSM, **44 richesses et ressources** localisées et sourcées (mines, agriculture, pêche, énergie, parcs), recherche, mesure, export CSV |
 | 🏘️ Fiche commune | Profil des 140 communes : population, pyramide, sections, localités, écoles, institutions, analyse automatique, communes similaires (ML), export CSV/Markdown |
 | 🏫 Écoles, universités & institutions | Recherche globale filtrable sur tout le territoire, 4 122 écoles, 180 IES, santé, mairies, OpenStreetMap |
 | 📈 Économie & finances | 612 indicateurs Banque mondiale (1960 →), comparaison indexée, corrélations, chiffres FMI récents |
@@ -64,6 +65,7 @@ python scripts/update_world_bank.py --tous   # les ~600 indicateurs Banque mondi
 | `update_hdx.py` | HDX/OCHA : dernière analyse IPC + catalogue des jeux de données Haïti | `data/live/ipc_live.csv`, `hdx_catalogue_haiti.csv` |
 | `update_news.py` | 22 sources : médias haïtiens (Le Nouvelliste, Haïti Libre, Juno7, AyiboPost, AlterPresse, Rezo Nòdwès…), diaspora (Haitian Times…), Google Actualités (« Haïti », « Ayiti », « Hayti » + tourisme, culture, économie, sport), ReliefWeb. Chaque article reçoit un **thème** et une **tonalité** | `data/live/actualites.csv` |
 | `update_elections.py` | Google Actualités + médias haïtiens (presse électorale, mentions par candidat), listes OFAC SDN / ONU / Canada LMES (filtrage des noms), sites des candidats (programmes) | `data/live/elections_actualites.csv`, `elections_mentions.csv`, `elections_screening.csv`, `elections_programmes_textes.csv` |
+| `update_carte.py` | OpenStreetMap : rivières, lacs, sommets, mines et carrières (Carte avancée) | `data/live/osm_cache/*.json` |
 | `update_routes.py` | OpenStreetMap : autoroutes, nationales, départementales, aéroports, ports, gares routières | `data/live/routes_osm.geojson`, `transports_osm.csv` |
 
 - **Dans l'application** : page 🔄 → « Mettre à jour maintenant ».
@@ -128,7 +130,7 @@ ANTHROPIC_API_KEY = "sk-ant-..."
 
 ```
 Accueil.py                 point d'entrée : menu de navigation (titres et icônes des pages)
-pages/                     21 pages (noms de fichiers en ASCII pour éviter les caractères illisibles sous Windows)
+pages/                     24 pages (noms de fichiers en ASCII pour éviter les caractères illisibles sous Windows)
 src/  data.py              chargement + fusion base / données à jour (cache)
       ui.py                thème, CSS, cartes KPI HTML, palette validée
       charts.py            choroplèthes Plotly, cartes Leaflet, séries
@@ -138,6 +140,7 @@ src/  data.py              chargement + fusion base / données à jour (cache)
       assistant.py         assistant LLM optionnel
       veille.py            thème et tonalité des actualités
       developpement.py     indice composite de développement (6 dimensions)
+      carte_avancee.py     carte avancée (fonds, rivières, mornes, ressources sourcées)
       territoire.py        villes, îles, routes, transports, littoral, indice cadre de vie
       composants.py        fil d'actualités, cartes richesses, liens
       rapports.py          moteur PDF (fpdf2) et images (matplotlib)
