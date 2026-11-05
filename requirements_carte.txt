@@ -1,5 +1,0 @@
-folium>=0.17
-streamlit-folium>=0.22
-requests
-pandas
-streamlit
