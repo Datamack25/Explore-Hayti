@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from scripts import update_elections, update_popularite, update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
+from scripts import update_carte, update_elections, update_popularite, update_hdx, update_news, update_osm, update_routes, update_world_bank  # noqa: E402
 
 
 def main(sans_osm: bool = False, rapide: bool = False) -> None:
@@ -44,6 +44,8 @@ def main(sans_osm: bool = False, rapide: bool = False) -> None:
         update_osm.main()
         print("== OpenStreetMap (routes, aéroports, ports) ==")
         update_routes.main()
+        print("== OpenStreetMap (carte avancée : rivières, lacs, sommets, carrières) ==")
+        update_carte.main()
     print("Terminé.")
 
 
