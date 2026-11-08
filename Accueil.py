@@ -7,6 +7,8 @@ illisibles après décompression sous Windows ; les icônes et titres affichés 
 """
 import streamlit as st
 
+from utils.theme_fix import appliquer_contraste
+
 
 def P(fichier: str, titre: str, icone: str, defaut: bool = False) -> st.Page:
     return st.Page(f"pages/{fichier}", title=titre, icon=icone, default=defaut)
@@ -59,4 +61,9 @@ navigation = st.navigation({
         P("20_administration.py", "Administration", "🔐"),
     ],
 }, expanded=True)
+
+# Texte toujours lisible sur les blocs à fond clair (corrige le « blanc sur blanc »
+# en thème sombre). Appelé ici, il s'applique à toutes les pages du menu.
+appliquer_contraste()
+
 navigation.run()
