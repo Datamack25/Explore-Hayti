@@ -7,7 +7,7 @@ illisibles après décompression sous Windows ; les icônes et titres affichés 
 """
 import streamlit as st
 
-from utils.theme_fix import appliquer_contraste
+from src.theme_fix import appliquer_contraste
 
 
 def P(fichier: str, titre: str, icone: str, defaut: bool = False) -> st.Page:
