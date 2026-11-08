@@ -1,0 +1,36 @@
+sage_id,critere,mots_detection,recommandation,importance,portee
+S1,Emplois locaux chiffrés,emploi;emplois;himo;main-d'œuvre;main d'oeuvre;recrut,Chiffrer les emplois créés par département et réserver une part aux habitants des communes concernées.,3,general
+S1,Contenu local,local;locale;locaux;contenu local;endogène;production nationale;achat local,"Fixer un pourcentage minimal de contenu local (matériaux, services, alimentation) et le publier.",3,general
+S1,Effet sur les recettes,recettes;douane;taxe;fiscal,Estimer les recettes publiques supplémentaires et le délai de retour.,2,general
+S1,Commerce et prix,commerce;prix;marché;importations,Mesurer l'effet sur les prix des produits de base et sur les marchés locaux.,2,general
+S2,Producteurs et filières,agriculteur;producteur;filière;agricole;élevage;paysan,"Associer les producteurs des zones concernées comme fournisseurs (cantines, marchés) et préciser les filières.",3,general
+S2,Contrôle sanitaire et phytosanitaire,phytosanitaire;vétérinaire;sanitaire;marndr,Placer des agents du MARNDR (contrôle vétérinaire et phytosanitaire) aux points d'entrée.,2,frontiere
+S2,Environnement et forêts,forêt;reboisement;environnement;charbon;bois,Prévoir la protection des forêts et des bassins versants ; pas de bois non certifié.,2,general
+S2,Eau et irrigation,eau;irrigation;rivière,Vérifier l'accès à l'eau et l'effet sur les rivières.,1,general
+S3,Effectifs et chaîne de commandement,effectif;agents;commandement;pnh;fad'h,"Préciser effectifs, commandement unique et règles d'engagement.",3,general
+S3,Intégrité et rotation,vetting;intégrité;rotation;inspection;corruption,"Vetting, rotation des agents exposés et inspections inopinées.",3,general
+S3,Renseignement et armes,renseignement;armes;munitions;trafic,"Relier le dispositif au renseignement (armes, munitions) et à l'UCREF pour les flux financiers.",3,general
+S3,Logistique et protection des sites,logistique;véhicule;radio;protection;patrouille,"Plan logistique (carburant, radios, relève) et protection des sites contre les attaques.",2,general
+S4,Accord avec la République dominicaine,république dominicaine;rd;binational;vis-à-vis;bilatéral;commission mixte,Négocier chaque poste avec son vis-à-vis dominicain dans le cadre d'une commission mixte.,3,frontiere
+S4,Droits des personnes et migrants,migrants;rapatriés;droits;humanitaire;oim,"Prévoir l'accueil des rapatriés et le respect des droits (OIM, protection civile).",2,frontiere
+S4,Partenaires et financement extérieur,partenaires;bailleurs;coopération;caricom;onu,Identifier les partenaires techniques et les cofinancements possibles.,2,general
+S4,Diaspora et image internationale,diaspora;image;international;étranger,Associer la diaspora et présenter le plan aux partenaires étrangers pour en faire un projet national visible.,2,general
+S4,Effets sur les pays voisins,république dominicaine;voisin;régional;caricom;bahamas,"Évaluer les effets sur la République dominicaine et la région, et prévoir le dialogue nécessaire.",2,general
+S5,Calendrier et jalons,calendrier;année;jalon;phase;100 jours,"Fixer des jalons datés pour chaque action, avec un responsable nommé.",3,general
+S5,Indicateurs publics,indicateur;tableau de bord;suivi;cible,"Publier chaque trimestre des indicateurs de résultat simples, par département.",3,general
+S5,Projet pilote,pilote;expérimentation;test,Commencer par un pilote dans un ou deux départements avant d'étendre.,2,general
+S5,Cohérence territoriale,commune;département;section;route;piste,"Relier chaque action aux routes, marchés et services des communes concernées.",2,general
+S6,Coût total et incertitude,budget;coût;usd;millions,"Présenter un coût total avec fourchette (bas, médian, haut) et une réserve pour imprévus.",3,general
+S6,Sources de financement,financement;fonds;obligations;recettes;diaspora,"Identifier des ressources propres (recettes affectées, fonds audité) et ouvrir des obligations diaspora.",3,general
+S6,Audit et transparence,audit;cscca;transparence;publication,Audit annuel par la CSCCA et publication des comptes du fonds.,2,general
+S7,Interopérabilité,sydonia;asycuda;interopérab;api;x-road,"Relier les systèmes existants (SYDONIA, état civil, biométrie) par une couche d'échange de type X-Road.",3,general
+S7,Fonctionnement hors ligne,hors ligne;satellite;vsat;solaire;énergie,Garantir le fonctionnement hors ligne et l'énergie solaire des sites.,2,general
+S7,Protection des données,données personnelles;protection des données;cybersécurité;chiffr,Adopter une loi sur les données personnelles et chiffrer les bases biométriques.,3,general
+S8,Participation des habitants,comité;participation;habitants;casec;asec;konbit,"Créer un comité local par commune (mairie, CASEC, commerçants, femmes, jeunes) pour suivre le plan.",3,general
+S8,Petit commerce et madan sara,marché;commerçants;madan sara;petit commerce,"Protéger le petit commerce transfrontalier (souvent des femmes, les « madan sara ») avec un régime simplifié.",3,frontiere
+S8,Confiance et communication,communication;radio;confiance;sensibilisation,Expliquer le plan en créole sur les radios communautaires avant de le lancer.,2,general
+S9,Patrimoine et mémoire,patrimoine;histoire;mémoire;citadelle;1804,Valoriser l'histoire et les lieux de mémoire concernés dans la conception du projet.,1,general
+S9,Respect des coutumes et de la spiritualité,coutume;tradition;spiritualité;lieux sacrés;religion,"Recenser les lieux sacrés et les pratiques (pèlerinages, fêtes patronales) pour les respecter.",2,general
+S9,Fierté et identité,fierté;identité;créole;kreyòl;culture;gastronomie,"Faire du projet une vitrine : créole et français, produits locaux, accueil digne.",2,general
+S10,Responsable unique et redevabilité,responsable;redevabilité;autorité;pilotage,"Nommer une autorité unique de pilotage, redevable devant le Premier ministre et le Parlement.",3,general
+S10,Conditions de réussite explicites,condition;risque;garde-fou,Écrire les conditions de réussite et les signaux d'arrêt (quand corriger ou suspendre).,2,general

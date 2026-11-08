@@ -1,0 +1,23 @@
+nom,url,type,langue,origine,actif
+Le Nouvelliste,https://www.lenouvelliste.com/rss.xml,rss,fr,Haïti,1
+Haïti Libre,https://www.haitilibre.com/rss-flash.php,rss,fr,Haïti,1
+Haïti Libre (EN),https://www.haitilibre.com/rss-flash-en.php,rss,en,Haïti,1
+Ici Haïti,https://www.icihaiti.com/rss-flash.php,rss,fr,Haïti,1
+Juno7,https://www.juno7.ht/feed/,rss,fr,Haïti,1
+Haiti24,https://haiti24.net/feed/,rss,fr,Haïti,1
+Le Quotidien 509,https://lequotidien509.com/feed/,rss,fr,Haïti,1
+Rezo Nòdwès,https://rezonodwes.com/?feed=rss2,rss,fr,Haïti,1
+AyiboPost,https://ayibopost.com/feed/,rss,fr,Haïti,1
+AlterPresse,https://www.alterpresse.org/spip.php?page=backend,rss,fr,Haïti,1
+The Haitian Times,https://haitiantimes.com/feed/,rss,en,Diaspora,1
+Haïti Liberté,https://haitiliberte.com/feed/,rss,fr,Diaspora,1
+Google Actualités – Haïti,https://news.google.com/rss/search?q=Ha%C3%AFti&hl=fr&gl=FR&ceid=FR:fr,rss,fr,International,1
+Google Actualités – Ayiti,https://news.google.com/rss/search?q=Ayiti&hl=fr&gl=FR&ceid=FR:fr,rss,ht,International,1
+Google Actualités – Hayti,https://news.google.com/rss/search?q=Hayti&hl=en-US&gl=US&ceid=US:en,rss,en,International,1
+Google Actualités – Haiti (EN),https://news.google.com/rss/search?q=Haiti&hl=en-US&gl=US&ceid=US:en,rss,en,International,1
+Google Actualités – Haïti tourisme,https://news.google.com/rss/search?q=Ha%C3%AFti+OR+Ayiti+tourisme&hl=fr&gl=FR&ceid=FR:fr,rss,fr,International,1
+Google Actualités – Haïti culture,https://news.google.com/rss/search?q=Ha%C3%AFti+OR+Ayiti+culture+OR+artiste+OR+festival&hl=fr&gl=FR&ceid=FR:fr,rss,fr,International,1
+Google Actualités – Haïti économie,https://news.google.com/rss/search?q=Ha%C3%AFti+%C3%A9conomie+OR+investissement+OR+entreprise&hl=fr&gl=FR&ceid=FR:fr,rss,fr,International,1
+Google Actualités – Haiti success,https://news.google.com/rss/search?q=Haiti+OR+Hayti+award+OR+innovation+OR+success+OR+heritage&hl=en-US&gl=US&ceid=US:en,rss,en,International,1
+Google Actualités – Haïti sport,https://news.google.com/rss/search?q=Ha%C3%AFti+Grenadiers+OR+sport&hl=fr&gl=FR&ceid=FR:fr,rss,fr,International,1
+ReliefWeb – Haïti,https://reliefweb.int/updates/rss.xml?advanced-search=%28PC108%29,rss,en,International,1

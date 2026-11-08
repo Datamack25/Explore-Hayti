@@ -1,0 +1,971 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Haiti,HTI,2021,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,59.33236
+Haiti,HTI,2020,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,83.7559
+Haiti,HTI,2019,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,88.6311
+Haiti,HTI,2018,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,70.7779
+Haiti,HTI,2017,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,101.2242
+Haiti,HTI,2016,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,101.7922
+Haiti,HTI,2015,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,66.0303
+Haiti,HTI,2014,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,65.9232
+Haiti,HTI,2013,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,53.431
+Haiti,HTI,2012,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,46.3511
+Haiti,HTI,2011,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,80.9021
+Haiti,HTI,2010,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,99.896
+Haiti,HTI,2009,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,113.8107
+Haiti,HTI,2008,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,106.9468
+Haiti,HTI,2019,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,5.3
+Haiti,HTI,2018,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,3.5
+Haiti,HTI,2017,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.5
+Haiti,HTI,2016,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.6
+Haiti,HTI,2015,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.6
+Haiti,HTI,2014,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.1
+Haiti,HTI,2013,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.1
+Haiti,HTI,2012,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2011,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2010,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2009,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2008,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2007,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2006,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.7
+Haiti,HTI,2005,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.3
+Haiti,HTI,2004,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0.3
+Haiti,HTI,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,2
+Haiti,HTI,2019,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2018,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2017,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2016,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2015,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2014,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2013,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2012,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2011,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2010,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2009,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2008,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2007,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2006,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2005,Time to prepare and pay taxes (hours),IC.TAX.DURS,184
+Haiti,HTI,2019,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2018,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2017,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2016,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2015,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2014,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2013,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2012,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2011,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2010,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2009,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2008,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2007,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2006,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2005,Tax payments (number),IC.TAX.PAYM,47
+Haiti,HTI,2019,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,42.7
+Haiti,HTI,2018,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,42.7
+Haiti,HTI,2017,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,42.8
+Haiti,HTI,2016,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.3
+Haiti,HTI,2015,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.3
+Haiti,HTI,2014,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.3
+Haiti,HTI,2013,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.3
+Haiti,HTI,2012,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2011,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2010,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2009,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2008,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2007,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2006,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2005,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,40.4
+Haiti,HTI,2021,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2
+Haiti,HTI,2020,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2
+Haiti,HTI,2019,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2
+Haiti,HTI,2018,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,1.5
+Haiti,HTI,2017,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,1.5
+Haiti,HTI,2016,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2
+Haiti,HTI,2015,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2
+Haiti,HTI,2014,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2013,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2012,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2011,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2010,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2009,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2008,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2007,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2006,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2005,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ,2.5
+Haiti,HTI,2021,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2020,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2019,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2018,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2017,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,3
+Haiti,HTI,2016,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2015,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,3
+Haiti,HTI,2014,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2013,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2012,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2011,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2010,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2009,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2008,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2007,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2006,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2005,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ,2.5
+Haiti,HTI,2021,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3
+Haiti,HTI,2020,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3
+Haiti,HTI,2019,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3
+Haiti,HTI,2018,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3
+Haiti,HTI,2017,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.5
+Haiti,HTI,2016,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.33333
+Haiti,HTI,2015,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.5
+Haiti,HTI,2014,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.16667
+Haiti,HTI,2013,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.16666666666667
+Haiti,HTI,2012,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.33333333333333
+Haiti,HTI,2011,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.33333333333333
+Haiti,HTI,2010,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.33333333333333
+Haiti,HTI,2009,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.33333333333333
+Haiti,HTI,2008,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.2
+Haiti,HTI,2007,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.16666666666667
+Haiti,HTI,2006,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3.16666666666667
+Haiti,HTI,2005,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,3
+Haiti,HTI,2021,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2020,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2019,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2018,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2017,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2016,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2015,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2014,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2013,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2012,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2011,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2010,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2009,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2008,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2007,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2006,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2005,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,2.5
+Haiti,HTI,2021,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2
+Haiti,HTI,2020,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2
+Haiti,HTI,2019,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2
+Haiti,HTI,2018,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2017,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2016,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2015,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2014,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2013,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2012,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2011,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2010,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2009,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2008,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2007,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2006,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,3
+Haiti,HTI,2005,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ,2.5
+Haiti,HTI,2021,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2020,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2019,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2018,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2017,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2016,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2015,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2014,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2013,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2012,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2011,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2010,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2009,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2008,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2007,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2006,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2005,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,3
+Haiti,HTI,2021,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2020,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2019,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2018,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2017,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2016,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2015,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2014,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2013,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2012,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2011,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2010,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2009,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2008,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2007,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2006,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3.5
+Haiti,HTI,2005,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ,3
+Haiti,HTI,2021,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2020,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2019,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2018,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2017,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2016,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,2.5
+Haiti,HTI,2015,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2014,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2013,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2012,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2011,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2010,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2009,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2008,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2007,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2006,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2005,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,3
+Haiti,HTI,2021,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3
+Haiti,HTI,2020,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3.5
+Haiti,HTI,2019,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3.5
+Haiti,HTI,2018,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3.5
+Haiti,HTI,2017,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3
+Haiti,HTI,2016,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3
+Haiti,HTI,2015,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3
+Haiti,HTI,2014,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,3
+Haiti,HTI,2013,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2012,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2011,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2010,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2009,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2008,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2007,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2006,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2005,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ,2.5
+Haiti,HTI,2021,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.625
+Haiti,HTI,2020,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.7
+Haiti,HTI,2019,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.766667
+Haiti,HTI,2018,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.775
+Haiti,HTI,2017,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.875
+Haiti,HTI,2016,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.875
+Haiti,HTI,2015,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.9
+Haiti,HTI,2014,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.85834
+Haiti,HTI,2013,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.83333333333333
+Haiti,HTI,2012,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.9
+Haiti,HTI,2011,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.9
+Haiti,HTI,2010,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.925
+Haiti,HTI,2009,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.925
+Haiti,HTI,2008,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.9
+Haiti,HTI,2007,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.85833333333333
+Haiti,HTI,2006,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.85833333333333
+Haiti,HTI,2005,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ,2.76666666666667
+Haiti,HTI,2021,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2020,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2019,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2018,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2017,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2016,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2015,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2014,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2013,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2012,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2011,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2010,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2009,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,4
+Haiti,HTI,2008,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2007,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2006,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2005,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,3.5
+Haiti,HTI,2021,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2
+Haiti,HTI,2020,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2019,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2018,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2017,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2016,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2015,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2014,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2013,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2012,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2011,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2010,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2009,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2008,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2007,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2006,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2005,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ,2.5
+Haiti,HTI,2021,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,2.5
+Haiti,HTI,2020,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,2.5
+Haiti,HTI,2019,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,2.5
+Haiti,HTI,2018,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,2.5
+Haiti,HTI,2017,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2016,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2015,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2014,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2013,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2012,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2011,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2010,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2009,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2008,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2007,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2006,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,3
+Haiti,HTI,2005,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ,2.5
+Haiti,HTI,2021,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2020,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2019,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2018,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2017,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2016,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2015,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2014,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2013,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2012,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2011,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2010,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2009,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2008,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2007,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2006,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2005,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,2
+Haiti,HTI,2021,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2020,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2019,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2018,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2017,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2016,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2015,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2014,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2013,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2012,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2011,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2
+Haiti,HTI,2010,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2009,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2008,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2007,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2006,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2005,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,2.5
+Haiti,HTI,2021,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2
+Haiti,HTI,2020,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+Haiti,HTI,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.3
+Haiti,HTI,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+Haiti,HTI,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+Haiti,HTI,2011,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+Haiti,HTI,2010,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+Haiti,HTI,2009,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+Haiti,HTI,2008,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2007,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2006,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+Haiti,HTI,2005,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.3
+Haiti,HTI,2021,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2020,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2019,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2018,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2017,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2016,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2015,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2014,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2013,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2012,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2011,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2010,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2009,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2008,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2007,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2006,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2005,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ,2.5
+Haiti,HTI,2021,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.5
+Haiti,HTI,2020,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2019,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2018,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2017,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2016,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2015,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2014,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2013,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2012,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2011,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2010,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2009,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2008,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2007,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2006,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.7
+Haiti,HTI,2005,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,2.6
+Haiti,HTI,2021,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3
+Haiti,HTI,2020,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3
+Haiti,HTI,2019,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.166667
+Haiti,HTI,2018,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3
+Haiti,HTI,2017,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3
+Haiti,HTI,2016,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16667
+Haiti,HTI,2015,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3
+Haiti,HTI,2014,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16667
+Haiti,HTI,2013,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2012,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2011,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2010,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2009,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2008,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.2
+Haiti,HTI,2007,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2006,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2005,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ,3.16666666666667
+Haiti,HTI,2021,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2020,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2019,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4.5
+Haiti,HTI,2018,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4.5
+Haiti,HTI,2017,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4.5
+Haiti,HTI,2016,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4.5
+Haiti,HTI,2015,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2014,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2013,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2012,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2011,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2010,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2009,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2008,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2007,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2006,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2005,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ,4
+Haiti,HTI,2021,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,1.5
+Haiti,HTI,2020,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2
+Haiti,HTI,2019,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2018,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2017,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2016,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2015,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2014,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2013,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2012,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2011,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2010,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2009,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2.5
+Haiti,HTI,2008,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2
+Haiti,HTI,2007,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2
+Haiti,HTI,2006,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2
+Haiti,HTI,2005,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ,2
+Haiti,HTI,2020,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,40
+Haiti,HTI,2019,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2018,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2017,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2016,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2015,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2014,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2013,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2012,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2011,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2010,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2009,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2008,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+Haiti,HTI,2007,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2006,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2005,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2004,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,20
+Haiti,HTI,2020,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,53.3333333333333
+Haiti,HTI,2019,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,46.6666666666667
+Haiti,HTI,2018,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,50
+Haiti,HTI,2017,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,36.6666666666667
+Haiti,HTI,2016,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,38.8889
+Haiti,HTI,2015,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,47.7778
+Haiti,HTI,2014,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,47.7777777777778
+Haiti,HTI,2013,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,41.1111111111111
+Haiti,HTI,2012,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,38.8888888888889
+Haiti,HTI,2011,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,42.2222222222222
+Haiti,HTI,2010,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,42.2222222222222
+Haiti,HTI,2009,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,40
+Haiti,HTI,2008,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,41.1111111111111
+Haiti,HTI,2007,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,38.8888888888889
+Haiti,HTI,2006,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,38.8888888888889
+Haiti,HTI,2005,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,38.8888888888889
+Haiti,HTI,2004,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,37.7777777777778
+Haiti,HTI,2020,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,70
+Haiti,HTI,2019,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,70
+Haiti,HTI,2018,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,70
+Haiti,HTI,2017,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,70
+Haiti,HTI,2016,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.6667
+Haiti,HTI,2015,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,63.3334
+Haiti,HTI,2014,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,63.3333333333333
+Haiti,HTI,2013,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,63.3333333333333
+Haiti,HTI,2012,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2011,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2010,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2009,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,60
+Haiti,HTI,2008,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,63.33333
+Haiti,HTI,2007,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2006,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2005,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.66667
+Haiti,HTI,2004,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,63.33333
+Haiti,HTI,2020,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+Haiti,HTI,2019,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+Haiti,HTI,2018,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+Haiti,HTI,2017,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,20
+Haiti,HTI,2016,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2015,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+Haiti,HTI,2014,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+Haiti,HTI,2013,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2012,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,20
+Haiti,HTI,2011,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2010,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2009,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2008,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2007,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2006,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2005,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2004,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,30
+Haiti,HTI,2019,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,37.51625
+Haiti,HTI,2018,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,44.9125
+Haiti,HTI,2017,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,38.335
+Haiti,HTI,2016,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,36.1866666666667
+Haiti,HTI,2019,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,80
+Haiti,HTI,2018,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,80
+Haiti,HTI,2017,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,80
+Haiti,HTI,2016,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,90
+Haiti,HTI,2015,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,70
+Haiti,HTI,2014,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,50
+Haiti,HTI,2013,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,50
+Haiti,HTI,2012,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,50
+Haiti,HTI,2011,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,30
+Haiti,HTI,2010,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,30
+Haiti,HTI,2009,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2008,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2007,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2006,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2005,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2004,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,20
+Haiti,HTI,2019,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,19.6666666666667
+Haiti,HTI,2018,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,53
+Haiti,HTI,2017,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,20.8
+Haiti,HTI,2016,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,1.73333333333333
+Haiti,HTI,2019,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,51.23125
+Haiti,HTI,2018,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,50.7125
+Haiti,HTI,2017,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,50.025
+Haiti,HTI,2016,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,50
+Haiti,HTI,2015,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,48.25
+Haiti,HTI,2014,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,47.55625
+Haiti,HTI,2013,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,48.1125
+Haiti,HTI,2012,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,48.25
+Haiti,HTI,2011,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,36.83125
+Haiti,HTI,2010,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,40.325
+Haiti,HTI,2009,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,44.20625
+Haiti,HTI,2008,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,44.20625
+Haiti,HTI,2007,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,44.375
+Haiti,HTI,2006,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,43.75
+Haiti,HTI,2005,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,39.7125
+Haiti,HTI,2019,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,16.6833333333333
+Haiti,HTI,2018,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,20.85
+Haiti,HTI,2017,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,20.85
+Haiti,HTI,2016,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,19.2
+Haiti,HTI,2019,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,20
+Haiti,HTI,2018,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,20
+Haiti,HTI,2017,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,20
+Haiti,HTI,2016,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,20
+Haiti,HTI,1985,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,10000000
+Haiti,HTI,1983,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+Haiti,HTI,1982,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,4000000
+Haiti,HTI,1981,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+Haiti,HTI,1978,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,9000000
+Haiti,HTI,1977,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,0
+Haiti,HTI,1976,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1000000
+Haiti,HTI,1975,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1000000
+Haiti,HTI,1974,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,4000000
+Haiti,HTI,1973,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+Haiti,HTI,1969,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,8000000
+Haiti,HTI,1964,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1000000
+Haiti,HTI,1960,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,6000000
+Haiti,HTI,2019,"Armed forces personnel, total",MS.MIL.TOTL.P1,1000
+Haiti,HTI,2018,"Armed forces personnel, total",MS.MIL.TOTL.P1,500
+Haiti,HTI,2017,"Armed forces personnel, total",MS.MIL.TOTL.P1,0
+Haiti,HTI,2016,"Armed forces personnel, total",MS.MIL.TOTL.P1,200
+Haiti,HTI,2015,"Armed forces personnel, total",MS.MIL.TOTL.P1,120
+Haiti,HTI,2014,"Armed forces personnel, total",MS.MIL.TOTL.P1,120
+Haiti,HTI,2013,"Armed forces personnel, total",MS.MIL.TOTL.P1,120
+Haiti,HTI,2012,"Armed forces personnel, total",MS.MIL.TOTL.P1,50
+Haiti,HTI,2011,"Armed forces personnel, total",MS.MIL.TOTL.P1,50
+Haiti,HTI,2010,"Armed forces personnel, total",MS.MIL.TOTL.P1,0
+Haiti,HTI,2006,"Armed forces personnel, total",MS.MIL.TOTL.P1,5400
+Haiti,HTI,2003,"Armed forces personnel, total",MS.MIL.TOTL.P1,5300
+Haiti,HTI,2002,"Armed forces personnel, total",MS.MIL.TOTL.P1,5300
+Haiti,HTI,2001,"Armed forces personnel, total",MS.MIL.TOTL.P1,8300
+Haiti,HTI,2000,"Armed forces personnel, total",MS.MIL.TOTL.P1,5300
+Haiti,HTI,1999,"Armed forces personnel, total",MS.MIL.TOTL.P1,5300
+Haiti,HTI,1998,"Armed forces personnel, total",MS.MIL.TOTL.P1,5300
+Haiti,HTI,1997,"Armed forces personnel, total",MS.MIL.TOTL.P1,5500
+Haiti,HTI,1996,"Armed forces personnel, total",MS.MIL.TOTL.P1,7000
+Haiti,HTI,1995,"Armed forces personnel, total",MS.MIL.TOTL.P1,7000
+Haiti,HTI,1993,"Armed forces personnel, total",MS.MIL.TOTL.P1,8000
+Haiti,HTI,1992,"Armed forces personnel, total",MS.MIL.TOTL.P1,8000
+Haiti,HTI,1991,"Armed forces personnel, total",MS.MIL.TOTL.P1,8000
+Haiti,HTI,1990,"Armed forces personnel, total",MS.MIL.TOTL.P1,8000
+Haiti,HTI,1989,"Armed forces personnel, total",MS.MIL.TOTL.P1,9000
+Haiti,HTI,1985,"Armed forces personnel, total",MS.MIL.TOTL.P1,6900
+Haiti,HTI,2019,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.0202811330095518
+Haiti,HTI,2018,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.0103029797247662
+Haiti,HTI,2017,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0
+Haiti,HTI,2016,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.00427902311613868
+Haiti,HTI,2015,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.00261824370394209
+Haiti,HTI,2014,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.00267129810395713
+Haiti,HTI,2013,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.00272922226035552
+Haiti,HTI,2012,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.0011620907406934
+Haiti,HTI,2011,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.00118608625930929
+Haiti,HTI,2010,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0
+Haiti,HTI,2006,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.145644186935932
+Haiti,HTI,2003,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.155771709212427
+Haiti,HTI,2002,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.160205837296161
+Haiti,HTI,2001,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.25797692629506
+Haiti,HTI,2000,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.169359428319261
+Haiti,HTI,1999,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.172204895232816
+Haiti,HTI,1998,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.175036955915787
+Haiti,HTI,1997,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.184581349363496
+Haiti,HTI,1996,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.238663972718662
+Haiti,HTI,1995,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.24234727880358
+Haiti,HTI,1993,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.286107888423646
+Haiti,HTI,1992,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.290549021430896
+Haiti,HTI,1991,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.294874237980465
+Haiti,HTI,1990,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.299056476815647
+Haiti,HTI,2021,Military expenditure (current USD),MS.MIL.XPND.CD,20912067.4049325
+Haiti,HTI,2020,Military expenditure (current USD),MS.MIL.XPND.CD,26380884.7832535
+Haiti,HTI,2019,Military expenditure (current USD),MS.MIL.XPND.CD,11301748.9484171
+Haiti,HTI,2018,Military expenditure (current USD),MS.MIL.XPND.CD,13968388.1629034
+Haiti,HTI,2017,Military expenditure (current USD),MS.MIL.XPND.CD,7361349.24622762
+Haiti,HTI,2016,Military expenditure (current USD),MS.MIL.XPND.CD,6451431.6605567
+Haiti,HTI,2015,Military expenditure (current USD),MS.MIL.XPND.CD,7356229.68921463
+Haiti,HTI,2014,Military expenditure (current USD),MS.MIL.XPND.CD,5351159.50974341
+Haiti,HTI,2013,Military expenditure (current USD),MS.MIL.XPND.CD,5159584.74833651
+Haiti,HTI,2012,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2011,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2010,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2009,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2008,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2007,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2006,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2005,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2004,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2003,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2002,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2001,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,2000,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,1999,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,1998,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,1997,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,1996,Military expenditure (current USD),MS.MIL.XPND.CD,0
+Haiti,HTI,1995,Military expenditure (current USD),MS.MIL.XPND.CD,2478871.18870659
+Haiti,HTI,1994,Military expenditure (current USD),MS.MIL.XPND.CD,1599966.75531915
+Haiti,HTI,1993,Military expenditure (current USD),MS.MIL.XPND.CD,1649639.30590758
+Haiti,HTI,1992,Military expenditure (current USD),MS.MIL.XPND.CD,1743605.93653939
+Haiti,HTI,1991,Military expenditure (current USD),MS.MIL.XPND.CD,2623227.38669941
+Haiti,HTI,1990,Military expenditure (current USD),MS.MIL.XPND.CD,2670400
+Haiti,HTI,1989,Military expenditure (current USD),MS.MIL.XPND.CD,2231550
+Haiti,HTI,1988,Military expenditure (current USD),MS.MIL.XPND.CD,1972400
+Haiti,HTI,2021,Military expenditure (current LCU),MS.MIL.XPND.CN,1871400000
+Haiti,HTI,2020,Military expenditure (current LCU),MS.MIL.XPND.CN,2490250000
+Haiti,HTI,2019,Military expenditure (current LCU),MS.MIL.XPND.CN,1021000000
+Haiti,HTI,2018,Military expenditure (current LCU),MS.MIL.XPND.CN,948250000
+Haiti,HTI,2017,Military expenditure (current LCU),MS.MIL.XPND.CN,486250000
+Haiti,HTI,2016,Military expenditure (current LCU),MS.MIL.XPND.CN,407250000
+Haiti,HTI,2015,Military expenditure (current LCU),MS.MIL.XPND.CN,376000000
+Haiti,HTI,2014,Military expenditure (current LCU),MS.MIL.XPND.CN,242750000
+Haiti,HTI,2013,Military expenditure (current LCU),MS.MIL.XPND.CN,224250000
+Haiti,HTI,2012,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2011,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2010,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2009,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2008,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2007,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2006,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2005,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2004,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2003,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2002,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2001,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,2000,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,1999,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,1998,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,1997,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,1996,Military expenditure (current LCU),MS.MIL.XPND.CN,0
+Haiti,HTI,1995,Military expenditure (current LCU),MS.MIL.XPND.CN,37455000
+Haiti,HTI,1994,Military expenditure (current LCU),MS.MIL.XPND.CN,24063500
+Haiti,HTI,1993,Military expenditure (current LCU),MS.MIL.XPND.CN,21152500
+Haiti,HTI,1992,Military expenditure (current LCU),MS.MIL.XPND.CN,17090250
+Haiti,HTI,1991,Military expenditure (current LCU),MS.MIL.XPND.CN,15829000
+Haiti,HTI,1990,Military expenditure (current LCU),MS.MIL.XPND.CN,13352000
+Haiti,HTI,1989,Military expenditure (current LCU),MS.MIL.XPND.CN,11157750
+Haiti,HTI,1988,Military expenditure (current LCU),MS.MIL.XPND.CN,9862000
+Haiti,HTI,2021,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.188540702112828
+Haiti,HTI,2020,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.28940747154155
+Haiti,HTI,2019,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.139421258396341
+Haiti,HTI,2018,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.150080164095032
+Haiti,HTI,2017,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.08810297312429
+Haiti,HTI,2016,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0846300591007706
+Haiti,HTI,2015,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0887537649535931
+Haiti,HTI,2014,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0619837348551585
+Haiti,HTI,2013,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0615197645102972
+Haiti,HTI,1995,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.106210123351765
+Haiti,HTI,1994,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0777847814843548
+Haiti,HTI,1993,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.106326027948125
+Haiti,HTI,1992,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.113783288948069
+Haiti,HTI,1991,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.111550387596899
+Haiti,HTI,1990,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.102173247627793
+Haiti,HTI,1989,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.0891194089456869
+Haiti,HTI,1988,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.088607367475292
+Haiti,HTI,2021,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,1.12320167093804
+Haiti,HTI,2020,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,1.76592183921088
+Haiti,HTI,2019,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.877539794409874
+Haiti,HTI,2018,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.790438878006085
+Haiti,HTI,2017,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.497758168864139
+Haiti,HTI,2016,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.45283711207232
+Haiti,HTI,2015,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.409519141752437
+Haiti,HTI,2014,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.2456262837831
+Haiti,HTI,2013,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,0.220036304763774
+Haiti,HTI,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.54237288135593
+Haiti,HTI,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.54237288135593
+Haiti,HTI,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.54237288135593
+Haiti,HTI,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,0
+Haiti,HTI,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.21052631578947
+Haiti,HTI,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.21052631578947
+Haiti,HTI,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.21052631578947
+Haiti,HTI,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.21052631578947
+Haiti,HTI,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.21052631578947
+Haiti,HTI,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.1111111111111
+Haiti,HTI,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.08163265306122
+Haiti,HTI,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.08163265306122
+Haiti,HTI,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.08163265306122
+Haiti,HTI,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.04081632653061
+Haiti,HTI,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,3.6144578313253
+Haiti,HTI,2004,Battle-related deaths (number of people),VC.BTL.DETH,207
+Haiti,HTI,1991,Battle-related deaths (number of people),VC.BTL.DETH,160
+Haiti,HTI,1989,Battle-related deaths (number of people),VC.BTL.DETH,48
+Haiti,HTI,2021,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,20000
+Haiti,HTI,2020,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,7900
+Haiti,HTI,2019,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,2100
+Haiti,HTI,2021,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,220000
+Haiti,HTI,2020,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,13000
+Haiti,HTI,2019,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,1200
+Haiti,HTI,2018,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,8800
+Haiti,HTI,2017,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,15000
+Haiti,HTI,2016,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,180000
+Haiti,HTI,2015,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,1500
+Haiti,HTI,2014,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,6500
+Haiti,HTI,2013,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,1100
+Haiti,HTI,2012,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,86000
+Haiti,HTI,2011,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,500
+Haiti,HTI,2010,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,1573000
+Haiti,HTI,2009,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,9900
+Haiti,HTI,2008,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,139000
+Haiti,HTI,2021,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,17000
+Haiti,HTI,2020,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,7900
+Haiti,HTI,2019,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,2100
+Haiti,HTI,2021,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.870221033285
+Haiti,HTI,2020,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.52593912344795
+Haiti,HTI,2018,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.04529309027025
+Haiti,HTI,2016,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.46439386559849
+Haiti,HTI,2015,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.67369068259218
+Haiti,HTI,2014,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.6411538800265
+Haiti,HTI,2013,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,1.35586720055552
+Haiti,HTI,2021,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,24.3440224627813
+Haiti,HTI,2020,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,21.2830693718346
+Haiti,HTI,2018,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,12.537204382787
+Haiti,HTI,2016,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,17.8412802857613
+Haiti,HTI,2015,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,18.7184263560018
+Haiti,HTI,2014,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,17.2836300727043
+Haiti,HTI,2013,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,19.0057445794646
+Haiti,HTI,2021,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,13.0071284130281
+Haiti,HTI,2020,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,11.320619717256
+Haiti,HTI,2018,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,6.74692694730795
+Haiti,HTI,2016,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,9.59505820900865
+Haiti,HTI,2015,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,10.1384384362495
+Haiti,HTI,2014,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,9.41154777705004
+Haiti,HTI,2013,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,10.1255154608532
+Haiti,HTI,2012,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,10.219083094006
+Haiti,HTI,2011,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,9.18195049542349
+Haiti,HTI,2010,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,6.87806820767905
+Haiti,HTI,2009,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,6.14553774097535
+Haiti,HTI,2008,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,5.20090995036943
+Haiti,HTI,2007,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,5.15878359067366
+Haiti,HTI,2020,Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,0.446564912796021
+Haiti,HTI,2018,Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,0.444787979125977
+Haiti,HTI,2017,Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,0.446
+Haiti,HTI,2020,"Human Capital Index (HCI), Female (scale 0-1)",HD.HCI.OVRL.FE,0.459646105766296
+Haiti,HTI,2018,"Human Capital Index (HCI), Female (scale 0-1)",HD.HCI.OVRL.FE,0.457954049110413
+Haiti,HTI,2017,"Human Capital Index (HCI), Female (scale 0-1)",HD.HCI.OVRL.FE,0.463
+Haiti,HTI,2020,"Human Capital Index (HCI), Lower Bound (scale 0-1)",HD.HCI.OVRL.LB,0.428226679563522
+Haiti,HTI,2018,"Human Capital Index (HCI), Lower Bound (scale 0-1)",HD.HCI.OVRL.LB,0.427301973104477
+Haiti,HTI,2017,"Human Capital Index (HCI), Lower Bound (scale 0-1)",HD.HCI.OVRL.LB,0.424
+Haiti,HTI,2020,"Human Capital Index (HCI), Female, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.FE,0.439743876457214
+Haiti,HTI,2018,"Human Capital Index (HCI), Female, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.FE,0.438600957393646
+Haiti,HTI,2017,"Human Capital Index (HCI), Female, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.FE,0.441
+Haiti,HTI,2020,"Human Capital Index (HCI), Male, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.MA,0.412864506244659
+Haiti,HTI,2018,"Human Capital Index (HCI), Male, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.MA,0.412083625793457
+Haiti,HTI,2017,"Human Capital Index (HCI), Male, Lower Bound (scale 0-1)",HD.HCI.OVRL.LB.MA,0.408
+Haiti,HTI,2020,"Human Capital Index (HCI), Male (scale 0-1)",HD.HCI.OVRL.MA,0.434230864048004
+Haiti,HTI,2018,"Human Capital Index (HCI), Male (scale 0-1)",HD.HCI.OVRL.MA,0.432505011558533
+Haiti,HTI,2017,"Human Capital Index (HCI), Male (scale 0-1)",HD.HCI.OVRL.MA,0.432
+Haiti,HTI,2020,"Human Capital Index (HCI), Upper Bound (scale 0-1)",HD.HCI.OVRL.UB,0.46255362033844
+Haiti,HTI,2018,"Human Capital Index (HCI), Upper Bound (scale 0-1)",HD.HCI.OVRL.UB,0.460350602865219
+Haiti,HTI,2017,"Human Capital Index (HCI), Upper Bound (scale 0-1)",HD.HCI.OVRL.UB,0.465
+Haiti,HTI,2020,"Human Capital Index (HCI), Female, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.FE,0.47663351893425
+Haiti,HTI,2018,"Human Capital Index (HCI), Female, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.FE,0.474497318267822
+Haiti,HTI,2017,"Human Capital Index (HCI), Female, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.FE,0.482
+Haiti,HTI,2020,"Human Capital Index (HCI), Male, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.MA,0.453380197286606
+Haiti,HTI,2018,"Human Capital Index (HCI), Male, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.MA,0.451116234064102
+Haiti,HTI,2017,"Human Capital Index (HCI), Male, Upper Bound (scale 0-1)",HD.HCI.OVRL.UB.MA,0.451
+Haiti,HTI,2022,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2021,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2020,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2019,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2018,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2017,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2016,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2015,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2014,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2013,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2012,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2011,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2010,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2009,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2008,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2007,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2006,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2005,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2004,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2003,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2002,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2001,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,2000,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1999,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1998,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1997,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1996,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1995,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1994,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1993,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1992,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1991,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1990,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1989,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1988,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1987,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1986,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1985,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1984,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,1
+Haiti,HTI,1983,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1982,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1981,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1980,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1979,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1978,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1977,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1976,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1975,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1974,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1973,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1972,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1971,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,1970,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+Haiti,HTI,2022,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2021,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2020,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2019,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2018,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2017,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2016,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2015,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2014,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2013,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2012,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2011,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2010,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2009,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2008,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2007,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2006,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2005,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2004,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2003,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2002,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2001,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,2000,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1999,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1998,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1997,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1996,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1995,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1994,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1993,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1992,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1991,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1990,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1989,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1988,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1987,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1986,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1985,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1984,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+Haiti,HTI,1983,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1982,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1981,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1980,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1979,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1978,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1977,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1976,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1975,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1974,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1973,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1972,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1971,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,1970,The law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+Haiti,HTI,2022,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2021,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+Haiti,HTI,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0

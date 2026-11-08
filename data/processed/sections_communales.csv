@@ -1,0 +1,577 @@
+adm3_pcode,section_communale,adm2_pcode,commune,adm1_pcode,departement,superficie_km2,nb_localites
+HT0131-10,10e Section des Orangers,HT0131,Croix-Des-Bouquets,HT01,Ouest,107.7681732177734,11
+HT0122-10,10e Section des Palmes,HT0122,Petit-Goâve,HT01,Ouest,20.36297988891602,3
+HT0121-10,10e Section Fond d'Oie,HT0121,Léogâne,HT01,Ouest,35.88952255249023,9
+HT0731-10,10e Section Guirand,HT0731,Aquin,HT07,Sud,41.65303421020508,11
+HT0211-10,10e Section La Vanneau,HT0211,Jacmel,HT02,Sud-Est,36.31623458862305,18
+HT0113-10,10e Section Thor,HT0113,Carrefour,HT01,Ouest,12.24333000183105,15
+HT0121-11,11e Section Gros Morne,HT0121,Léogâne,HT01,Ouest,28.37006378173828,8
+HT0211-11,11e Section La Montagne,HT0211,Jacmel,HT02,Sud-Est,67.54904174804688,32
+HT0122-11,11e Section Ravine Sèche,HT0122,Petit-Goâve,HT01,Ouest,38.56062316894531,13
+HT0113-11,11e Section Rivière Froide,HT0113,Carrefour,HT01,Ouest,20.42425918579102,10
+HT0121-12,12e Section Cormiers,HT0121,Léogâne,HT01,Ouest,24.30887031555176,16
+HT0122-12,12e Section des Fourques,HT0122,Petit-Goâve,HT01,Ouest,36.40650177001953,18
+HT0113-12,12e Section Malanga,HT0113,Carrefour,HT01,Ouest,21.68902206420898,9
+HT0113-13,13e Section Corail Thor,HT0113,Carrefour,HT01,Ouest,5.602827072143555,2
+HT0121-13,13e Section Petit Harpon,HT0121,Léogâne,HT01,Ouest,19.36474418640137,9
+HT1013-01,1er Section Bouzi,HT1013,Fonds des Nègres,HT10,Nippes,20.90853691101074,7
+HT0641-01,1re Section Acaj ou Brûle No 1,HT0641,Cerca La Source,HT06,Centre,151.1444702148438,36
+HT0814-01,1re Section Anote ou 1re Tapion,HT0814,Moron,HT08,Grande'Anse,21.98792266845703,16
+HT0812-01,1re Section Anse du Clerc,HT0812,Abricots,HT08,Grande'Anse,18.26069641113281,8
+HT0343-01,1re Section Bac à Soude,HT0343,Ranquitte,HT03,Nord,25.9280948638916,2
+HT1024-01,1re Section Baconnois-Barreau,HT1024,Arnaud,HT10,Nippes,34.20989608764648,5
+HT1021-01,1re Section Baconnois-Grand-Fond,HT1021,Anse-à-Veau,HT10,Nippes,28.61407279968262,4
+HT0231-01,1re Section Bais d'Orange,HT0231,Belle Anse,HT02,Sud-Est,67.6729736328125,20
+HT0372-01,1re Section Ballon,HT0372,Pilate,HT03,Nord,22.41428565979004,1
+HT0311-01,1re Section Bande du Nord,HT0311,Cap-Haïtien,HT03,Nord,20.91187858581543,3
+HT0721-01,1re Section Barbois,HT0721,Port-Salut,HT07,Sud,44.22368240356445,33
+HT0822-01,1re Section Bariadelle,HT0822,Dame Marie,HT08,Grande'Anse,23.54052543640137,11
+HT0211-01,1re Section Bas Cap Rouge,HT0211,Jacmel,HT02,Sud-Est,74.22631072998047,39
+HT0542-01,1re Section Bas Coursin I,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,47.75704193115234,25
+HT0922-01,1re Section Bas de Sainte Anne,HT0922,Anse-à-Foleur,HT09,Nord-Ouest,26.26813125610352,0
+HT0412-01,1re Section Bas Maribahoux,HT0412,Ferrier,HT04,Nord-Est,68.2970962524414,26
+HT0312-01,1re Section Basse Plaine,HT0312,Quartier Morin,HT03,Nord,27.40245056152344,17
+HT0313-01,1re Section Basse Plaine,HT0313,Limonade,HT03,Nord,57.51858139038086,20
+HT0811-01,1re Section Basse Voldrogue,HT0811,Jérémie,HT08,Grande'Anse,31.87247467041016,12
+HT0911-01,1re Section Baudin,HT0911,Port-de-Paix,HT09,Nord-Ouest,16.30891036987305,1
+HT0743-01,1re Section Beaulieu,HT0743,Roche à Bâteau,HT07,Sud,27.39825248718262,14
+HT0833-01,"1re Section Beaumont_x000D_
+1re  Section Beaumont_x000D_
+",HT0833,Beaumont,HT08,Grande'Anse,94.50072479248047,16
+HT0834-01,1re Section Bernagousse,HT0834,Pestel,HT08,Grande'Anse,36.21069717407227,14
+HT0122-01,1re Section Bino,HT0122,Petit-Goâve,HT01,Ouest,43.91745758056641,13
+HT0753-01,1re Section Blactote,HT0753,Tiburon,HT07,Sud,30.14888191223145,17
+HT0733-01,1re Section Boileau,HT0733,Cavaillon,HT07,Sud,57.15488052368164,1
+HT0442-01,1re Section Bois Camelle,HT0442,Carice,HT04,Nord-Est,23.44093132019043,1
+HT0341-01,1re Section Bois Neuf,HT0341,Saint-Raphaël,HT03,Nord,31.70557594299316,2
+HT0332-01,1re Section Bois Pin,HT0332,Bahon,HT03,Nord,28.33613967895508,0
+HT0234-01,1re Section Boucan Guillaume,HT0234,Anse-à-Pître,HT02,Sud-Est,127.1670684814453,2
+HT0521-01,1re Section Boucan Richard,HT0521,Gros Morne,HT05,Artibonite,32.336181640625,1
+HT0141-01,1re Section Boucassin,HT0141,Arcahaie,HT01,Ouest,7.117684841156006,2
+HT0142-01,1re Section Boucassin,HT0142,Cabaret,HT01,Ouest,40.33516311645508,5
+HT0711-01,1re Section Bourdet,HT0711,Les Cayes,HT07,Sud,52.70913696289062,22
+HT0712-01,1re Section Boury,HT0712,Torbeck,HT07,Sud,42.49909973144531,29
+HT0221-01,1re Section Bresilienne,HT0221,Bainet,HT02,Sud-Est,41.58276748657227,18
+HT0342-01,1re Section Brostage,HT0342,Dondon,HT03,Nord,21.49181938171387,3
+HT0613-01,1re Section Cabral,HT0613,Thomonde,HT06,Centre,115.8583908081055,2
+HT0321-01,1re Section Camp-Louise,HT0321,Acul du Nord,HT03,Nord,25.9101676940918,1
+HT0622-01,1re Section Canot ou Rivière Canot,HT0622,Saut d'Eau,HT06,Centre,45.9970817565918,5
+HT0422-01,1re Section Capotille,HT0422,Capotille,HT04,Nord-Est,33.42203140258789,1
+HT0832-01,1re Section Carrefour Charles ou Jacqui,HT0832,Roseaux,HT08,Grande'Anse,49.10160064697266,21
+HT1011-01,1re Section Chalon,HT1011,Miragoâne,HT10,Nippes,50.72209167480469,13
+HT0434-01,1re Section Champin,HT0434,Caracol,HT04,Nord-Est,30.71324729919434,13
+HT0914-01,1re Section Chansolme,HT0914,Chamsolme,HT09,Nord-Ouest,26.37314414978027,1
+HT0932-01,1re Section Citerne Remy,HT0932,Baie de Henne,HT09,Nord-Ouest,55.70153427124023,6
+HT0232-01,1re Section Colline des Chênes ou Bodarie,HT0232,Grand Gosier,HT02,Sud-Est,79.70079803466797,19
+HT0741-01,1re Section Conde,HT0741,Côteaux,HT07,Sud,26.77767372131348,5
+HT0212-01,1re Section Corail Soult,HT0212,Marigot,HT02,Sud-Est,25.73613357543945,14
+HT0552-01,1re Section Crête à Pins,HT0552,Marmelade,HT05,Artibonite,44.25826644897461,1
+HT0931-01,1re Section de Cotes de Fer,HT0931,Môle Saint Nicolas,HT09,Nord-Ouest,165.4597778320312,9
+HT0544-01,1re Section de Desdunes,HT0544,Desdunes,HT05,Artibonite,100.2158813476562,7
+HT0352-01,1re Section de Grande Plaine,HT0352,Port-Margot,HT03,Nord,12.50006008148193,0
+HT0345-01,1re Section de la Victoire,HT0345,La Victoire,HT03,Nord,30.34685134887695,5
+HT0633-01,1re Section de Savanette (Colombier),HT0633,Savanette,HT06,Centre,52.3552360534668,9
+HT0815-01,1re Section Dejean,HT0815,Chambellan,HT08,Grande'Anse,28.45884132385254,17
+HT0531-01,1re Section Deluge,HT0531,Saint-Marc,HT05,Artibonite,50.88315582275391,2
+HT0117-02,1re Section des Varreux,HT0117,Cité Soleil,HT01,Ouest,5.085610866546631,4
+HT0131-01,1re Section des Varreux,HT0131,Croix-Des-Bouquets,HT01,Ouest,41.3795051574707,10
+HT0813-01,1re Section Desormeau ou Bonbon,HT0813,Bonbon,HT08,Grande'Anse,34.53255844116211,10
+HT0121-01,1re Section Dessources,HT0121,Léogâne,HT01,Ouest,40.48022842407227,17
+HT0522-01,1re Section Doland,HT0522,Terre Neuve,HT05,Artibonite,89.95790100097656,4
+HT0411-01,1re Section Dumas,HT0411,Fort-Liberté,HT04,Nord-Est,84.4358901977539,18
+HT0831-01,1re Section Duquillon,HT0831,Corail,HT08,Grande'Anse,50.0482177734375,17
+HT0433-01,1re Section Fond Blanc,HT0433,Terrier Rouge,HT04,Nord-Est,118.4419860839844,3
+HT1012-01,1re Section Fond des Lianes,HT1012,Petite Rivière de Nippes,HT10,Nippes,17.46086502075195,5
+HT0135-01,1re Section Fonds-Verrettes,HT0135,Fonds-Verrettes,HT01,Ouest,287.2723388671875,7
+HT0713-01,1re Section Fonds Palmiste,HT0713,Chantal,HT07,Sud,24.79416275024414,10
+HT0432-01,1re Section Foulon,HT0432,Sainte Suzanne,HT04,Nord-Est,14.96853828430176,1
+HT0133-01,1re Section Galette Chambon,HT0133,Ganthier,HT01,Ouest,28.26679801940918,12
+HT0431-01,1re Section Garcin,HT0431,Trou du Nord,HT04,Nord-Est,13.460280418396,2
+HT0362-01,1re Section Garde Champètre (Bas Limbe),HT0362,Bas Limbé,HT03,Nord,12.96887493133545,0
+HT0621-01,1re Section Gascogne,HT0621,Mirebalais,HT06,Centre,70.96684265136719,5
+HT1031-01,1re Section Gerin ou Mouton,HT1031,Baradères,HT10,Nippes,32.62496566772461,11
+HT0371-01,1re Section Gobert ou Colline Gobert,HT0371,Plaisance,HT03,Nord,12.92581844329834,0
+HT1032-01,1re Section Grand-Boucan,HT1032,Grand-Boucan,HT10,Nippes,31.21238327026367,7
+HT0732-01,1re Section Grand Fonds,HT0732,Saint Louis du Sud,HT07,Sud,18.35873222351074,1
+HT0331-01,1re Section Grand Gilles,HT0331,Grande Riviere Du Nord,HT03,Nord,19.51739692687988,0
+HT0132-01,1re Section Grande Plaine,HT0132,Thomazeau,HT01,Ouest,137.7975006103516,8
+HT0821-01,1re Section Grandoit,HT0821,Anse d'Hainault,HT08,Grande'Anse,13.17650604248047,12
+HT0222-01,1re Section Gris Gris,HT0222,Côtes de Fer,HT02,Sud-Est,67.26573181152344,7
+HT0413-01,1re Section Haut des Perches,HT0413,Perches,HT04,Nord-Est,15.97353172302246,0
+HT0361-01,1re Section Haut Limbe ou Acul Jeannot,HT0361,Limbé,HT03,Nord,23.95754623413086,0
+HT0421-01,1re Section Haut Maribahoux,HT0421,Ouanaminthe,HT04,Nord-Est,59.03192138671875,23
+HT0716-01,1re Section Île à Vache,HT0716,Île à Vache,HT07,Sud,45.68674850463867,7
+HT0611-01,1re Section Juanaria,HT0611,Hinche,HT06,Centre,179.5895385742188,36
+HT0523-01,1re Section l'Arbre,HT0523,Anse Rouge,HT05,Artibonite,275.0311889648438,6
+HT1023-03,1re Section l'Asile ou Nan Paul,HT1023,L'Asile,HT10,Nippes,55.12539291381836,24
+HT0513-01,1re Section La Croix Perisse,HT0513,L'Estère,HT05,Artibonite,55.17523574829102,3
+HT0913-01,1re Section La Plate,HT0913,Bassin Bleu,HT09,Nord-Ouest,56.9697151184082,4
+HT0152-02,1re Section la Source,HT0152,Pointe à Raquette,HT01,Ouest,68.81381225585938,6
+HT0214-01,1re Section La Vallee de Jacmel ou Muzac,HT0214,La Vallée,HT02,Sud-Est,37.5128059387207,21
+HT0934-01,1re Section Lacoma,HT0934,Jean Rabel,HT09,Nord-Ouest,136.299072265625,4
+HT0723-01,1re Section Lazarre,HT0723,Arniquet,HT07,Sud,7.959522247314453,3
+HT0714-01,1re Section Levy Mersan,HT0714,Camp-Perrin,HT07,Sud,26.91357231140137,14
+HT0532-01,1re Section Liancourt,HT0532,Verrettes,HT05,Artibonite,33.57442474365234,2
+HT0731-01,1re Section Macéan,HT0731,Aquin,HT07,Sud,84.17610931396484,2
+HT0715-01,1re Section Maniche,HT0715,Maniche,HT07,Sud,29.94650268554688,9
+HT0351-01,1re Section Margot,HT0351,Borgne,HT03,Nord,33.29286956787109,2
+HT0533-01,1re Section Martineau,HT0533,La Chapelle,HT05,Artibonite,82.26361846923828,4
+HT0823-01,1re Section Matador (Jorgue),HT0823,Les Irois,HT08,Grande'Anse,67.17003631591797,15
+HT0642-01,1re Section Matelgate,HT0642,Thomassique,HT06,Centre,116.4843139648438,14
+HT0114-01,1re Section Montagne Noire,HT0114,Pétion-Ville,HT01,Ouest,12.31467342376709,7
+HT0116-01,1re Section Morne à Bateau,HT0116,Gressier,HT01,Ouest,14.90554046630859,4
+HT0113-01,1re Section Morne Chandelle,HT0113,Carrefour,HT01,Ouest,4.319132804870605,0
+HT0322-01,1re Section Morne Rouge,HT0322,Plaine du Nord,HT03,Nord,42.49586486816406,8
+HT0115-01,1re Section Nouvelle Touraine,HT0115,Kenscoff,HT01,Ouest,42.93584442138672,5
+HT0151-01,1re Section Palma,HT0151,Anse à Galets,HT01,Ouest,61.61088562011719,18
+HT0742-01,1re Section Paricot,HT0742,Port-à-Piment,HT07,Sud,22.18910598754883,20
+HT0323-01,1re Section Perches-de-Bonnet,HT0323,Milot,HT03,Nord,27.9114933013916,0
+HT0631-01,1re Section Petit Fond,HT0631,Lascahobas,HT06,Centre,68.54313659667969,2
+HT0623-01,1re Section Petite Montagne,HT0623,Boucan Carré,HT06,Centre,93.11837768554688,0
+HT0134-01,"1re Section Plaine Céleste_x000D_
+1re  Section Plaine C",HT0134,Cornillon / Grand Bois,HT01,Ouest,57.60261917114258,1
+HT1025-01,1re Section Plaisance du Sud (ou ti François),HT1025,Plaisance du Sud,HT10,Nippes,23.80214500427246,8
+HT0551-01,1re Section Platana,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,77.60220336914062,0
+HT0933-01,1re Section Plate Forme,HT0933,Bombardopolis,HT09,Nord-Ouest,88.5217056274414,13
+HT0912-01,1re Section Pointe des Oiseaux,HT0912,La Tortue,HT09,Nord-Ouest,64.31722259521484,16
+HT0511-01,1re Section Pont Tamarin,HT0511,Gonaïves,HT05,Artibonite,92.74349212646484,15
+HT0543-01,1re Section Poteneau,HT0543,Grande Saline,HT05,Artibonite,50.68794250488281,7
+HT0751-01,1re Section Randel,HT0751,Chardonnières,HT07,Sud,51.62406539916992,8
+HT0614-01,1re Section Rang,HT0614,Cerca Carvajal,HT06,Centre,156.0804901123047,81
+HT0213-01,1re Section Ravine Normande,HT0213,Cayes-Jacmel,HT02,Sud-Est,15.755859375,10
+HT1022-01,1re Section Raymond,HT1022,Petit Trou de Nippes,HT10,Nippes,56.70445251464844,5
+HT0632-01,1re Section Renthe Mathe,HT0632,Belladère,HT06,Centre,132.1307830810547,5
+HT0921-01,1re Section Rivière des Nègres,HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,13.51964664459229,0
+HT1014-01,1re Section Salagnac,HT1014,Paillant,HT10,Nippes,37.31212997436523,12
+HT0443-01,1re Section Sans Souci,HT0443,Mombin Crochu,HT04,Nord-Est,69.4303970336914,1
+HT0512-01,1re Section Savane Carree,HT0512,Ennery,HT05,Artibonite,60.37238311767578,1
+HT0612-01,1re Section Savane Grande,HT0612,Maïssade,HT06,Centre,108.3321838378906,1
+HT0423-01,1re Section Savanette,HT0423,Mont-Organisé,HT04,Nord-Est,61.01709365844727,1
+HT0344-01,1re Section Savannette,HT0344,Pignon,HT03,Nord,60.91278839111328,2
+HT0112-01,1re Section St Martin,HT0112,Delmas,HT01,Ouest,26.03925895690918,21
+HT0722-01,1re Section Tapion,HT0722,Saint Jean du Sud,HT07,Sud,24.88058090209961,12
+HT0123-01,1re Section Tête-à-Boeuf,HT0123,Grand-Goâve,HT01,Ouest,44.30901336669922,14
+HT0233-01,1re Section Thiotte,HT0233,Thiotte,HT02,Sud-Est,52.02624130249023,17
+HT0441-01,1re Section Trois Palmistes,HT0441,Vallières,HT04,Nord-Est,81.54962158203125,1
+HT0111-01,1re Section Turgeau,HT0111,Port-au-Prince,HT01,Ouest,18.34628677368164,25
+HT0752-01,1re Section Verone,HT0752,Les Anglais,HT07,Sud,23.17399024963379,7
+HT0541-01,1re Section Villars,HT0541,Dessalines,HT05,Artibonite,37.93256759643555,14
+HT0641-02,2e Section Acaj ou Brûle No 1,HT0641,Cerca La Source,HT06,Centre,122.5285186767578,44
+HT0421-02,2e Section Acul des Pins,HT0421,Ouanaminthe,HT04,Nord-Est,42.71783447265625,2
+HT0723-02,2e Section Anse à Drick,HT0723,Arniquet,HT07,Sud,33.10935592651367,26
+HT1025-02,2e Section Anse aux Pins,HT1025,Plaisance du Sud,HT10,Nippes,37.81293106079102,12
+HT0114-02,2e Section Aux Cadets,HT0114,Pétion-Ville,HT01,Ouest,45.99740982055664,7
+HT0732-02,2e Section Baie Dumesle,HT0732,Saint Louis du Sud,HT07,Sud,28.80538177490234,1
+HT0332-02,2e Section Bailly ou Bailla,HT0332,Bahon,HT03,Nord,37.86489486694336,42
+HT0742-02,2e Section Balais,HT0742,Port-à-Piment,HT07,Sud,35.22661590576172,19
+HT0133-02,2e Section Balan,HT0133,Ganthier,HT01,Ouest,113.9402389526367,7
+HT0812-02,2e Section Balisiers,HT0812,Abricots,HT08,Grande'Anse,28.59970664978027,7
+HT1024-02,2e Section Baquet,HT1024,Arnaud,HT10,Nippes,18.74105072021484,5
+HT0542-02,2e Section Bas Coursin II,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,33.03086853027344,4
+HT0321-02,2e Section Bas de l'Acul (Basse Plaine),HT0321,Acul du Nord,HT03,Nord,36.18523406982422,2
+HT0413-02,2e Section Bas des Perches,HT0413,Perches,HT04,Nord-Est,24.42468643188477,1
+HT0352-02,2e Section Bas Petit Borgne,HT0352,Port-Margot,HT03,Nord,8.511099815368652,1
+HT0322-02,2e Section Basse Plaine,HT0322,Plaine du Nord,HT03,Nord,29.75119209289551,7
+HT0511-02,2e Section Bassin,HT0511,Gonaïves,HT05,Artibonite,186.6302337646484,2
+HT0342-02,2e Section Bassin Caïman,HT0342,Dondon,HT03,Nord,19.07941818237305,0
+HT0552-02,2e Section Bassin ou Billier,HT0552,Marmelade,HT05,Artibonite,36.08518981933594,1
+HT0372-02,2e Section Baudin,HT0372,Pilate,HT03,Nord,16.8475284576416,0
+HT0411-02,2e Section Bayaha,HT0411,Fort-Liberté,HT04,Nord-Est,62.49336242675781,14
+HT0823-02,2e Section Belair,HT0823,Les Irois,HT08,Grande'Anse,37.94130325317383,7
+HT0532-02,2e Section Belanger,HT0532,Verrettes,HT05,Artibonite,61.86819458007812,1
+HT1011-02,2e Section Belle Rivière,HT1011,Miragoâne,HT10,Nippes,50.46559906005859,11
+HT0731-02,2e Section Bellevue,HT0731,Aquin,HT07,Sud,39.85939788818359,1
+HT0712-02,2e Section Berault,HT0712,Torbeck,HT07,Sud,48.7322998046875,23
+HT1014-02,2e Section Bezin II,HT1014,Paillant,HT10,Nippes,28.62434768676758,6
+HT0432-02,2e Section Bois Blanc,HT0432,Sainte Suzanne,HT04,Nord-Est,12.71606254577637,0
+HT0234-02,2e Section Bois d'Orme,HT0234,Anse-à-Pître,HT02,Sud-Est,55.05183410644531,12
+HT0313-02,2e Section Bois de Lance,HT0313,Limonade,HT03,Nord,39.58930587768555,47
+HT0343-02,2e Section Bois de Lance,HT0343,Ranquitte,HT03,Nord,31.23104858398438,0
+HT0443-02,2e Section Bois Laurence,HT0443,Mombin Crochu,HT04,Nord-Est,131.1122741699219,5
+HT0522-02,2e Section Bois Neuf,HT0522,Terre Neuve,HT05,Artibonite,49.62107086181641,3
+HT0531-02,2e Section Bois Neuf,HT0531,Saint-Marc,HT05,Artibonite,140.8822021484375,13
+HT0423-02,2e Section Bois Poux,HT0423,Mont-Organisé,HT04,Nord-Est,41.39182281494141,0
+HT0115-02,2e Section Bongars,HT0115,Kenscoff,HT01,Ouest,37.75541305541992,11
+HT0323-02,2e Section Bonnet à l'Evêque,HT0323,Milot,HT03,Nord,13.64330768585205,4
+HT0533-02,2e Section Bossous,HT0533,La Chapelle,HT05,Artibonite,64.09221649169922,10
+HT0815-02,2e Section Boucan,HT0815,Chambellan,HT08,Grande'Anse,45.06269836425781,19
+HT0623-02,2e Section Boucan Carre,HT0623,Boucan Carré,HT06,Centre,119.8116302490234,19
+HT0351-02,2e Section Boucan Michel,HT0351,Borgne,HT03,Nord,31.40002632141113,0
+HT0142-02,2e Section Boucassin,HT0142,Cabaret,HT01,Ouest,14.95633411407471,5
+HT0821-02,2e Section Boudon,HT0821,Anse d'Hainault,HT08,Grande'Anse,39.43149566650391,9
+HT0551-02,2e Section Camathe,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,48.14695739746094,0
+HT0913-02,2e Section Carreau Datty,HT0913,Bassin Bleu,HT09,Nord-Ouest,92.65216827392578,2
+HT0361-02,2e Section Chabotte,HT0361,Limbé,HT03,Nord,22.43682670593262,1
+HT0371-02,2e Section Champagne,HT0371,Plaisance,HT03,Nord,13.17866992950439,0
+HT0714-02,2e Section Champlois,HT0714,Camp-Perrin,HT07,Sud,67.68450164794922,24
+HT1023-02,2e Section Changeux (Quartier de Changeux),HT1023,L'Asile,HT10,Nippes,56.13438034057617,8
+HT0833-02,"2e Section Chardonnette_x000D_
+",HT0833,Beaumont,HT08,Grande'Anse,13.4844331741333,3
+HT1012-02,2e Section Cholette,HT1012,Petite Rivière de Nippes,HT10,Nippes,20.28759765625,3
+HT0822-02,2e Section Dallier,HT0822,Dame Marie,HT08,Grande'Anse,7.686297416687012,1
+HT0722-02,2e Section Debouchette,HT0722,Saint Jean du Sud,HT07,Sud,21.37502670288086,12
+HT0751-02,2e Section Dejoie,HT0751,Chardonnières,HT07,Sud,43.81739807128906,8
+HT0122-02,2e Section Delatre,HT0122,Petit-Goâve,HT01,Ouest,43.73517227172852,8
+HT0921-02,2e Section Derourvay,HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,13.11589908599854,1
+HT0933-02,2e Section des Forges,HT0933,Bombardopolis,HT09,Nord-Ouest,69.43541717529297,8
+HT0117-01,2e Section des Varreux,HT0117,Cité Soleil,HT01,Ouest,16.27715301513672,25
+HT0131-02,2e Section des Varreux,HT0131,Croix-Des-Bouquets,HT01,Ouest,47.0377311706543,13
+HT0741-02,2e Section Despas,HT0741,Côteaux,HT07,Sud,26.1125373840332,12
+HT0715-02,2e Section Dory,HT0715,Maniche,HT07,Sud,44.86301422119141,9
+HT0932-02,2e Section Dos d'Ane,HT0932,Baie de Henne,HT09,Nord-Ouest,45.06476593017578,9
+HT0721-02,2e Section Dumont,HT0721,Port-Salut,HT07,Sud,14.06586170196533,10
+HT1032-02,2e Section Eaux Basses,HT1032,Grand-Boucan,HT10,Nippes,13.61277866363525,7
+HT0441-02,2e Section Ecrevisse ou Grosse Roche,HT0441,Vallières,HT04,Nord-Est,46.66919326782227,0
+HT0752-02,2e Section Edelin,HT0752,Les Anglais,HT07,Sud,45.15507507324219,14
+HT0834-02,2e Section Espère,HT0834,Pestel,HT08,Grande'Anse,37.26293182373047,18
+HT1013-02,2e Section Fond-des-Nègres ou Morne Brice,HT1013,Fonds des Nègres,HT10,Nippes,26.0748291015625,6
+HT0832-02,2e Section Fond Cochon ou Lopineau,HT0832,Roseaux,HT08,Grande'Anse,93.90596771240234,6
+HT0831-02,2e Section Fond d'Icaque,HT0831,Corail,HT08,Grande'Anse,37.50823974609375,14
+HT0211-02,2e Section Fond Melon (Selles),HT0211,Jacmel,HT02,Sud-Est,13.21744060516357,4
+HT0213-04,2e Section Fond Melon Michineau,HT0213,Cayes-Jacmel,HT02,Sud-Est,21.37043952941895,7
+HT0141-02,2e Section Fonds Baptiste,HT0141,Arcahaie,HT01,Ouest,93.20885467529297,26
+HT0711-02,2e Section Fonfrède,HT0711,Les Cayes,HT07,Sud,40.03467178344727,21
+HT0541-02,2e Section Fosse Naboth ou Duvallon,HT0541,Dessalines,HT05,Artibonite,61.72529602050781,21
+HT0213-02,2e Section Gaillard,HT0213,Cayes-Jacmel,HT02,Sud-Est,26.93131637573242,15
+HT0434-02,"2e Section Glaudine ou ""Jacquesil""",HT0434,Caracol,HT04,Nord-Est,44.09372711181641,5
+HT0433-02,2e Section Grand Bassin,HT0433,Terrier Rouge,HT04,Nord-Est,51.09221649169922,2
+HT0152-03,2e Section Grand Vide,HT0152,Pointe à Raquette,HT01,Ouest,68.82090759277344,11
+HT1021-02,2e Section Grande-Rivière-Joly,HT1021,Anse-à-Veau,HT10,Nippes,41.69522857666016,13
+HT0132-02,2e Section Grande Plaine,HT0132,Thomazeau,HT01,Ouest,43.27247619628906,5
+HT0212-02,2e Section Grande Rivière Fesles,HT0212,Marigot,HT02,Sud-Est,27.33557891845703,6
+HT0934-02,2e Section Guinaudee,HT0934,Jean Rabel,HT09,Nord-Ouest,104.8125152587891,13
+HT0311-02,2e Section Haut du Cap,HT0311,Cap-Haïtien,HT03,Nord,19.05708503723145,16
+HT0811-02,2e Section Haute Voldrogue,HT0811,Jérémie,HT08,Grande'Anse,53.49616241455078,51
+HT0631-02,2e Section Juampas,HT0631,Lascahobas,HT06,Centre,77.79649353027344,30
+HT0344-02,2e Section la Belle Mère,HT0344,Pignon,HT03,Nord,83.28907775878906,0
+HT0633-02,2e Section la Haye,HT0633,Savanette,HT06,Centre,114.2273941040039,1
+HT0911-02,2e Section la Pointe,HT0911,Port-de-Paix,HT09,Nord-Ouest,20.07354927062988,1
+HT0622-02,2e Section la Selle,HT0622,Saut d'Eau,HT06,Centre,60.17394638061523,6
+HT0214-02,2e Section La Vallee de Bainet ou Ternier,HT0214,La Vallée,HT02,Sud-Est,23.48950004577637,8
+HT0222-02,2e Section Labiche,HT0222,Côtes de Fer,HT02,Sud-Est,25.44685554504395,7
+HT0422-02,2e Section Lamine,HT0422,Capotille,HT04,Nord-Est,27.67175674438477,0
+HT0642-02,2e Section Lociane,HT0642,Thomassique,HT06,Centre,121.1608810424805,13
+HT0231-02,2e Section Mabriole,HT0231,Belle Anse,HT02,Sud-Est,60.02524948120117,6
+HT0931-02,2e Section Mare-Rouge,HT0931,Môle Saint Nicolas,HT09,Nord-Ouest,30.46462440490723,2
+HT0912-02,2e Section Mare Rouge,HT0912,La Tortue,HT09,Nord-Ouest,114.211669921875,35
+HT0611-02,2e Section Marmont,HT0611,Hinche,HT06,Centre,109.476318359375,3
+HT0733-02,2e Section Martineau,HT0733,Cavaillon,HT07,Sud,55.97096252441406,2
+HT0341-02,2e Section Mathurin,HT0341,Saint-Raphaël,HT03,Nord,37.66523361206055,0
+HT0922-02,2e Section Mayance,HT0922,Anse-à-Foleur,HT09,Nord-Ouest,24.76984977722168,0
+HT0713-02,2e Section Melonière,HT0713,Chantal,HT07,Sud,32.21146011352539,17
+HT0116-02,2e Section Morne Chandelle,HT0116,Gressier,HT01,Ouest,34.76152801513672,5
+HT0111-02,2e Section Morne l'Hopital,HT0111,Port-au-Prince,HT01,Ouest,6.916325569152832,3
+HT0312-02,2e Section Morne Pele,HT0312,Quartier Morin,HT03,Nord,32.22759246826172,11
+HT0753-02,2e Section Nan Sevre,HT0753,Tiburon,HT07,Sud,38.95898056030273,10
+HT0612-02,2e Section Narang,HT0612,Maïssade,HT06,Centre,67.40723419189453,3
+HT0512-02,2e Section Passe-Reine ou Bas d'Ennery,HT0512,Ennery,HT05,Artibonite,47.41094970703125,5
+HT0362-02,2e Section Petit Howars (la Fange),HT0362,Bas Limbé,HT03,Nord,39.3687629699707,1
+HT0513-02,2e Section Petite Desdunes,HT0513,L'Estère,HT05,Artibonite,118.7515106201172,3
+HT0121-02,2e Section Petite Rivière,HT0121,Léogâne,HT01,Ouest,40.68836975097656,20
+HT0151-02,2e Section Petite Source,HT0151,Anse à Galets,HT01,Ouest,67.26644897460938,13
+HT0134-02,2e Section Plaine Céleste,HT0134,Cornillon / Grand Bois,HT01,Ouest,39.07124328613281,1
+HT0113-02,2e Section Platon Dufrene,HT0113,Carrefour,HT01,Ouest,12.71072578430176,3
+HT0233-02,2e Section Pot de Chambre,HT0233,Thiotte,HT02,Sud-Est,69.66627502441406,13
+HT0743-02,2e Section Renaudin,HT0743,Roche à Bâteau,HT07,Sud,7.650589466094971,7
+HT0521-02,2e Section Rivière Mancelle,HT0521,Gros Morne,HT05,Artibonite,39.99557495117188,0
+HT0442-02,2e Section Rose Bonite,HT0442,Carice,HT04,Nord-Est,32.77616119384766,0
+HT0431-02,2e Section Roucou,HT0431,Trou du Nord,HT04,Nord-Est,47.09231185913086,0
+HT0632-02,2e Section Roye-Sec,HT0632,Belladère,HT06,Centre,101.7728958129883,16
+HT0621-02,2e Section Sarazin,HT0621,Mirebalais,HT06,Centre,97.65113067626953,20
+HT0331-02,2e Section Solon,HT0331,Grande Riviere Du Nord,HT03,Nord,22.95117568969727,0
+HT0523-02,2e Section Sources Chaudes,HT0523,Anse Rouge,HT05,Artibonite,156.1634368896484,7
+HT0814-02,2e Section Sources Chaudes,HT0814,Moron,HT08,Grande'Anse,110.4214172363281,31
+HT0123-02,2e Section Tête-à-Boeuf,HT0123,Grand-Goâve,HT01,Ouest,61.80582427978516,13
+HT1031-02,2e Section Tête d'Eau,HT1031,Baradères,HT10,Nippes,37.7054443359375,9
+HT1022-02,2e Section Tiby,HT1022,Petit Trou de Nippes,HT10,Nippes,57.45369338989258,22
+HT0613-02,2e Section Tierra Muscady,HT0613,Thomonde,HT06,Centre,73.2397689819336,0
+HT0221-02,2e Section Trou Mahot,HT0221,Bainet,HT02,Sud-Est,35.49292755126953,17
+HT0914-02,2e Source Beauvoir,HT0914,Chamsolme,HT09,Nord-Ouest,27.38123893737793,0
+HT0611-03,3e Section Aguahedionde (Rive Droite),HT0611,Hinche,HT06,Centre,123.3486633300781,3
+HT1024-03,3e Section Arnaud (Morcou),HT1024,Arnaud,HT10,Nippes,21.12215042114258,6
+HT0911-03,3e Section Aubert,HT0911,Port-de-Paix,HT09,Nord-Ouest,21.38938331604004,7
+HT0613-03,3e Section Baille Tourrible,HT0613,Thomonde,HT06,Centre,63.48149871826172,3
+HT0551-03,3e Section Bas de Sault,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,38.23385238647461,1
+HT0743-03,3e Section Beauclos,HT0743,Roche à Bâteau,HT07,Sud,14.22604084014893,6
+HT0118-03,3e Section Bellevue,HT0118,Tabarre,HT01,Ouest,15.70869541168213,9
+HT0751-03,3e Section Bony,HT0751,Chardonnières,HT07,Sud,19.23927688598633,21
+HT0134-03,3e Section Boucan Bois Pin,HT0134,Cornillon / Grand Bois,HT01,Ouest,51.83720397949219,0
+HT0341-03,3e Section Bouyaha,HT0341,Saint-Raphaël,HT03,Nord,30.20561218261719,3
+HT0222-03,3e Section Bras Gauche,HT0222,Côtes de Fer,HT02,Sud-Est,7.142181396484375,0
+HT0731-03,3e Section Brodequin,HT0731,Aquin,HT07,Sud,40.38973236083984,2
+HT0231-03,3e Section Callumette,HT0231,Belle Anse,HT02,Sud-Est,28.19851112365723,8
+HT0361-03,3e Section Camp Coq,HT0361,Limbé,HT03,Nord,21.83054542541504,0
+HT0331-03,3e Section Caracol,HT0331,Grande Riviere Du Nord,HT03,Nord,21.04541397094727,0
+HT0713-03,3e Section Carrefour Canon,HT0713,Chantal,HT07,Sud,94.07376861572266,9
+HT0831-03,3e Section Champy (Nan Campêche),HT0831,Corail,HT08,Grande'Anse,20.27289581298828,5
+HT0512-03,3e Section Chemin Neuf,HT0512,Ennery,HT05,Artibonite,59.74558639526367,9
+HT0211-03,3e Section Cochon Gras,HT0211,Jacmel,HT02,Sud-Est,45.49125671386719,11
+HT0441-03,3e Section Corosse,HT0441,Vallières,HT04,Nord-Est,27.52671241760254,0
+HT0752-03,3e Section Cosse,HT0752,Les Anglais,HT07,Sud,51.62703323364258,21
+HT0432-03,3e Section Cotelette,HT0432,Sainte Suzanne,HT04,Nord-Est,21.92542839050293,0
+HT0922-03,3e Section Cotes de Fer,HT0922,Anse-à-Foleur,HT09,Nord-Ouest,19.31001853942871,1
+HT0622-03,3e Section Coupe Mardi Gras,HT0622,Saut d'Eau,HT06,Centre,35.62765121459961,4
+HT0343-03,3e Section Cracaraille,HT0343,Ranquitte,HT03,Nord,23.37012481689453,0
+HT0723-03,3e Section d'Arniquet,HT0723,Arniquet,HT07,Sud,8.935446739196777,9
+HT0931-03,3e Section Dame,HT0931,Môle Saint Nicolas,HT09,Nord-Ouest,34.62604141235352,0
+HT0812-03,3e Section Danglise,HT0812,Abricots,HT08,Grande'Anse,27.60906982421875,8
+HT0352-03,3e Section de Corail,HT0352,Port-Margot,HT03,Nord,25.8761100769043,0
+HT0623-03,3e Section des Bayes,HT0623,Boucan Carré,HT06,Centre,141.9908294677734,20
+HT0921-03,3e Section des Granges,HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,24.9526538848877,0
+HT0141-03,3e Section des Vases,HT0141,Arcahaie,HT01,Ouest,46.56108093261719,21
+HT0822-03,3e Section Desormeau,HT0822,Dame Marie,HT08,Grande'Anse,16.99994277954102,11
+HT1011-03,3e Section Dessources,HT1011,Miragoâne,HT10,Nippes,46.46396636962891,8
+HT0114-03,3e Section Etang du Jonc,HT0114,Pétion-Ville,HT01,Ouest,32.88164520263672,18
+HT0133-03,3e Section Fond Parisien,HT0133,Ganthier,HT01,Ouest,177.4850463867188,5
+HT1031-03,3e Section Fond Tortue,HT1031,Baradères,HT10,Nippes,32.66648483276367,7
+HT0823-03,3e Section Garcasse,HT0823,Les Irois,HT08,Grande'Anse,21.26449966430664,4
+HT0323-03,3e Section Genipailler,HT0323,Milot,HT03,Nord,28.708251953125,1
+HT0531-03,3e Section Goyavier,HT0531,Saint-Marc,HT05,Artibonite,47.01620101928711,1
+HT0322-03,3e Section Grand Boucan,HT0322,Plaine du Nord,HT03,Nord,22.35637855529785,4
+HT0621-03,3e Section Grand Boucan,HT0621,Mirebalais,HT06,Centre,83.7520523071289,14
+HT0832-03,3e Section Grand Vincent,HT0832,Roseaux,HT08,Grande'Anse,30.92687606811523,9
+HT0121-03,3e Section Grande Rivère,HT0121,Léogâne,HT01,Ouest,36.10905075073242,11
+HT0151-03,3e Section Grande Source,HT0151,Anse à Galets,HT01,Ouest,44.60066223144531,5
+HT0732-03,3e Section Grenodière,HT0732,Saint Louis du Sud,HT07,Sud,25.90490913391113,0
+HT0733-03,3e Section Gros Marin,HT0733,Cavaillon,HT07,Sud,36.60628890991211,7
+HT0532-03,3e Section Guillaume Moge (Quartier de Desarmes),HT0532,Verrettes,HT05,Artibonite,30.95849418640137,5
+HT0612-03,3e Section Hatty,HT0612,Maïssade,HT06,Centre,119.8953094482422,5
+HT0213-03,3e Section Haut Cap Rouge,HT0213,Cayes-Jacmel,HT02,Sud-Est,15.9483118057251,2
+HT0913-03,3e Section Haut des Moustiques,HT0913,Bassin Bleu,HT09,Nord-Ouest,64.22689056396484,9
+HT0371-03,3e Section Haut Martineau,HT0371,Plaisance,HT03,Nord,9.207554817199707,0
+HT0811-03,3e Section Haute Guinaudee,HT0811,Jérémie,HT08,Grande'Anse,130.3009796142578,21
+HT0821-03,3e Section Îlet à Pierre Joseph,HT0821,Anse d'Hainault,HT08,Grande'Anse,25.52483367919922,14
+HT0834-03,3e Section Jean Bellune,HT0834,Pestel,HT08,Grande'Anse,19.6312370300293,5
+HT0814-03,3e Section l'Assise ou Chameau,HT0814,Moron,HT08,Grande'Anse,48.59363174438477,22
+HT0221-03,3e Section La Vallee de Bainet,HT0221,Bainet,HT02,Sud-Est,26.5189094543457,7
+HT0542-03,3e Section Labady,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,64.40718841552734,4
+HT0711-03,3e Section Laborde,HT0711,Les Cayes,HT07,Sud,36.79058456420898,16
+HT0522-03,3e Section Lagon,HT0522,Terre Neuve,HT05,Artibonite,41.57378005981445,2
+HT0641-03,3e Section Lamielle,HT0641,Cerca La Source,HT06,Centre,87.38349914550781,28
+HT1022-03,3e Section Liève ou Vigny,HT1022,Petit Trou de Nippes,HT10,Nippes,40.17234039306641,1
+HT0753-03,3e Section Loby,HT0753,Tiburon,HT07,Sud,48.04138946533203,14
+HT0411-03,3e Section Loiseau,HT0411,Fort-Liberté,HT04,Nord-Est,71.37946319580078,1
+HT0212-03,3e Section Macary,HT0212,Marigot,HT02,Sud-Est,53.12136077880859,12
+HT0111-03,3e Section Martissant,HT0111,Port-au-Prince,HT01,Ouest,8.95042896270752,6
+HT0342-03,3e Section Matador,HT0342,Dondon,HT03,Nord,34.57632446289062,0
+HT0715-03,3e Section Melon,HT0715,Maniche,HT07,Sud,55.6203498840332,10
+HT0332-03,3e Section Montagne Noire,HT0332,Bahon,HT03,Nord,13.0230655670166,0
+HT0214-03,3e Section Morne à Brûler,HT0214,La Vallée,HT02,Sud-Est,24.35523796081543,6
+HT0321-03,3e Section Mornet,HT0321,Acul du Nord,HT03,Nord,34.44135284423828,4
+HT0833-03,3e Section Mouline,HT0833,Beaumont,HT08,Grande'Anse,59.65641021728516,17
+HT0123-03,3e Section Moussambe,HT0123,Grand-Goâve,HT01,Ouest,16.71170997619629,4
+HT0541-03,3e Section Oge,HT0541,Dessalines,HT05,Artibonite,113.2048950195312,29
+HT1013-03,3e Section Pemerle,HT1013,Fonds des Nègres,HT10,Nippes,23.96996879577637,6
+HT0311-03,3e Section Petit Anse,HT0311,Cap-Haïtien,HT03,Nord,14.13665962219238,10
+HT0131-03,3e Section Petit Bois,HT0131,Croix-Des-Bouquets,HT01,Ouest,26.04670524597168,13
+HT0116-03,3e Section Petit Boucan,HT0116,Gressier,HT01,Ouest,39.86515045166016,6
+HT0351-03,3e Section Petit Bourgde Borgne,HT0351,Borgne,HT03,Nord,30.38387107849121,28
+HT0933-03,3e Section Plaine d'Orange,HT0933,Bombardopolis,HT09,Nord-Ouest,28.69064903259277,3
+HT0552-03,3e Section Platon,HT0552,Marmelade,HT05,Artibonite,31.89277076721191,0
+HT0511-03,3e Section Pte Rivière de Bayonnais,HT0511,Gonaïves,HT05,Artibonite,170.4075469970703,3
+HT0741-03,3e Section Quentin,HT0741,Côteaux,HT07,Sud,18.03841400146484,3
+HT0372-03,3e Section Ravine Trompette,HT0372,Pilate,HT03,Nord,15.80486106872559,0
+HT0932-03,3e Section Reserve ou Ti Paradis,HT0932,Baie de Henne,HT09,Nord-Ouest,36.19145202636719,11
+HT0632-03,3e Section Riaribes,HT0632,Belladère,HT06,Centre,66.5970458984375,1
+HT0521-03,3e Section Rivière Blanche,HT0521,Gros Morne,HT05,Artibonite,36.59601974487305,3
+HT0431-03,3e Section Roche Plate,HT0431,Trou du Nord,HT04,Nord-Est,69.17180633544922,5
+HT0313-03,3e Section Roucou,HT0313,Limonade,HT03,Nord,34.02799606323242,16
+HT1021-03,3e Section Saut du Baril,HT1021,Anse-à-Veau,HT10,Nippes,36.40670776367188,15
+HT0421-03,3e Section Savane Longue,HT0421,Ouanaminthe,HT04,Nord-Est,46.72974014282227,1
+HT1012-03,3e Section Silègue,HT1012,Petite Rivière de Nippes,HT10,Nippes,28.88728904724121,6
+HT0712-03,3e Section Solon,HT0712,Torbeck,HT07,Sud,53.65921783447266,23
+HT0115-03,3e Section Sourcailles,HT0115,Kenscoff,HT01,Ouest,45.07244491577148,14
+HT0142-03,3e Section Source Matelas,HT0142,Cabaret,HT01,Ouest,36.09392166137695,6
+HT0113-03,3e Section Taïfer,HT0113,Carrefour,HT01,Ouest,10.28778457641602,3
+HT0714-03,3e Section Tibi Davezac,HT0714,Camp-Perrin,HT07,Sud,32.30482482910156,17
+HT1023-04,3e Section Tournade (Quartier de Changeux),HT1023,L'Asile,HT10,Nippes,21.03159332275391,7
+HT0722-03,3e Section Trichet,HT0722,Saint Jean du Sud,HT07,Sud,22.94577026367188,15
+HT0122-03,3e Section Trou Chouchou,HT0122,Petit-Goâve,HT01,Ouest,33.70005798339844,2
+HT0132-03,3e Section Trou d'Eau,HT0132,Thomazeau,HT01,Ouest,39.1539306640625,3
+HT0152-04,3e Section Trou Louis,HT0152,Pointe à Raquette,HT01,Ouest,79.1272201538086,12
+HT1025-03,3e Section Vassal Labiche,HT1025,Plaisance du Sud,HT10,Nippes,29.722412109375,9
+HT0934-03,3e Section Vieille Hatte,HT0934,Jean Rabel,HT09,Nord-Ouest,100.9599456787109,24
+HT0611-04,4e Section Aguahedionde (Rive Gauche),HT0611,Hinche,HT06,Centre,170.0879974365234,22
+HT0222-04,4e Section Amazone,HT0222,Côtes de Fer,HT02,Sud-Est,12.08199977874756,2
+HT0811-04,4e Section Basse Guinaudee,HT0811,Jérémie,HT08,Grande'Anse,29.76955986022949,10
+HT0322-04,4e Section Bassin Diamant,HT0322,Plaine du Nord,HT03,Nord,6.068803310394287,1
+HT0115-04,4e Section Belle Fontaine,HT0115,Kenscoff,HT01,Ouest,36.15280532836914,11
+HT0118-04,4e Section Bellevue,HT0118,Tabarre,HT01,Ouest,12.71538066864014,7
+HT0114-04,4e Section Bellevue la Montagne,HT0114,Pétion-Ville,HT01,Ouest,33.69924163818359,20
+HT1012-04,4e Section Bezin,HT1012,Petite Rivière de Nippes,HT10,Nippes,22.99265289306641,3
+HT0134-04,"4e Section Boucan Bois Pin_x000D_
+",HT0134,Cornillon / Grand Bois,HT01,Ouest,32.01948928833008,1
+HT1013-04,4e Section Cocoyers-Ducheine,HT1013,Fonds des Nègres,HT10,Nippes,14.8158483505249,1
+HT0231-04,4e Section Corail Lamothe,HT0231,Belle Anse,HT02,Sud-Est,51.55588150024414,6
+HT0621-04,4e Section Crête Brûlee,HT0621,Mirebalais,HT06,Centre,74.27176666259766,5
+HT0753-04,4e Section Dalmette,HT0753,Tiburon,HT07,Sud,29.9068660736084,14
+HT0132-04,4e Section des Crochus,HT0132,Thomazeau,HT01,Ouest,71.88986206054688,7
+HT0532-04,4e Section Desarmes (Quartier de Desarmes),HT0532,Verrettes,HT05,Artibonite,107.0415267944336,28
+HT0731-04,4e Section Flamands,HT0731,Aquin,HT07,Sud,136.2582244873047,9
+HT0122-04,4e Section Fond Arabie,HT0122,Petit-Goâve,HT01,Ouest,36.68668746948242,0
+HT0121-04,4e Section Fond de Boudin,HT0121,Léogâne,HT01,Ouest,27.13925361633301,9
+HT0212-04,4e Section Fond Jean Noël,HT0212,Marigot,HT02,Sud-Est,47.93233489990234,12
+HT0142-04,4e Section Fonds des Blancs (Casale),HT0142,Cabaret,HT01,Ouest,112.8726959228516,5
+HT0331-04,4e Section Gambade,HT0331,Grande Riviere Du Nord,HT03,Nord,17.72911834716797,0
+HT0151-04,4e Section Grand Lagon,HT0151,Anse à Galets,HT01,Ouest,134.3740692138672,16
+HT0321-04,4e Section Grande Ravine,HT0321,Acul du Nord,HT03,Nord,32.08217239379883,1
+HT0221-04,4e Section Haut Grandou,HT0221,Bainet,HT02,Sud-Est,20.00449371337891,4
+HT0411-04,4e Section Haut Madeleine,HT0411,Fort-Liberté,HT04,Nord-Est,18.95887756347656,0
+HT0352-04,4e Section Haut Petit Borgne,HT0352,Port-Margot,HT03,Nord,22.01794815063477,0
+HT0372-04,4e Section Joly,HT0372,Pilate,HT03,Nord,8.612826347351074,0
+HT0521-04,4e Section l'Acul,HT0521,Gros Morne,HT05,Artibonite,39.57169342041016,0
+HT0932-04,4e Section l'Estère Dere,HT0932,Baie de Henne,HT09,Nord-Ouest,67.35091400146484,5
+HT0211-04,4e Section La Gosseline,HT0211,Jacmel,HT02,Sud-Est,39.04191970825195,8
+HT0934-04,4e Section la Montagne,HT0934,Jean Rabel,HT09,Nord-Ouest,31.73019218444824,9
+HT1031-04,4e Section la Plaine,HT1031,Baradères,HT10,Nippes,25.73591232299805,2
+HT0812-04,4e Section la Seringue,HT0812,Abricots,HT08,Grande'Anse,28.08058738708496,14
+HT0342-04,4e Section Laguille,HT0342,Dondon,HT03,Nord,25.20693016052246,1
+HT0551-04,4e Section Lalomas,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,66.68508911132812,1
+HT0531-04,4e Section Lalouère,HT0531,Saint-Marc,HT05,Artibonite,96.61656951904297,1
+HT0711-04,4e Section Laurent,HT0711,Les Cayes,HT07,Sud,24.44122123718262,3
+HT0832-04,4e Section les Gommiers,HT0832,Roseaux,HT08,Grande'Anse,39.61331939697266,22
+HT0911-04,4e Section Mahotière,HT0911,Port-de-Paix,HT09,Nord-Ouest,103.0231704711914,87
+HT0821-04,4e Section Mandou,HT0821,Anse d'Hainault,HT08,Grande'Anse,18.80751991271973,8
+HT0371-04,4e Section Mapou,HT0371,Plaisance,HT03,Nord,18.3149242401123,0
+HT0733-04,4e Section Mare Henri,HT0733,Cavaillon,HT07,Sud,47.70693969726562,17
+HT0133-05,4e Section Mare Roseaux,HT0133,Ganthier,HT01,Ouest,78.4105453491211,18
+HT0622-04,4e Section Montagne Terrible,HT0622,Saut d'Eau,HT06,Centre,29.78927803039551,4
+HT0141-04,4e Section Montrouis,HT0141,Arcahaie,HT01,Ouest,78.1298828125,22
+HT0712-04,4e Section Moreau,HT0712,Torbeck,HT07,Sud,44.35878753662109,6
+HT1023-01,4e Section Morisseau,HT1023,L'Asile,HT10,Nippes,24.9155216217041,10
+HT0123-04,4e Section Moussambe,HT0123,Grand-Goâve,HT01,Ouest,30.09926986694336,2
+HT0131-04,4e Section Petit Bois,HT0131,Croix-Des-Bouquets,HT01,Ouest,21.79180335998535,12
+HT0822-04,4e Section Petite Rivière,HT0822,Dame Marie,HT08,Grande'Anse,21.20234489440918,15
+HT0152-05,4e Section Pointe à Raquette,HT0152,Pointe à Raquette,HT01,Ouest,31.60513496398926,2
+HT0541-04,4e Section Poste Pierrot,HT0541,Dessalines,HT05,Artibonite,98.76969909667969,4
+HT0511-04,4e Section Poteaux,HT0511,Gonaïves,HT05,Artibonite,51.94412612915039,8
+HT0113-04,4e Section Procy,HT0113,Carrefour,HT01,Ouest,17.43125915527344,6
+HT0512-04,4e Section Puilboreau,HT0512,Ennery,HT05,Artibonite,45.13442611694336,4
+HT0921-04,4e Section Rivière de Barre,HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,20.97756195068359,0
+HT0341-04,4e Section San-Yago,HT0341,Saint-Raphaël,HT03,Nord,84.02882385253906,4
+HT0432-04,4e Section Sarazin,HT0432,Sainte Suzanne,HT04,Nord-Est,10.76661682128906,1
+HT0542-04,4e Section Savane à Roche,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,143.8777618408203,24
+HT0421-04,4e Section Savane au Lait,HT0421,Ouanaminthe,HT04,Nord-Est,34.05337142944336,4
+HT0361-04,4e Section Soufrière,HT0361,Limbé,HT03,Nord,14.42460346221924,0
+HT1011-04,4e Section St-Michel,HT1011,Miragoâne,HT10,Nippes,22.24817657470703,7
+HT0834-04,4e Section Tozia,HT0834,Pestel,HT08,Grande'Anse,83.03775024414062,22
+HT0351-04,4e Section Trou d'Enfer,HT0351,Borgne,HT03,Nord,10.8752908706665,0
+HT0732-04,4e Section Zanglais,HT0732,Saint Louis du Sud,HT07,Sud,24.24379730224609,1
+HT0822-05,5e Section Baliverne,HT0822,Dame Marie,HT08,Grande'Anse,31.07817840576172,18
+HT0221-05,5e Section Bas de Grandou,HT0221,Bainet,HT02,Sud-Est,44.45673751831055,9
+HT0911-05,5e Section Bas des Moustiques,HT0911,Port-de-Paix,HT09,Nord-Ouest,125.0315933227539,2
+HT0352-05,5e Section Bas Quartier,HT0352,Port-Margot,HT03,Nord,28.58222389221191,1
+HT0532-05,5e Section Bastien,HT0532,Verrettes,HT05,Artibonite,74.1602554321289,3
+HT0231-05,5e Section Bel Air,HT0231,Belle Anse,HT02,Sud-Est,55.56254577636719,10
+HT0114-05,5e Section Bellevue Chardonnière,HT0114,Pétion-Ville,HT01,Ouest,32.25561904907227,26
+HT0531-05,5e Section Bocozelle,HT0531,Saint-Marc,HT05,Artibonite,189.2236938476562,54
+HT0921-05,5e Section Bonneau,HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,20.44477653503418,0
+HT0222-05,5e Section Boucan Belier,HT0222,Côtes de Fer,HT02,Sud-Est,11.44534778594971,3
+HT0351-05,5e Section Champagne,HT0351,Borgne,HT03,Nord,10.57821559906006,2
+HT0321-05,5e Section Coupe à David,HT0321,Acul du Nord,HT03,Nord,15.81345748901367,0
+HT0113-05,5e Section Coupeau,HT0113,Carrefour,HT01,Ouest,12.90388584136963,5
+HT0141-05,5e Section Delices,HT0141,Arcahaie,HT01,Ouest,95.56412506103516,19
+HT0934-05,5e Section Dessources,HT0934,Jean Rabel,HT09,Nord-Ouest,30.63688850402832,7
+HT0372-05,5e Section Dubourg,HT0372,Pilate,HT03,Nord,14.59770488739014,0
+HT0834-05,5e Section Duchity,HT0834,Pestel,HT08,Grande'Anse,66.12653350830078,17
+HT0541-05,5e Section Fiefe ou Petit Cahos,HT0541,Dessalines,HT05,Artibonite,45.49488067626953,0
+HT0134-05,"5e Section Génipailler_x000D_
+",HT0134,Cornillon / Grand Bois,HT01,Ouest,43.78832244873047,0
+HT0421-05,5e Section Gens de Nantes,HT0421,Ouanaminthe,HT04,Nord-Est,20.68918609619141,0
+HT0115-05,5e Section Grand Fond,HT0115,Kenscoff,HT01,Ouest,41.94718933105469,7
+HT0123-05,5e Section Grande Colline,HT0123,Grand-Goâve,HT01,Ouest,26.53453826904297,6
+HT0152-01,5e Section Gros Mangle,HT0152,Pointe à Raquette,HT01,Ouest,66.67182922363281,5
+HT0342-05,5e Section Haut du Trou,HT0342,Dondon,HT03,Nord,20.02887153625488,0
+HT0331-05,5e Section Jolitrou,HT0331,Grande Riviere Du Nord,HT03,Nord,29.2325382232666,0
+HT0551-05,5e Section l'Ermite,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,45.40539169311523,0
+HT0371-05,5e Section la Trouble,HT0371,Plaisance,HT03,Nord,15.63284587860107,0
+HT0511-05,5e Section Labranle,HT0511,Gonaïves,HT05,Artibonite,66.51446533203125,1
+HT0733-05,5e Section Laroque,HT0733,Cavaillon,HT07,Sud,31.14516639709473,15
+HT0211-05,5e Section Marbial,HT0211,Jacmel,HT02,Sud-Est,16.03840827941895,5
+HT0731-05,5e Section Mare à Coiffe,HT0731,Aquin,HT07,Sud,25.74056434631348,1
+HT0711-05,5e Section Mercy,HT0711,Les Cayes,HT07,Sud,28.62508392333984,8
+HT0432-05,5e Section Moka Neuf,HT0432,Sainte Suzanne,HT04,Nord-Est,31.46006965637207,1
+HT0121-05,5e Section Palmiste à Vin,HT0121,Léogâne,HT01,Ouest,38.87918090820312,9
+HT0133-04,5e Section Pays Pourri,HT0133,Ganthier,HT01,Ouest,94.02055358886719,11
+HT0521-05,5e Section Pendu,HT0521,Gros Morne,HT05,Artibonite,32.01671981811523,1
+HT0542-05,5e Section Perodin,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,122.0124053955078,9
+HT0131-05,5e Section Petit Bois,HT0131,Croix-Des-Bouquets,HT01,Ouest,42.85007095336914,12
+HT0151-05,5e Section Picmy,HT0151,Anse à Galets,HT01,Ouest,26.89498901367188,7
+HT0811-05,5e Section Ravine à Charles,HT0811,Jérémie,HT08,Grande'Anse,39.97388076782227,15
+HT0361-05,5e Section Ravine Desroches,HT0361,Limbé,HT03,Nord,10.85894298553467,1
+HT1031-05,5e Section Rivière Salee,HT1031,Baradères,HT10,Nippes,57.4953498840332,13
+HT0212-05,5e Section Savane Dubois,HT0212,Marigot,HT02,Sud-Est,35.27313995361328,11
+HT0732-05,5e Section Sucrerie Henri,HT0732,Saint Louis du Sud,HT07,Sud,17.00853157043457,0
+HT0122-05,5e Section Trou Canari,HT0122,Petit-Goâve,HT01,Ouest,10.14430618286133,4
+HT0221-06,6e Section Bas de Lacroix,HT0221,Bainet,HT02,Sud-Est,9.75398063659668,0
+HT0131-06,6e Section Belle Fontaine,HT0131,Croix-Des-Bouquets,HT01,Ouest,75.24871063232422,11
+HT0711-06,6e Section Boulmier,HT0711,Les Cayes,HT07,Sud,35.4186897277832,0
+HT0113-06,6e Section Bouvier,HT0113,Carrefour,HT01,Ouest,14.48511600494385,2
+HT0352-06,6e Section Bras Gauche,HT0352,Port-Margot,HT03,Nord,26.19155502319336,0
+HT0531-06,6e Section Charrette,HT0531,Saint-Marc,HT05,Artibonite,31.90602493286133,5
+HT0331-06,6e Section Cormiers,HT0331,Grande Riviere Du Nord,HT03,Nord,15.9490385055542,1
+HT0432-06,6e Section Fond Bleu,HT0432,Sainte Suzanne,HT04,Nord-Est,36.46218109130859,1
+HT0123-06,6e Section Grande Colline,HT0123,Grand-Goâve,HT01,Ouest,21.03574180603027,4
+HT0934-06,6e Section Grande Source,HT0934,Jean Rabel,HT09,Nord-Ouest,32.20134735107422,9
+HT0811-06,6e Section Îles Blanches,HT0811,Jérémie,HT08,Grande'Anse,44.47650527954102,11
+HT0361-06,6e Section Ilot-à-Corne,HT0361,Limbé,HT03,Nord,25.45381927490234,0
+HT0222-06,6e Section Jamais Vu,HT0222,Côtes de Fer,HT02,Sud-Est,52.28963470458984,12
+HT0731-06,6e Section La Colline,HT0731,Aquin,HT07,Sud,67.4603271484375,13
+HT0911-06,6e Section la Corne,HT0911,Port-de-Paix,HT09,Nord-Ouest,71.14604187011719,0
+HT0541-06,6e Section la Croix ou Grand Cahos,HT0541,Dessalines,HT05,Artibonite,112.5135803222656,1
+HT0371-06,6e Section la Ville,HT0371,Plaisance,HT03,Nord,15.39315986633301,0
+HT0551-06,6e Section Lacedras,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,104.7260055541992,1
+HT0921-06,6e Section Lafague (Chamoise),HT0921,Saint-Louis du Nord,HT09,Nord-Ouest,20.65305137634277,0
+HT0834-06,6e Section Les Îles Cayemittes,HT0834,Pestel,HT08,Grande'Anse,48.9936637878418,6
+HT0141-06,6e Section Matheux,HT0141,Arcahaie,HT01,Ouest,89.47208404541016,34
+HT0542-06,6e Section Medor,HT0542,Petite Rivière de l'Artibonite,HT05,Artibonite,95.65330505371094,18
+HT0351-06,6e Section Molas,HT0351,Borgne,HT03,Nord,25.78715133666992,0
+HT0211-06,6e Section Montagne La Voûte,HT0211,Jacmel,HT02,Sud-Est,49.86367034912109,29
+HT0121-06,6e Section Orangers,HT0121,Léogâne,HT01,Ouest,20.66389656066895,12
+HT0151-06,6e Section Petite Anse,HT0151,Anse à Galets,HT01,Ouest,41.06851959228516,9
+HT0231-06,6e Section Pichon,HT0231,Belle Anse,HT02,Sud-Est,53.82804870605469,8
+HT0372-06,6e Section Piment,HT0372,Pilate,HT03,Nord,8.260509490966797,0
+HT0521-06,6e Section Savane Carree,HT0521,Gros Morne,HT05,Artibonite,107.9086532592773,3
+HT0732-06,6e Section Solon,HT0732,Saint Louis du Sud,HT07,Sud,23.55429077148438,0
+HT0321-06,6e Section Soufrière,HT0321,Acul du Nord,HT03,Nord,43.18849182128906,0
+HT0532-06,6e Section Terre Natte,HT0532,Verrettes,HT05,Artibonite,40.41655731201172,3
+HT0122-06,6e Section Trou Canari,HT0122,Petit-Goâve,HT01,Ouest,20.99284172058105,3
+HT0371-07,7e Section Bassin,HT0371,Plaisance,HT03,Nord,13.28592014312744,1
+HT0131-07,7e Section Belle Fontaine,HT0131,Croix-Des-Bouquets,HT01,Ouest,113.8383560180664,14
+HT0221-07,7e Section Bras Gauche,HT0221,Bainet,HT02,Sud-Est,17.94445037841797,2
+HT0732-07,7e Section Cherette,HT0732,Saint Louis du Sud,HT07,Sud,23.41143608093262,0
+HT0351-07,7e Section Cote de Feret Fond Lagrange,HT0351,Borgne,HT03,Nord,39.83951568603516,1
+HT0122-07,7e Section des Platons,HT0122,Petit-Goâve,HT01,Ouest,17.5136604309082,4
+HT0934-07,7e Section Diondion,HT0934,Jean Rabel,HT09,Nord-Ouest,47.66047668457031,14
+HT0731-07,7e Section Frangipane,HT0731,Aquin,HT07,Sud,123.9107055664062,20
+HT0123-07,7e Section Gerard,HT0123,Grand-Goâve,HT01,Ouest,45.38740158081055,21
+HT0211-07,7e Section Grande Rivière de Jacmel,HT0211,Jacmel,HT02,Sud-Est,44.83700180053711,8
+HT0113-07,7e Section Lavalle,HT0113,Carrefour,HT01,Ouest,9.687530517578125,3
+HT0231-07,7e Section Mapou,HT0231,Belle Anse,HT02,Sud-Est,66.25611114501953,7
+HT0811-07,7e Section Marfranc ou Grande Rivière,HT0811,Jérémie,HT08,Grande'Anse,29.08606719970703,14
+HT0551-07,7e Section Marmont,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,97.86600494384766,1
+HT0521-07,7e Section Moulin,HT0521,Gros Morne,HT05,Artibonite,61.27573776245117,1
+HT0121-07,7e Section Parques,HT0121,Léogâne,HT01,Ouest,24.30853462219238,7
+HT0372-07,7e Section Rivière Laporte,HT0372,Pilate,HT03,Nord,25.58622550964355,0
+HT0211-08,8e Section Bas Coq Chante,HT0211,Jacmel,HT02,Sud-Est,23.17229080200195,12
+HT0121-08,8e Section Beausejour,HT0121,Léogâne,HT01,Ouest,24.43393325805664,11
+HT0131-08,8e Section Belle Fontaine,HT0131,Croix-Des-Bouquets,HT01,Ouest,111.6880111694336,13
+HT0113-08,8e Section Berly,HT0113,Carrefour,HT01,Ouest,16.82059288024902,4
+HT0731-08,8e Section Colline à Mongons,HT0731,Aquin,HT07,Sud,29.08636093139648,2
+HT0732-08,8e Section Corail-Henri,HT0732,Saint Louis du Sud,HT07,Sud,21.40118980407715,0
+HT0122-08,8e Section des Platons,HT0122,Petit-Goâve,HT01,Ouest,45.76079559326172,19
+HT0811-08,8e Section Fond Rouge Dahere,HT0811,Jérémie,HT08,Grande'Anse,25.89293670654297,17
+HT0371-08,8e Section Grande Rivière,HT0371,Plaisance,HT03,Nord,23.93831443786621,10
+HT0551-08,8e Section l'Attalaye,HT0551,Saint-Michel de l'Attalaye,HT05,Artibonite,123.9331436157227,1
+HT0372-08,8e Section Margot,HT0372,Pilate,HT03,Nord,23.50236701965332,0
+HT0221-08,8e Section Oranger,HT0221,Bainet,HT02,Sud-Est,28.6338939666748,5
+HT0521-08,8e Section Ravine Gros Morne,HT0521,Gros Morne,HT05,Artibonite,47.82907867431641,1
+HT0221-09,9e Section Bas des Gris Gris,HT0221,Bainet,HT02,Sud-Est,75.51997375488281,8
+HT0113-09,9e Section Bizoton,HT0113,Carrefour,HT01,Ouest,5.823776245117188,2
+HT0121-09,9e Section Citronniers,HT0121,Léogâne,HT01,Ouest,20.06450080871582,3
+HT0131-09,9e Section des Crochus,HT0131,Croix-Des-Bouquets,HT01,Ouest,55.8456916809082,11
+HT0122-09,9e Section des Palmes,HT0122,Petit-Goâve,HT01,Ouest,31.23502922058105,9
+HT0731-09,9e Section Fond des Blancs,HT0731,Aquin,HT07,Sud,48.57405090332031,18
+HT0811-09,9e Section Fond Rouge Torbeck,HT0811,Jérémie,HT08,Grande'Anse,33.33430480957031,20
+HT0211-09,9e Section Haut Coq Chante,HT0211,Jacmel,HT02,Sud-Est,31.81768798828125,6
+HT0613-04,La Hoye,HT0613,Thomonde,HT06,Centre,109.1376724243164,2

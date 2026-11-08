@@ -1,0 +1,27 @@
+donnees,producteur,diffuseur,periode,licence,fichiers,url
+Découpage administratif (départements communes sections),CNIGS,HDX / OCHA,2018,CC BY-IGO,data/raw/admin ; data/processed/communes.csv,https://data.humdata.org/dataset/cod-ab-hti
+Contours géographiques des communes et départements,geoBoundaries (William & Mary),GitHub,2018-2023,CC BY 4.0,data/geo/*.geojson,https://www.geoboundaries.org
+Population par département et commune,IHSI (projections) / UNFPA,HDX / OCHA,2022,CC BY-IGO,data/raw/population,https://data.humdata.org/dataset/cod-ps-hti
+Localités (villes villages quartiers),OpenStreetMap / CNIGS,HDX,2018,ODbL,data/processed/localites.csv,https://data.humdata.org/dataset/hti-settlements
+Cartographie des institutions scolaires,MENFP,HDX,2022,voir HDX,data/processed/ecoles.csv,https://data.humdata.org
+Institutions d'enseignement supérieur reconnues,MENFP,Le Scientifique,2023 et 2026,citation,data/curated/universites.csv,https://lescientifique.org
+Indicateurs de développement (8 thèmes),Banque mondiale,HDX puis API Banque mondiale,1960-2022+,CC BY 4.0,data/processed/wb_indicateurs.csv ; data/live/wb_live.csv,https://data.worldbank.org/country/haiti
+Insécurité alimentaire aiguë,IPC,HDX / Food Security Portal,2023 et 2026,voir IPC,data/processed/ipc_historique.csv ; data/live/ipc_live.csv,https://www.ipcinfo.org
+Projections macroéconomiques récentes,FMI (WEO avril 2026),DG Trésor / Le Nouvelliste,2024-2027,citation,data/curated/indicateurs_actuels.csv,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture
+Personnes déplacées internes,OIM (DTM),Reuters,sept. 2026,citation,data/curated/indicateurs_actuels.csv,https://theprint.in/world/nearly-1-5-million-displaced-in-haiti-as-violence-spreads-un-says/3053711/
+COVID-19 par pays (archive),Johns Hopkins CSSE,Kaggle,juillet 2020,CC BY 4.0,data/processed/covid19_2020.csv,https://github.com/CSSEGISandData/COVID-19
+Organisations humanitaires (agrégé sans données personnelles),Base ONG AVL,fichier fourni,août 2020,usage interne,data/processed/organisations_humanitaires_2020.csv,
+Institutions géolocalisées (mise à jour),OpenStreetMap,API Overpass,en continu,ODbL,data/live/osm_institutions.csv,https://www.openstreetmap.org
+Publications et actualités (mise à jour),ReliefWeb / OCHA,API ReliefWeb,en continu,voir ReliefWeb,data/live/actualites.csv,https://reliefweb.int/country/hti
+Photos,fournies par l'utilisatrice,—,—,—,assets/img,
+Trait de côte (communes côtières),Natural Earth,GitHub,1:10 M,domaine public,data/geo/trait_de_cote.geojson,https://www.naturalearthdata.com
+Richesses et ressources (sélection sourcée),BRH / Le Nouvelliste / UNESCO / presse,voir chaque ligne,2012-2026,citation,data/curated/richesses.csv,
+Sites touristiques et îles,Wikipedia / UNESCO / CNIGS,—,2026,citation,data/curated/sites_touristiques.csv ; iles.csv,https://en.wikipedia.org/wiki/Tourism_in_Haiti
+Routes nationales / aéroports / ports,liste vérifiée + OpenStreetMap,API Overpass,en continu,ODbL,data/curated/routes_nationales.csv ; data/live/routes_osm.geojson,https://www.openstreetmap.org
+Actualités (médias haïtiens diaspora international),Le Nouvelliste / Haïti Libre / Juno7 / AyiboPost / Google Actualités…,flux RSS,toutes les 6 h,liens vers les sources,data/live/actualites.csv,
+Établissements d'enseignement géolocalisés (7 364),OpenStreetMap / HOT (export oex),fichier fourni (gpkg),5 octobre 2026,ODbL,data/raw/osm ; data/processed/etablissements_education_osm.csv,https://www.openstreetmap.org
+Palmarès sportif,Wikipedia / Concacaf / FIFA / presse,—,1924-2026,citation,data/curated/sport_palmares.csv ; sport_figures.csv,https://en.wikipedia.org/wiki/Haiti_national_football_team
+Konpa (chronologie),Wikipedia (Compas) / UNESCO,—,1948-2026,citation,data/curated/konpa.csv,https://en.wikipedia.org/wiki/Compas
+Histoire et solidarité internationale,Kansas City Defender / Wikipedia / Cambridge,—,1779-1960,citation,data/curated/histoire_solidarite.csv ; histoire_chronologie.csv,https://kansascitydefender.com/world/haiti-decolonization/
+Diaspora (pays villes métiers),Wikipedia (Haitians / Haitian diaspora) / Migration Policy Institute,—,2021-2025,citation,data/curated/diaspora_*.csv,https://www.migrationpolicy.org/article/haitian-immigrants-united-states
+Contributions de personnalités haïtiennes et descendants,Wikipedia / Université de Miami / Essence / MPI / Banque mondiale,—,1780-2026,citation ; photos Wikimedia Commons,data/curated/contributions.csv ; contributions_stats.csv,https://en.wikipedia.org/wiki/List_of_Haitians

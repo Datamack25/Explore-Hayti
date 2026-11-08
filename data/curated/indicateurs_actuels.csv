@@ -1,0 +1,27 @@
+theme,indicateur,periode,valeur,unite,statut,source,url,date_collecte
+Économie,Croissance du PIB réel,2024,-4.2,%,estimation,FMI via Le Nouvelliste,https://lenouvelliste.com/en/article/266685/imf-projects-17-gdp-growth-for-haiti-in-april-2026-report,2026-10-25
+Économie,Croissance du PIB réel,2025,-2.7,%,estimation,FMI (WEO avril 2026),https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Économie,Croissance du PIB réel,2026,-1.7,%,projection,FMI (WEO avril 2026),https://lenouvelliste.com/en/article/266685/imf-projects-17-gdp-growth-for-haiti-in-april-2026-report,2026-10-25
+Économie,Croissance du PIB réel,2027,0.5,%,projection,FMI (WEO avril 2026),https://lenouvelliste.com/en/article/266685/imf-projects-17-gdp-growth-for-haiti-in-april-2026-report,2026-10-25
+Économie,Inflation (prix à la consommation),2024,25.8,%,estimation,FMI via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Économie,Inflation (prix à la consommation),2025,28.3,%,estimation,FMI via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Finances publiques,Dette publique,oct. 2025,11.7,% du PIB,estimation,DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Finances publiques,Recettes publiques,2026,5.1,% du PIB,projection,FMI via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Finances publiques,Dépenses publiques,2026,5.8,% du PIB,projection,FMI via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Solde du compte courant,2025,1.9,% du PIB,estimation,DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Réserves internationales brutes,juin 2025,3105,millions USD,observé,BRH via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Réserves internationales nettes,juin 2025,1483,millions USD,observé,BRH via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Taux de change HTG/USD,2024-2026,131,gourdes pour 1 USD,observé (stable),BRH via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Investissements directs étrangers,EF2026,26,millions USD,projection,FMI via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Secteur extérieur,Transferts sans contrepartie (diaspora),2024,4100,millions USD,observé,BRH via Le Nouvelliste,https://lenouvelliste.com/en/article/252362/41-billion-in-unrequited-transfers-recorded-in-2024,2026-10-25
+Secteur extérieur,Transferts de la diaspora,actuel,16,% du PIB,estimation,BID via DG Trésor,https://www.tresor.economie.gouv.fr/Pays/HT/indicateurs-et-conjoncture,2026-10-25
+Sécurité alimentaire,Population analysée (IPC),mars-juin 2026,11300000,personnes,projection,IPC,https://www.foodsecurityportal.org/sites/default/files/2026-04/IPC_Haiti_Acute_Food_Insecurity_Projection_Update_Mar_Jun2026_Snapshot.pdf,2026-10-25
+Sécurité alimentaire,Personnes en phase IPC 3+ (crise ou pire),mars-juin 2026,5830000,personnes,projection,IPC,https://www.foodsecurityportal.org/sites/default/files/2026-04/IPC_Haiti_Acute_Food_Insecurity_Projection_Update_Mar_Jun2026_Snapshot.pdf,2026-10-25
+Sécurité alimentaire,Part de la population en phase IPC 3+,mars-juin 2026,52,%,projection,IPC,https://www.foodsecurityportal.org/sites/default/files/2026-04/IPC_Haiti_Acute_Food_Insecurity_Projection_Update_Mar_Jun2026_Snapshot.pdf,2026-10-25
+Sécurité alimentaire,Personnes en phase IPC 4 (urgence),mars-juin 2026,1900000,personnes,projection,IPC,https://www.foodsecurityportal.org/sites/default/files/2026-04/IPC_Haiti_Acute_Food_Insecurity_Projection_Update_Mar_Jun2026_Snapshot.pdf,2026-10-25
+Humanitaire,Personnes déplacées internes,sept. 2026,1500000,personnes,observé (≈),OIM via Reuters / ThePrint,https://theprint.in/world/nearly-1-5-million-displaced-in-haiti-as-violence-spreads-un-says/3053711/,2026-10-25
+Humanitaire,Part des déplacés hors Port-au-Prince,sept. 2026,80,%,observé (≈),OIM via Reuters / ThePrint,https://theprint.in/world/nearly-1-5-million-displaced-in-haiti-as-violence-spreads-un-says/3053711/,2026-10-25
+Éducation,Institutions d'enseignement supérieur reconnues,2018,138,institutions,observé,MENFP via Le Scientifique,https://lescientifique.org/wp-content/uploads/2026/07/Tendances-et-categorisation-des-institutions-denseignement-superieur-reconnues-en-Haiti-de-2018-a-2026.pdf,2026-10-25
+Éducation,Institutions d'enseignement supérieur reconnues,2023,156,institutions,observé,MENFP via Le Scientifique,https://lescientifique.org/wp-content/uploads/2026/07/Tendances-et-categorisation-des-institutions-denseignement-superieur-reconnues-en-Haiti-de-2018-a-2026.pdf,2026-10-25
+Éducation,Institutions d'enseignement supérieur reconnues,2024,177,institutions,observé,MENFP via Le Scientifique,https://lescientifique.org/wp-content/uploads/2026/07/Tendances-et-categorisation-des-institutions-denseignement-superieur-reconnues-en-Haiti-de-2018-a-2026.pdf,2026-10-25
+Éducation,Institutions d'enseignement supérieur reconnues,2026,190,institutions,observé,MENFP via Le Scientifique,https://lescientifique.org/wp-content/uploads/2026/07/Tendances-et-categorisation-des-institutions-denseignement-superieur-reconnues-en-Haiti-de-2018-a-2026.pdf,2026-10-25

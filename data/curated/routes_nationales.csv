@@ -1,0 +1,10 @@
+route,nom,villes,remarque
+RN1,Route nationale 1 (Nord),Port-au-Prince;Arcahaie;Saint-Marc;Gonaïves;Ennery;Plaisance;Limbé;Cap-Haïtien,Axe Port-au-Prince – Cap-Haïtien par la côte
+RN2,Route nationale 2 (Sud),Port-au-Prince;Carrefour;Léogâne;Grand-Goâve;Petit-Goâve;Miragoâne;Aquin;Cayes,Axe Port-au-Prince – Les Cayes
+RN3,Route nationale 3 (Plateau central),Port-au-Prince;Croix-Des-Bouquets;Mirebalais;Hinche;Saint-Raphaël;Dondon;Cap-Haïtien,Axe Port-au-Prince – Cap-Haïtien par le Centre
+RN6,Route nationale 6 (Nord-Est),Cap-Haïtien;Limonade;Trou-du-Nord;Fort-Liberté;Ouanaminthe,Vers la frontière dominicaine (Dajabón)
+RN7,Route nationale 7 (Grand'Anse),Cayes;Camp-Perrin;Beaumont;Jérémie,Traversée du massif de la Hotte
+RN8,Route nationale 8 (Est),Port-au-Prince;Croix-Des-Bouquets;Ganthier;Fonds-Verrettes,Vers le poste frontière de Malpasse
+—,Route de Jacmel,Léogâne;Jacmel,Liaison Ouest – Sud-Est
+—,Route Gonaïves – Port-de-Paix,Gonaïves;Gros Morne;Port-de-Paix,Liaison vers le Nord-Ouest
+—,Route Saint-Marc – Hinche,Saint-Marc;Mirebalais,Liaison Artibonite – Centre

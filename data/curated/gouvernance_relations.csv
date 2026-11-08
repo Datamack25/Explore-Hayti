@@ -1,0 +1,25 @@
+source,cible,type,contenu,frequence,canal,base_legale
+ASEC,CASEC,Contrôle,Avis et contrôle de la gestion de la section,Trimestriel,Réunion publique + PV numérisé,art. 63
+CASEC,MAIRE,Rapport,"Rapport de section : sécurité, état civil, récoltes, santé, catastrophes, conflits fonciers",Hebdomadaire,Appli hors ligne / SMS-USSD / radio,Décret 2006 (sections)
+COMM,MAIRE,Coordination sécurité,"Incidents de la commune (agrégés, sans données nominatives)",Hebdomadaire + alerte,Appli sécurisée,Loi PNH 1994
+MAIRE,VDEL,Rapport,"Rapport communal : budget exécuté, projets, état civil, marchés, synthèse des sections",Mensuel,Plateforme web,Décret 2006 (commune)
+VDEL,DEL,Rapport,Synthèse d'arrondissement,Mensuel,Plateforme web,art. 85-86
+DEL,MICT,Rapport,Synthèse départementale + alertes,Mensuel,Plateforme web,art. 85-86
+CDEP,MPCE,Planification,Plan de développement départemental et projets prioritaires,Annuel,Plateforme web,art. 81
+MICT,CEGOV,Rapport,"Tableau de bord territorial (taux de rapports reçus, alertes)",Continu,API (X-Road),À créer
+MPCE,CEGOV,Rapport,Avancement physique et financier des projets (PIP),Mensuel,API,Lois de finances
+MEF,CEGOV,Rapport,"Recettes douanières et fiscales par poste, flux de marchandises agrégés",Quotidien (agrégé),API,Code douanier
+MJSP,CEGOV,Rapport,"Incidents géolocalisés, routes ouvertes / fermées",Temps réel,Centre national d'opérations,Loi PNH 1994
+MD,CEGOV,Rapport,"Situation frontières, garde-côtes, génie militaire",Quotidien,Centre national d'opérations,art. 263-268
+CEGOV,PM,Rapport,Tableau de bord du dirigeant,Continu,Tableau de bord,À créer
+PM,PR,Rapport,Conseil des ministres : synthèse et décisions,Hebdomadaire,Conseil des ministres,art. 155-172
+MICT,MAIRE,Retour / financement,"Instructions, transferts FGDCT à dates publiées",Mensuel,Plateforme + virement,Décret 2006
+DDPNH,COMM,Commandement,"Ordres, effectifs, patrouilles géolocalisées",Continu,Radio + appli,Loi PNH 1994
+MJSP,DDPNH,Commandement,"Politique de sécurité, moyens",Continu,Chaîne de commandement,Loi PNH 1994
+MD,FADH,Commandement,"Missions frontières, côtes, génie",Continu,Chaîne de commandement,art. 264-268
+CSCCA,MAIRE,Contrôle,Audit des comptes communaux,Annuel,Accès lecture aux journaux de dépenses,art. 200-205
+CSCCA,MPCE,Contrôle,Audit des projets publics,Annuel,Accès lecture,art. 200-205
+OPC,CEGOV,Contrôle,Audit des accès aux données personnelles,Trimestriel,Journaux d'accès,art. 207
+ULCC,MEF,Contrôle,"Écarts douane / déclarations, marchés publics",Continu,Alertes automatiques,Lois 2001-2004
+PARL,PM,Contrôle,"Interpellation, budget, censure",Session,Séances publiques,Constitution (contrôle parlementaire)
+CEP,CEGOV,Rapport,"Registre électoral agrégé, centres de vote, résultats par bureau (données ouvertes)",Par scrutin,API publique,art. 191-199

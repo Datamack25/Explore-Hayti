@@ -1,0 +1,27 @@
+annee,date,type,vainqueur,score_vainqueur_pct,voix_vainqueur,participation_pct,nb_candidats,contexte,issue,fiabilite
+1807,1807-03-09,Élection indirecte (Sénat),Alexandre Pétion,,,,,Scission entre le Nord (Christophe) et la République du Sud,Mort en fonction (1818),Historique
+1818,1818-03-30,Élection indirecte (Sénat),Jean-Pierre Boyer,,,,,Succession de Pétion,Renversé (1843),Historique
+1847,1847-03-01,Élection indirecte (Sénat),Faustin Soulouque,,,,,Candidat de compromis jugé « malléable »,Se proclame empereur (1849) ; renversé (1859),Historique
+1870,1870-03-19,Élection indirecte (Assemblée),Nissage Saget,,,,,Après la guerre civile et l'exécution de Salnave,Premier mandat achevé (1874),Historique
+1879,1879-10-23,Élection indirecte (Assemblée),Lysius Salomon,,,,,Victoire du Parti national,Renversé (1888),Historique
+1889,1889-10-17,Élection indirecte (Assemblée),Florvil Hyppolite,,,,,Fin de la guerre civile Nord-Sud,Mort en fonction (1896),Historique
+1915,1915-08-12,Élection indirecte sous occupation,Philippe Sudré Dartiguenave,,,,,Choisi sous l'occupation américaine,Mandat achevé (1922),Historique
+1930,1930-11-18,Élection indirecte (Assemblée),Sténio Vincent,,,,,Retour d'une Assemblée élue,Fin de l'occupation (1934),Historique
+1946,1946-08-16,Élection indirecte (Assemblée),Dumarsais Estimé,,,,,Après la révolution de 1946,Renversé (1950),Historique
+1950,1950-10-08,Suffrage universel direct,Paul Eugène Magloire,,,,1,Première présidentielle au suffrage universel direct (hommes),Contraint à la démission (1956),Historique
+1957,1957-09-22,Suffrage universel direct,François Duvalier,,679884,,2,Face à Louis Déjoie ; scrutin organisé par la junte,Dictature ; président à vie (1964),Approximatif
+1961,1961-04-30,Plébiscite,François Duvalier,,,,1,Réélection proclamée lors des législatives,Président à vie (1964),Contesté
+1964,1964-06-14,Référendum,François Duvalier (présidence à vie),,,,1,Constitution de la présidence à vie,Mort en fonction (1971),Contesté
+1971,1971-01-31,Référendum,Jean-Claude Duvalier (successeur),,,,1,Approbation de la succession héréditaire,Renversé (1986),Contesté
+1985,1985-07-22,Référendum,Jean-Claude Duvalier,,,,1,Confirmation de la présidence à vie,Renversé (1986),Contesté
+1987,1987-11-29,Présidentielle annulée,—,,,,,Massacre de la ruelle Vaillant le jour du vote,Scrutin annulé,Historique
+1988,1988-01-17,Suffrage universel direct,Leslie Manigat,50.3,,10,,Scrutin boycotté et organisé par l'armée,Renversé après 4 mois,Contesté
+1990,1990-12-16,Suffrage universel direct,Jean-Bertrand Aristide,67.5,,50,11,Premières élections jugées libres ; observation ONU/OEA,Renversé (1991) puis rétabli (1994),Approximatif
+1995,1995-12-17,Suffrage universel direct,René Préval,87.9,,28,14,Après le retour de l'ordre constitutionnel,Mandat achevé (2001),Approximatif
+2000,2000-11-26,Suffrage universel direct,Jean-Bertrand Aristide,91.8,2632534,60,7,Boycott de l'opposition ; chiffres officiels contestés,Départ forcé (2004),Contesté
+2006,2006-02-07,Suffrage universel direct,René Préval,51.2,992766,59,33,Sous protection de la MINUSTAH,Mandat achevé (2011),Officiel
+2010,2010-11-28,Suffrage universel direct (1er tour),Mirlande Manigat (en tête),31.4,,23,19,Dix mois après le séisme ; résultats révisés après expertise de l'OEA,Second tour en 2011,Officiel
+2011,2011-03-20,Suffrage universel direct (2e tour),Michel Martelly,67.6,716986,23,2,Second tour Martelly – Manigat,Mandat achevé sans successeur élu (2016),Officiel
+2015,2015-10-25,Présidentielle annulée (1er tour),Jovenel Moïse (en tête),32.8,,26,54,Accusations de fraude ; commission de vérification,Résultats annulés (2016),Officiel
+2016,2016-11-20,Suffrage universel direct,Jovenel Moïse,55.6,590927,21,27,Élection reprise après l'annulation de 2015 ; ouragan Matthew,Assassiné (2021),Officiel
+2027,2027-07-18,Présidentielle prévue (1er tour),—,,,,18,Après 10 ans sans élection ; insécurité ; 18 candidatures déclarées au 25/10/2026,À venir,Prévu

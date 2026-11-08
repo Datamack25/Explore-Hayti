@@ -1,0 +1,21 @@
+id,nom,niveau,commune,departement,province_rd_vis_a_vis,lat,lon,statut,mission,effectif,annee_ouverture
+GP1,Ouanaminthe – Dajabón,Grand poste (guichet unique),Ouanaminthe,Nord-Est,Dajabón,19.5604,-71.7218,Existant – à moderniser,"1er poste commercial ; marché binational ; scanners, biométrie, voies camions séparées",120,1
+GP2,Thomassique,Grand poste (guichet unique),Thomassique,Centre,Elías Piña,19.0256,-71.7725,Existant – à moderniser,Bureau de douane frontalier ; flux agricoles et bétail du Plateau central,120,1
+GP3,Belladère – Elías Piña (Comendador),Grand poste (guichet unique),Belladère,Centre,Elías Piña,18.88,-71.7341,Existant – à moderniser,Axe Mirebalais–Lascahobas–Belladère ; marché binational,120,1
+GP4,Malpasse – Jimaní,Grand poste (guichet unique),Ganthier,Ouest,Independencia,18.5217,-71.8944,Existant – à moderniser,"Porte de Port-au-Prince (RN8) ; carburant, ciment, fer ; risque armes",120,1
+GP5,Anse-à-Pitres – Pedernales,Grand poste (guichet unique),Anse-à-Pître,Sud-Est,Pedernales,18.0419,-71.7484,Existant – à moderniser,Marché binational ; passage piéton et côtier,120,1
+PS1,Ferrier,Poste secondaire,Ferrier,Nord-Est,Dajabón / Montecristi,19.6331,-71.7409,À créer,Rive de la rivière Massacre ; contrebande vers Fort-Liberté ; complète Ouanaminthe,30,2
+PS2,Capotille,Poste secondaire,Capotille,Nord-Est,Dajabón,19.4721,-71.6899,À créer,Passages piétons et motos du Nord-Est ; marché local,30,2
+PS3,Mont-Organisé,Poste secondaire,Mont-Organisé,Nord-Est,Dajabón,19.3369,-71.7698,À créer,Zone de montagne ; café et bétail ; passages informels nombreux,30,3
+PS4,Carice,Poste secondaire,Carice,Nord-Est,Dajabón,19.27,-71.7194,À créer,Route Ouanaminthe–Carice prévue au programme Etzer,30,3
+PS5,Cerca La Source,Poste secondaire,Cerca La Source,Centre,Elías Piña,19.102,-71.7037,À créer,"Plus long segment frontalier du Centre ; bétail, charbon",30,2
+PS6,Savanette,Poste secondaire,Savanette,Centre,Elías Piña / Independencia,18.7104,-71.7757,À créer,Entre Belladère et l'Étang Saumâtre ; zone peu surveillée,30,3
+PS7,Fonds-Verrettes,Poste secondaire,Fonds-Verrettes,Ouest,Independencia,18.4038,-71.8259,À créer,Route vers la Forêt-des-Pins ; bois et charbon ; zone exposée (relogement prévu),30,2
+PS8,Grand Gosier,Poste secondaire,Grand Gosier,Sud-Est,Pedernales / Independencia,18.2473,-71.7472,À créer,Relie Anse-à-Pitres à Thiotte ; café de Thiotte,30,3
+BS1,Massif du Nord (FAd'H),Base de surveillance,Carice / Mont-Organisé,Nord-Est,Dajabón,19.2,-71.6159,À créer,Patrouilles entre Carice et Cerca-la-Source (segment montagneux sans poste),40,3
+BS2,Lascahobas (FAd'H),Base de surveillance,Lascahobas,Centre,Elías Piña,18.8685,-71.9677,À créer,Réserve d'intervention du Centre (en retrait) ; appui à Belladère et Thomassique,40,2
+BS3,Cornillon / Grand-Bois (FAd'H),Base de surveillance,Cornillon / Grand Bois,Ouest,Independencia,18.652,-71.9458,À créer,Montagnes entre Savanette et l'Étang Saumâtre ; routes de trafic d'armes vers la capitale,40,2
+BS4,Thomazeau – Étang Saumâtre (FAd'H + brigade lacustre),Base de surveillance,Thomazeau,Ouest,Independencia,18.6356,-72.0009,À créer,Surveillance du lac (passages en barque) au nord de Malpasse,40,1
+BS5,Forêt-des-Pins (FAd'H + gardes forestiers),Base de surveillance,Fonds-Verrettes,Ouest / Sud-Est,Independencia / Pedernales,18.335,-71.86,À créer,Coupes illégales de bois et charbon ; protection de la forêt,40,3
+BS6,Fort-Liberté (garde-côtes),Base de surveillance,Fort-Liberté,Nord-Est,Montecristi (baie de Mancenille),19.5668,-71.8491,À créer,Trafics maritimes de la baie ; appui au futur port international,40,1
+BS7,Belle-Anse (garde-côtes),Base de surveillance,Belle Anse,Sud-Est,Pedernales (côte),18.2764,-72.0787,À créer,Côte sud-est entre Jacmel et Anse-à-Pitres ; débarquements clandestins,40,2

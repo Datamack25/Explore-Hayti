@@ -1,0 +1,14 @@
+poste_budgetaire,nature,quantite,unite,cout_unitaire_bas,cout_unitaire_median,cout_unitaire_haut,part_locale_pct,phasage_annuel_pct,reference
+"Modernisation des 5 grands postes (bâtiments, voies camions, parkings, énergie solaire)",Investissement,5,poste,3000000.0,5000000.0,8000000.0,70,40;60;0;0;0,Ordre de grandeur : modernisation de Machipanda (Mozambique-Zimbabwe) 30 M USD ; postes haïtiens plus petits — https://www.financialafrik.com/en/2026/08/02/mozambique-zimbabwe-30-million-invested-in-modernizing-the-machipanda-border-post/
+Scanners camions / conteneurs,Investissement,5,scanner,2000000.0,2650000.0,3500000.0,5,40;60;0;0;0,"Scanners de Tunduma : 2,65 M USD — https://trademarkafrica.com/x-ray-cargo-scanners-worth-usd-2-65-million-set-to-improve-efficiency-and-revenue-collection-at-tunduma-osbp/"
+Postes secondaires (8),Investissement,8,poste,500000.0,900000.0,1500000.0,80,0;50;50;0;0,"Estimation Ayiti Data Hub (bâtiment en matériaux locaux, solaire, liaison radio/VSAT)"
+Bases de surveillance FAd'H / garde-côtes (7),Investissement,7,base,400000.0,700000.0,1200000.0,75,29;43;28;0;0,"Estimation (génie militaire FAd'H, main-d'œuvre locale)"
+Embarcations garde-côtes et lacustres,Investissement,6,embarcation,150000.0,350000.0,600000.0,30,50;50;0;0;0,Estimation
+"Véhicules (4x4, motos tout-terrain)",Investissement,1,lot,3000000.0,4500000.0,6000000.0,10,40;30;30;0;0,Estimation
+"Drones, capteurs, caméras",Investissement,1,lot,1500000.0,2500000.0,4000000.0,15,20;40;40;0;0,Estimation
+"Système d'information (SYDONIA, biométrie, vidéo, centre de commandement, VSAT/fibre)",Investissement,1,lot,4000000.0,6000000.0,9000000.0,40,40;30;20;5;5,Estimation ; développement confié en partie à des entreprises et universités haïtiennes
+"Pistes d'accès aux postes secondaires (≈80 km, HIMO)",Investissement,80,km,80000.0,150000.0,250000.0,85,0;40;60;0;0,"Routes rurales en gravier, travaux à haute intensité de main-d'œuvre"
+"Personnel (≈1 120 agents : DIE, AGD, PNH, FAd'H, MARNDR, IT)",Fonctionnement,1120,agent/an,6500,8500,11000,100,40;65;90;100;100,Salaire chargé + primes de risque et de zone frontalière
+Formation initiale et continue,Fonctionnement,1120,agent,900,1500,2500,70,40;30;20;5;5,"Académie de police, écoles haïtiennes, partenaires"
+"Carburant, entretien, fonctionnement courant",Fonctionnement,1,an,1800000.0,2500000.0,3500000.0,60,40;70;90;100;100,Estimation
+"Comités frontaliers locaux, marchés binationaux, communication",Fonctionnement,1,an,200000.0,300000.0,500000.0,100,50;100;100;100;100,Estimation

@@ -1,0 +1,181 @@
+nom,sigle,statut,composante,commune,departement,precision_localisation,adm2_pcode
+Université d'État d'Haïti (rectorat),UEH,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté de Droit et des Sciences Économiques,FDSE,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté d'Agronomie et de Médecine Vétérinaire,FAMV,Public,UEH,Tabarre,Ouest,à vérifier (Damien),HT0118
+Faculté des Sciences,FDS,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté de Linguistique Appliquée,FLA,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté d'Ethnologie,FE,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté d'Odontologie,FO,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté de Médecine et de Pharmacie,FMP,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Institut National d'Administration de Gestion et des Hautes Études Internationales,INAGHEI,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Faculté des Sciences Humaines,FASCH,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+Institut Supérieur d'Études et de Recherche en Sciences Sociales,ISERSS,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+École Normale Supérieure,ENS,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+École Nationale des Infirmières de Port-au-Prince,ENIP,Public,UEH,Port-au-Prince,Ouest,document MENFP,HT0111
+École de Droit et des Sciences Économiques des Gonaïves,,Public,UEH,Gonaïves,Artibonite,document MENFP,HT0511
+Faculté de Droit des Sciences Économiques et de Gestion du Cap-Haïtien,,Public,UEH,Cap-Haïtien,Nord,document MENFP,HT0311
+École de Droit et des Sciences Économiques des Cayes,,Public,UEH,Cayes,Sud,document MENFP,HT0711
+École de Droit et des Sciences Économiques de Jacmel,,Public,UEH,Jacmel,Sud-Est,document MENFP,HT0211
+École de Droit et des Sciences Économiques de Hinche,,Public,UEH,Hinche,Centre,document MENFP,HT0611
+École de Droit de Fort-Liberté,,Public,UEH,Fort-Liberté,Nord-Est,document MENFP,HT0411
+École de Droit et des Sciences Économiques de Port-de-Paix,,Public,UEH,Port-de-Paix,Nord-Ouest,document MENFP,HT0911
+Campus Henri Christophe de Limonade,,Public,UEH,Limonade,Nord,document MENFP,HT0313
+École Nationale des Infirmières du Cap-Haïtien (Justinien),,Public,UEH,Cap-Haïtien,Nord,document MENFP,HT0311
+École Nationale des Infirmières des Cayes,,Public,UEH,Cayes,Sud,document MENFP,HT0711
+École Nationale des Infirmières de Jérémie,,Public,UEH,Jérémie,Grande'Anse,document MENFP,HT0811
+Université Publique du Nord au Cap-Haïtien,UPNCH,Public,UPR,Cap-Haïtien,Nord,document MENFP,HT0311
+Université Publique de l'Artibonite aux Gonaïves,UPAG,Public,UPR,Gonaïves,Artibonite,document MENFP,HT0511
+Université Publique du Sud aux Cayes,UPSAC,Public,UPR,Cayes,Sud,document MENFP,HT0711
+Université Publique du Sud-Est à Jacmel,UPSEJ,Public,UPR,Jacmel,Sud-Est,document MENFP,HT0211
+Université Publique du Nord-Ouest à Port-de-Paix,UPNOPP,Public,UPR,Port-de-Paix,Nord-Ouest,document MENFP,HT0911
+Université Publique du Centre (Hinche),UPCHM,Public,UPR,Hinche,Centre,document MENFP,HT0611
+Université Publique du Centre (Mirebalais),UPCHM,Public,UPR,Mirebalais,Centre,document MENFP,HT0621
+Université Publique des Nippes,UPNIP,Public,UPR,Miragoâne,Nippes,chef-lieu présumé,HT1011
+Université Publique du Nord-Est,UPNE,Public,UPR,Fort-Liberté,Nord-Est,chef-lieu présumé,HT0411
+Université Publique de la Grand'Anse,UPGA,Public,UPR,Jérémie,Grande'Anse,chef-lieu présumé,HT0811
+Université Publique du Bas Artibonite à Saint-Marc,UPBAS,Public,UPR,Saint-Marc,Artibonite,document MENFP,HT0531
+Centre de Techniques de Planification et d'Économie Appliquée,CTPEA,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+Centre de Formation des Enseignants du Fondamental,CFEF,Public,École ministérielle,,,,
+École Nationale Supérieure de Technologie,ENST,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+École Nationale des Arts,ENARTS,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+École Nationale de Géologie Appliquée,ENGA,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+École Nationale d'Administration Financière,ENAF,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+École Nationale d'Administration et de Politiques Publiques,ENAPP,Public,École ministérielle,Port-au-Prince,Ouest,à vérifier,HT0111
+Université Quisqueya,UNIQ,Privé,Privé,Port-au-Prince,Ouest,connaissance générale,HT0111
+Université Notre Dame d'Haïti,UNDH,Privé,Privé,Port-au-Prince,Ouest,connaissance générale,HT0111
+Université Adventiste d'Haïti,UNAH,Privé,Privé,Carrefour,Ouest,connaissance générale (Diquini),HT0113
+Université Épiscopale d'Haïti,UNEPH,Privé,Privé,Port-au-Prince,Ouest,connaissance générale,HT0111
+Université de la Fondation Aristide,UNIFA,Privé,Privé,Tabarre,Ouest,connaissance générale,HT0118
+Université INUKA,,Privé,Privé,Port-au-Prince,Ouest,à vérifier,HT0111
+Université Lumière,UL,Privé,Privé,Port-au-Prince,Ouest,à vérifier,HT0111
+Université Autonome de Port-au-Prince,UNAP,Privé,Privé,Port-au-Prince,Ouest,nom de l'institution,HT0111
+Université de Port-au-Prince,UP,Privé,Privé,Port-au-Prince,Ouest,nom de l'institution,HT0111
+Université de Pétion-Ville,UNP,Privé,Privé,Pétion-Ville,Ouest,nom de l'institution,HT0114
+Université de Léogane,UNIVEL,Privé,Privé,Léogâne,Ouest,nom de l'institution,HT0121
+Université Fondwa,UNIF,Privé,Privé,Léogâne,Ouest,connaissance générale (Fondwa),HT0121
+Collège Universitaire de Christianville,CUC,Privé,Privé,Gressier,Ouest,connaissance générale,HT0116
+Séminaire de Théologie Évangélique de Port-au-Prince,STEP,Privé,Privé,Port-au-Prince,Ouest,nom de l'institution,HT0111
+Université Roi Henri Christophe,URHC,Privé,Privé,Limonade,Nord,connaissance générale,HT0313
+Université Chrétienne du Nord d'Haïti,UCNH,Privé,Privé,Limbé,Nord,connaissance générale,HT0361
+Université Franco-Haïtienne du Cap-Haïtien,UFCH,Privé,Privé,Cap-Haïtien,Nord,nom de l'institution,HT0311
+Université Américaine des Cayes,AUC,Privé,Privé,Cayes,Sud,nom de l'institution,HT0711
+Institut de Formation Juridique et des Sciences Connexes des Cayes,INFOJUSC,Privé,Privé,Cayes,Sud,nom de l'institution,HT0711
+Université de Jérémie,UJ,Privé,Privé,Jérémie,Grande'Anse,nom de l'institution,HT0811
+École Supérieure Catholique de Droit de Jérémie,ESCDROJ,Privé,Privé,Jérémie,Grande'Anse,nom de l'institution,HT0811
+Université Nouvelle Grand'Anse,UNOGA,Privé,Privé,Jérémie,Grande'Anse,à vérifier,HT0811
+Université Chrétienne d'Haïti - Mission Évangélique des Gonaïves,,Privé,Privé,Gonaïves,Artibonite,nom de l'institution,HT0511
+École de Droit et de Notariat de Saint-Marc,,Privé,Privé,Saint-Marc,Artibonite,nom de l'institution,HT0531
+Université Indépendante de l'Artibonite,UIA,Privé,Privé,,Artibonite,nom (département),
+Université de Bas Artibonite,UNIBA,Privé,Privé,,Artibonite,nom (département),
+Université Libre du Sud-Est,,Privé,Privé,,Sud-Est,nom (département),
+Université du Grand Sud d'Haïti,UGSH,Privé,Privé,,Sud,nom (département),
+Institut d'Études Supérieures de l'Ouest,IESO,Privé,Privé,,Ouest,nom (département),
+Institut Universitaire de l'Ouest,IUO,Privé,Privé,,Ouest,nom (département),
+Université Chrétienne Renaissance du Centre d'Haïti,UCRECH,Privé,Privé,,Centre,nom (département),
+Université Américaine des Sciences Modernes d'Haïti,UNASMOH,Privé,Privé,,,,
+Université André Laroche,UAL,Privé,Privé,,,,
+Université Anténor Firmin,UNAF,Privé,Privé,,,,
+Université Alexandre Dumas,UNAD,Privé,Privé,,,,
+Université Autonome Charlemagne Péralte,UNACP,Privé,Privé,,,,
+Université Atlantique d'Haïti,UNIVERSAH,Privé,Privé,,,,
+Université Bellevue,UNIBEL,Privé,Privé,,,,
+Université Caraïbe,UC,Privé,Privé,,,,
+Université Chrétienne de la Communauté de Caïman,UCCC,Privé,Privé,,,,
+Université Espoir de Calvary Chapel,UECC,Privé,Privé,,,,
+Université Emmaüs,,Privé,Privé,,,,
+Université de la Concorde,,Privé,Privé,,,,
+Université de Technologie d'Haïti,UNITECH,Privé,Privé,,,,
+Université des Sciences Administratives et de la Santé,UNISAS,Privé,Privé,,,,
+Université d'Études Internationales,UDEI,Privé,Privé,,,,
+Université Évangélique d'Haïti,UNEH,Privé,Privé,,,,
+Université Edouard Genner,,Privé,Privé,,,,
+Université GOC,,Privé,Privé,,,,
+Université Intégrée de la Caraïbe,UNICA,Privé,Privé,,,,
+Université Internationale d'Hispaniola,UNIDHI,Privé,Privé,,,,
+Université Jean-Price Mars,UJPM,Privé,Privé,,,,
+Université Métropole d'Haïti,UMH,Privé,Privé,,,,
+Université Métropolitaine Anacaona,UMA,Privé,Privé,,,,
+Université Polyvalente d'Haïti,UPH,Privé,Privé,,,,
+Université Providence d'Haïti,UPROH,Privé,Privé,,,,
+Université Queensland,UQ,Privé,Privé,,,,
+Université Ruben Leconte,URL,Privé,Privé,,,,
+Université Saint-Gérard,USG,Privé,Privé,,,,
+Université Saint François d'Assise d'Haïti,USFAH,Privé,Privé,,,,
+Université Ponds d'Espoir d'Haïti,UPOESAH,Privé,Privé,,,,
+Université Joseph Lafortune,UJLF,Privé,Privé,,,,
+Université La Pléiade d'Haïti,UPLEH,Privé,Privé,,,,
+Université Royale d'Haïti,URH,Privé,Privé,,,,
+Université Mont Everest d'Haïti,UNEDH,Privé,Privé,,,,
+Université Polytechnique Notre Dame du Rosaire,UPONDRO,Privé,Privé,,,,
+Université Sainte Geneviève,,Privé,Privé,,,,
+Université Patronale d'Haïti,UNPH,Privé,Privé,,,,
+Université Innovatrice d'Haïti,UNIH,Privé,Privé,,,,
+Université Internationale de la Caraïbe,,Privé,Privé,,,,
+Université Nobel d'Haïti,UNH,Privé,Privé,,,,
+Université Valparaiso,UV,Privé,Privé,,,,
+Université Moderne d'Haïti,UMDH,Privé,Privé,,,,
+Université Michel Nord Isaac,,Privé,Privé,,,,
+Université Nissage Saget,UNISSA,Privé,Privé,,,,
+Université Nelson Mandela,UNM,Privé,Privé,,,,
+Université La Ferrière Joseph,UFJ,Privé,Privé,,,,
+Université de la Renaissance d'Haïti,,Privé,Privé,,,,
+Université Les Encyclopédistes d'Haïti,,Privé,Privé,,,,
+Université du SEED International Institute of Tropical Agriculture,USITA,Privé,Privé,,,,
+Université de Technologies et Sciences,UTS,Privé,Privé,,,,
+Université Soleil d'Haïti,USH,Privé,Privé,,,,
+Université Yahvé Nissi,UNYN,Privé,Privé,,,,
+Séminaire Théologique de l'Église de Dieu en Haïti,STEDH,Privé,Privé,,,,
+Faculté Craan d'Haïti,FCA,Privé,Privé,,,,
+Faculté des Sciences Appliquées,FSA,Privé,Privé,,,,
+Faculté des Sciences de l'Éducation Regina Assumpta,FERA,Privé,Privé,,,,
+Institut de Technologie Électronique d'Haïti,ITEH,Privé,Privé,,,,
+Institut Technique de la Côte Sud,ITCS,Privé,Privé,,,,
+Institut des Sciences des Technologies et des Études Avancées d'Haïti,ISTEAH,Privé,Privé,,,,
+Institut de Formation des Cadres,IFC,Privé,Privé,,,,
+Institut de Formation Appliquée,IFA,Privé,Privé,,,,
+Institut de Formation Supérieure en Sciences Administratives et Appliquées,IFSA,Privé,Privé,,,,
+Institut des Hautes Études Commerciales et Économiques,IHECE,Privé,Privé,,,,
+Institut Haïtien des Sciences Administratives,IHSA,Privé,Privé,,,,
+Institut Haïtien de Formation en Sciences de l'Éducation,IHFOSED,Privé,Privé,,,,
+Institut International de Communication et des Relations Publiques,IICRP,Privé,Privé,,,,
+Institut Supérieur de Recherche et de Développement Technologique,ISRDT,Privé,Privé,,,,
+Institut Supérieur des Sciences Économiques Politiques et Juridiques,ISSEPJ,Privé,Privé,,,,
+Institut Supérieur Technique d'Haïti,ISTH,Privé,Privé,,,,
+Institut Supérieur et Universitaire Professionnalisé,ISUP-EMATECH,Privé,Privé,,,,
+Institut Universitaire des Sciences de l'Éducation,IUSE/CREFI,Privé,Privé,,,,
+Institut Universitaire des Sciences Juridiques et de Développement Régional,INUJED,Privé,Privé,,,,
+Institut Universitaire de Formation des Cadres,INUFOCAD,Privé,Privé,,,,
+Institut Universitaire de la Référence,INUREP,Privé,Privé,,,,
+Institut Louis Pasteur,ILP,Privé,Privé,,,,
+Institut de Formation Biblique et Théologique d'Haïti,IFBTH,Privé,Privé,,,,
+Institut de Philosophie Saint François de Sales,IPSES,Privé,Privé,,,,
+Info World University,IWU,Privé,Privé,,,,
+École Supérieure Isaac Newton,ESIN,Privé,Privé,,,,
+École Supérieure d'Infotronique d'Haïti,ESIH,Privé,Privé,,,,
+École Supérieure de Chimie,CHEMTEK,Privé,Privé,,,,
+École Supérieure de Technologie d'Haïti,ESTH,Privé,Privé,,,,
+Centre d'Études Diplomatiques et Internationales,CEDI,Privé,Privé,,,,
+Centre de Formation et de Développement Économique,CFDE,Privé,Privé,,,,
+Centre de Management et de Productivité,CMP,Privé,Privé,,,,
+Centre de Recherche en Finance Informatique et Management,CREFIMA,Privé,Privé,,,,
+Centre de Conseil et de Formation aux Entreprises,CECOFE,Privé,Privé,,,,
+Centre d'Informatique de Statistique et d'Administration,CISA,Privé,Privé,,,,
+Centre du Savoir Universel,CSU,Privé,Privé,,,,
+Centre Universitaire Moderne d'Haïti,CUMOH,Privé,Privé,,,,
+Centre Universitaire Lumière Anacaona,CULA,Privé,Privé,,,,
+Centre Universitaire de Développement Intégré,CUDI,Privé,Privé,,,,
+Centre Universitaire Maurice Laroche,CUML,Privé,Privé,,,,
+Centre Universitaire Polytechnique d'Haïti,CUPH,Privé,Privé,,,,
+Collège Universitaire de Roumanie,CURO,Privé,Privé,,,,
+CFEF Filles de Marie Paridaens,,Privé,Privé,,,,
+Académie Nationale Diplomatique et Consulaire,ANDC,Privé,Privé,,,,
+Académie Internationale des Sciences Politiques Administratives et Stratégiques,AISPAS,Privé,Privé,,,,
+Académie des Sciences Pures et Appliquées,ASPA,Privé,Privé,,,,
+Azure University,AU,Privé,Privé,,,,
+Académie de Formation et de Perfectionnement des Cadres,AFPEC,Privé,Privé,,,,
+Burnett International University,BIU,Privé,Privé,,,,
+Grand Séminaire Notre Dame,GSND,Privé,Privé,,,,
+Haitian Education and Leadership Program,HELP,Privé,Privé,,,,
+Mission Baptiste Conservatrice d'Haïti,MBCH,Privé,Privé,,,,
+PAODES Université,,Privé,Privé,,,,
+Spring Hill University,SHU,Privé,Privé,,,,

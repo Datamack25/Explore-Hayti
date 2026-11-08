@@ -1,0 +1,18 @@
+nom,type,code,commune,lat,lon,remarque
+Aéroport international Toussaint Louverture,Aéroport international,PAP,Tabarre,18.5800,-72.2925,Principal aéroport du pays (coordonnées Natural Earth/OSM)
+Aéroport international du Cap-Haïtien,Aéroport international,CAP,Cap-Haïtien,,,Second aéroport international
+Aéroport de Jacmel,Aéroport régional,JAK,Jacmel,,,
+Aéroport Antoine-Simon des Cayes,Aéroport régional,CYA,Cayes,,,
+Aéroport de Jérémie,Aéroport régional,JEE,Jérémie,,,
+Aéroport de Port-de-Paix,Aéroport régional,PAX,Port-de-Paix,,,
+Port international de Port-au-Prince,Port,,Port-au-Prince,,,Principal port de commerce
+Port Lafito,Port,,Cabaret,,,Port privé en eau profonde
+Port international du Cap-Haïtien,Port,,Cap-Haïtien,,,
+Port de Gonaïves,Port,,Gonaïves,,,
+Port de Saint-Marc,Port,,Saint-Marc,,,
+Port de Miragoâne,Port,,Miragoâne,,,
+Port de Jacmel,Port,,Jacmel,,,
+Port des Cayes,Port,,Cayes,,,
+Port de Jérémie,Port,,Jérémie,,,
+Port de Port-de-Paix,Port,,Port-de-Paix,,,
+Port de Fort-Liberté,Port,,Fort-Liberté,,,

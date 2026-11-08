@@ -1,0 +1,31 @@
+id,nom,type,adm1_pcode,commune,lat,lon,institutions,flux_suivis,mesure_programme_etzer,source
+F1,Poste frontalier de Ouanaminthe – Dajabón,Frontière terrestre,HT04,Ouanaminthe,19.552,-71.727,"DIE, AGD, PNH (POLIFRONT), FAd'H","Personnes, marchandises (1er poste commercial), véhicules","Scanners, biométrie, unité mixte antitrafic (100 premiers jours)",https://voteetzer.ht/priorite/securite
+F2,Poste frontalier de Belladère – Elías Piña,Frontière terrestre,HT06,Belladère,18.858,-71.775,"DIE, AGD, PNH, FAd'H","Personnes, marchandises, bétail",Reprise du contrôle des postes frontaliers (100 premiers jours),https://voteetzer.ht/priorite/securite
+F3,Poste frontalier de Malpasse – Jimaní,Frontière terrestre,HT01,Fonds-Verrettes / Ganthier,18.531,-71.885,"DIE, AGD, PNH, FAd'H","Personnes, marchandises (axe RN8 vers Port-au-Prince)",Autoroute Malpasse – centre de Port-au-Prince ; reprise du poste,https://voteetzer.ht/priorite/infrastructures
+F4,Poste frontalier d'Anse-à-Pitres – Pedernales,Frontière terrestre,HT02,Anse-à-Pitres,18.045,-71.752,"DIE, AGD, PNH, FAd'H","Personnes, marché binational",Reprise du contrôle des postes frontaliers,https://voteetzer.ht/priorite/securite
+F5,Poste frontalier de Thomassique,Frontière terrestre,HT06,Thomassique,19.0256,-71.7725,"AGD, DIE, PNH, FAd'H","Personnes, produits agricoles, bétail",Reprise du contrôle des postes frontaliers (100 premiers jours),https://lenouvelliste.com/en/article/253400/a-closer-look-at-the-porous-haiti-dominican-republic-border
+P1,Port international de Port-au-Prince (APN),Port,HT01,Port-au-Prince,18.556,-72.35,"APN, AGD, PNH portuaire","Conteneurs, vrac, produits alimentaires, armes saisies",Scanners + unité antitrafic ; ZES Port-au-Prince / Varreux,https://voteetzer.ht/priorite/securite
+P2,Terminal de Varreux,Port,HT01,Cité Soleil,18.585,-72.33,"APN, AGD","Carburants, vrac",Réhabilitation énergie Varreux ; ZES,https://voteetzer.ht/priorite/infrastructures
+P3,Port Lafito (Lafiteau),Port,HT01,Cabaret / Arcahaie,18.683,-72.402,"Privé, AGD",Conteneurs,ZES Port-au-Prince / Lafiteau,https://voteetzer.ht/priorite/emplois
+P4,Port international du Cap-Haïtien,Port,HT03,Cap-Haïtien,19.762,-72.196,"APN, AGD, PNH","Conteneurs, croisière","Port de croisière, terminal gazier ; ZES Cap-Haïtien",https://voteetzer.ht/priorite/infrastructures
+P5,Port de Fort-Liberté,Port,HT04,Fort-Liberté,19.675,-71.838,"APN, AGD",Cabotage (projet international),Port international prévu ; ZES Nord-Est,https://voteetzer.ht/priorite/infrastructures
+P6,Port de Miragoâne,Port,HT10,Miragoâne,18.446,-73.09,"APN, AGD, garde-côtes","Cabotage, vrac, trafics signalés",Port international + terminal gazier,https://voteetzer.ht/priorite/infrastructures
+P7,Port de Saint-Marc,Port,HT05,Saint-Marc,19.108,-72.7,"APN, AGD","Conteneurs, cabotage",Port de cabotage,https://voteetzer.ht/priorite/infrastructures
+P8,Port des Gonaïves,Port,HT05,Gonaïves,19.45,-72.69,"APN, AGD",Cabotage,Port de cabotage,https://voteetzer.ht/priorite/infrastructures
+P9,Port de Port-de-Paix,Port,HT09,Port-de-Paix,19.942,-72.832,"APN, AGD, garde-côtes","Cabotage, flux vers les Bahamas / Turks-et-Caïcos",Port de transbordement,https://voteetzer.ht/priorite/infrastructures
+P10,Port de Jérémie,Port,HT08,Jérémie,18.652,-74.117,"APN, AGD","Cabotage, cacao",Transbordement + cabotage,https://voteetzer.ht/priorite/infrastructures
+P11,Port des Cayes,Port,HT07,Les Cayes,18.19,-73.748,"APN, AGD","Cabotage, vétiver",Port de cabotage,https://voteetzer.ht/priorite/infrastructures
+P12,Port de Jacmel,Port,HT02,Jacmel,18.232,-72.535,"APN, AGD","Croisière, cabotage",Port de croisière,https://voteetzer.ht/priorite/infrastructures
+P13,Port de Saint-Louis-du-Sud,Port,HT07,Saint-Louis-du-Sud,18.262,-73.548,"APN, AGD",Projet,Port international prévu ; ZES Sud,https://voteetzer.ht/priorite/infrastructures
+A1,Aéroport international Toussaint-Louverture,Aéroport,HT01,Tabarre,18.58,-72.293,"DIE, AGD, AAN, PNH","Voyageurs, fret aérien, diaspora",Biométrie + scanners ; extension,https://voteetzer.ht/priorite/securite
+A2,Aéroport international Hugo-Chávez du Cap-Haïtien,Aéroport,HT03,Cap-Haïtien,19.733,-72.195,"DIE, AGD, AAN",Voyageurs (porte d'entrée principale en 2024-2026),Extension,https://voteetzer.ht/priorite/infrastructures
+A3,Aéroport des Cayes (Antoine-Simon),Aéroport,HT07,Les Cayes,18.271,-73.788,AAN,Vols intérieurs,Futur aéroport international,https://voteetzer.ht/priorite/infrastructures
+A4,Aéroport de Jacmel,Aéroport,HT02,Jacmel,18.241,-72.519,AAN,Vols intérieurs,—,
+A5,Aéroport de Jérémie,Aéroport,HT08,Jérémie,18.663,-74.17,AAN,Vols intérieurs,Extension,https://voteetzer.ht/priorite/infrastructures
+A6,Aéroport de Port-de-Paix,Aéroport,HT09,Port-de-Paix,19.934,-72.849,AAN,Vols intérieurs,Aéroport local,https://voteetzer.ht/priorite/infrastructures
+R1,Corridor RN2 – Martissant (sortie sud de Port-au-Prince),Axe routier,HT01,Port-au-Prince,18.527,-72.372,"PNH, FAd'H (unité interarmes)",Liaison vers les 4 départements du Grand Sud,Unité tactique PNH-FAd'H ; RN praticables sans escorte en 2029,https://voteetzer.ht/priorite/securite
+R2,Corridor RN1 – Cabaret / Arcahaie,Axe routier,HT01,Cabaret,18.735,-72.42,"PNH, FAd'H",Liaison Port-au-Prince – Artibonite – Nord,Postes fixes RN1 ; autoroute Léogâne–Cabaret,https://voteetzer.ht/priorite/securite
+R3,Corridor RN1 – Pont-Sondé / Saint-Marc,Axe routier,HT05,Saint-Marc,19.15,-72.61,"PNH, FAd'H",Artibonite (riz) – Nord,Postes fixes RN1,https://voteetzer.ht/priorite/securite
+R4,Corridor RN3 – Mirebalais,Axe routier,HT06,Mirebalais,18.835,-72.105,"PNH, FAd'H",Plateau central – Cap-Haïtien,Postes fixes RN3,https://voteetzer.ht/priorite/securite
+R5,Corridor RN8 – Croix-des-Bouquets,Axe routier,HT01,Croix-des-Bouquets,18.578,-72.226,"PNH, FAd'H",Vers Malpasse (frontière),RN8 réhabilitée ; autoroute Malpasse,https://voteetzer.ht/priorite/infrastructures
+Z1,Parc industriel de Caracol (ZES Nord / Nord-Est),Zone économique,HT04,Caracol,19.695,-72.02,"AGD, MCI",Exportations textiles,ZES Cap-Haïtien / Caracol,https://voteetzer.ht/priorite/emplois

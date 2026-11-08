@@ -1,0 +1,612 @@
+code,indicateur_en,themes,premiere_annee,derniere_annee,nb_points
+AG.AGR.TRAC.NO,"Agricultural machinery, tractors",agriculture-and-rural-development,1961,1998,38
+AG.LND.AGRI.K2,Agricultural land (sq. km),agriculture-and-rural-development,1961,2020,60
+AG.LND.AGRI.ZS,Agricultural land (% of land area),agriculture-and-rural-development,1961,2020,60
+AG.LND.ARBL.HA,Arable land (hectares),agriculture-and-rural-development,1961,2020,60
+AG.LND.ARBL.HA.PC,Arable land (hectares per person),agriculture-and-rural-development,1961,2020,60
+AG.LND.ARBL.ZS,Arable land (% of land area),agriculture-and-rural-development,1961,2020,60
+AG.LND.CREL.HA,Land under cereal production (hectares),agriculture-and-rural-development,1961,2021,61
+AG.LND.CROP.ZS,Permanent cropland (% of land area),agriculture-and-rural-development,1961,2020,60
+AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km),agriculture-and-rural-development,1990,2015,3
+AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area),agriculture-and-rural-development,1990,2015,3
+AG.LND.FRST.K2,Forest area (sq. km),agriculture-and-rural-development,1990,2020,31
+AG.LND.FRST.ZS,Forest area (% of land area),agriculture-and-rural-development,1990,2020,31
+AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),agriculture-and-rural-development,2009,2013,2
+AG.LND.PRCP.MM,Average precipitation in depth (mm per year),agriculture-and-rural-development,1961,2020,60
+AG.LND.TOTL.K2,Land area (sq. km),agriculture-and-rural-development,1961,2020,60
+AG.LND.TOTL.RU.K2,Rural land area (sq. km),agriculture-and-rural-development,1990,2015,3
+AG.LND.TRAC.ZS,"Agricultural machinery, tractors per 100 sq. km of arable land",agriculture-and-rural-development,1961,1998,38
+AG.PRD.CREL.MT,Cereal production (metric tons),agriculture-and-rural-development,1961,2021,61
+AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),agriculture-and-rural-development,1961,2021,61
+AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),agriculture-and-rural-development,1961,2021,61
+AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),agriculture-and-rural-development,1961,2021,61
+AG.SRF.TOTL.K2,Surface area (sq. km),agriculture-and-rural-development,1961,2020,60
+AG.YLD.CREL.KG,Cereal yield (kg per hectare),agriculture-and-rural-development,1961,2021,61
+BG.GSR.NFSV.GD.ZS,Trade in services (% of GDP),economy-and-growth;private-sector;trade,1971,2021,51
+BM.GSR.CMCP.ZS,"Communications, computer, etc. (% of service imports, BoP)",economy-and-growth;trade,1971,2021,51
+BM.GSR.FCTY.CD,"Primary income payments (BoP, current US$)",economy-and-growth,1971,2021,51
+BM.GSR.GNFS.CD,"Imports of goods and services (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BM.GSR.INSF.ZS,"Insurance and financial services (% of service imports, BoP)",economy-and-growth;private-sector;trade,1971,2021,45
+BM.GSR.MRCH.CD,"Goods imports (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BM.GSR.NFSV.CD,"Service imports (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BM.GSR.ROYL.CD,"Charges for the use of intellectual property, payments (BoP, current US$)",economy-and-growth,1971,2021,48
+BM.GSR.TOTL.CD,"Imports of goods, services and primary income (BoP, current US$)",economy-and-growth;external-debt;trade,1971,2021,51
+BM.GSR.TRAN.ZS,"Transport services (% of service imports, BoP)",economy-and-growth;trade,1971,2021,51
+BM.GSR.TRVL.ZS,"Travel services (% of service imports, BoP)",economy-and-growth;trade,1971,2021,47
+BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows (BoP, current US$)",economy-and-growth;financial-sector,1971,2012,42
+BM.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net outflows (% of GDP)",economy-and-growth;financial-sector,1971,2012,42
+BM.TRF.PRVT.CD,"Secondary income, other sectors, payments (BoP, current US$)",economy-and-growth,1971,2021,49
+BM.TRF.PWKR.CD.DT,"Personal remittances, paid (current US$)",economy-and-growth;financial-sector,1971,2021,41
+BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",economy-and-growth;external-debt,1971,2021,51
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),economy-and-growth,1971,2021,51
+BN.FIN.TOTL.CD,"Net financial account (BoP, current US$)",economy-and-growth,1971,2021,51
+BN.GSR.FCTY.CD,"Net primary income (BoP, current US$)",economy-and-growth,1971,2021,51
+BN.GSR.GNFS.CD,"Net trade in goods and services (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BN.GSR.MRCH.CD,"Net trade in goods (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BN.KAC.EOMS.CD,"Net errors and omissions (BoP, current US$)",economy-and-growth,1971,2021,51
+BN.KLT.DINV.CD,"Foreign direct investment, net (BoP, current US$)",economy-and-growth;financial-sector,1971,2021,51
+BN.KLT.PTXL.CD,"Portfolio investment, net (BoP, current US$)",economy-and-growth;financial-sector,1971,2012,39
+BN.RES.INCL.CD,"Reserves and related items (BoP, current US$)",economy-and-growth,1971,2021,51
+BN.TRF.CURR.CD,"Net secondary income (BoP, current US$)",economy-and-growth,1971,2021,51
+BN.TRF.KOGT.CD,"Net capital account (BoP, current US$)",economy-and-growth,1971,2021,49
+BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)",economy-and-growth;external-debt,1960,2021,62
+BX.GRT.TECH.CD.WD,"Technical cooperation grants (BoP, current US$)",economy-and-growth;external-debt,1960,2021,62
+BX.GSR.CCIS.CD,"ICT service exports (BoP, current US$)",economy-and-growth;trade,1997,2021,25
+BX.GSR.CCIS.ZS,"ICT service exports (% of service exports, BoP)",economy-and-growth;trade,1997,2021,25
+BX.GSR.CMCP.ZS,"Communications, computer, etc. (% of service exports, BoP)",economy-and-growth;trade,1971,2021,51
+BX.GSR.FCTY.CD,"Primary income receipts (BoP, current US$)",economy-and-growth,1971,2021,51
+BX.GSR.GNFS.CD,"Exports of goods and services (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BX.GSR.INSF.ZS,"Insurance and financial services (% of service exports, BoP)",economy-and-growth;private-sector;trade,1971,2021,48
+BX.GSR.MRCH.CD,"Goods exports (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BX.GSR.NFSV.CD,"Service exports (BoP, current US$)",economy-and-growth;trade,1971,2021,51
+BX.GSR.ROYL.CD,"Charges for the use of intellectual property, receipts (BoP, current US$)",economy-and-growth,1971,2015,42
+BX.GSR.TOTL.CD,"Exports of goods, services and primary income (BoP, current US$)",economy-and-growth;external-debt;trade,1971,2021,51
+BX.GSR.TRAN.ZS,"Transport services (% of service exports, BoP)",economy-and-growth;trade,1971,2021,33
+BX.GSR.TRVL.ZS,"Travel services (% of service exports, BoP)",economy-and-growth;trade,1971,2021,51
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",economy-and-growth;external-debt;financial-sector,1970,2021,52
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",economy-and-growth;financial-sector,1970,2021,52
+BX.PEF.TOTL.CD.WD,"Portfolio equity, net inflows (BoP, current US$)",economy-and-growth;external-debt;financial-sector,1971,2012,39
+BX.TRF.CURR.CD,"Secondary income receipts (BoP, current US$)",economy-and-growth,1971,2021,51
+BX.TRF.PWKR.CD,"Personal transfers, receipts (BoP, current US$)",economy-and-growth;financial-sector,1971,2021,48
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",economy-and-growth;external-debt;financial-sector,1971,2022,44
+BX.TRF.PWKR.DT.GD.ZS,"Personal remittances, received (% of GDP)",economy-and-growth;financial-sector,1971,2021,43
+DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)",economy-and-growth;external-debt,1970,2021,52
+DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),economy-and-growth;external-debt,1980,2021,42
+DT.DOD.DIMF.CD,"Use of IMF credit (DOD, current US$)",external-debt,1970,2021,52
+DT.DOD.DLXF.CD,"External debt stocks, long-term (DOD, current US$)",external-debt,1970,2021,52
+DT.DOD.DPNG.CD,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",external-debt,2012,2021,10
+DT.DOD.DPPG.CD,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",external-debt,1970,2021,52
+DT.DOD.DSTC.CD,"External debt stocks, short-term (DOD, current US$)",external-debt,1975,2021,47
+DT.DOD.DSTC.IR.ZS,Short-term debt (% of total reserves),economy-and-growth;external-debt,1975,2021,47
+DT.DOD.DSTC.XP.ZS,"Short-term debt (% of exports of goods, services and primary income)",economy-and-growth;external-debt,1975,2021,47
+DT.DOD.DSTC.ZS,Short-term debt (% of total external debt),external-debt,1970,2021,52
+DT.DOD.MIDA.CD,"PPG, IDA (DOD, current US$)",external-debt,1970,2010,41
+DT.DOD.MWBG.CD,"IBRD loans and IDA credits (DOD, current US$)",external-debt,1970,2010,41
+DT.DOD.PVLX.CD,Present value of external debt (current US$),economy-and-growth;external-debt,2021,2021,1
+DT.DOD.PVLX.EX.ZS,"Present value of external debt (% of exports of goods, services and primary income)",economy-and-growth;external-debt,2021,2021,1
+DT.DOD.PVLX.GN.ZS,Present value of external debt (% of GNI),economy-and-growth;external-debt,2021,2021,1
+DT.HPC.COMR.PV,"Debt relief committed under HIPC initiative, cumulative US$ in end-2012 NPV terms",millenium-development-goals,2012,2012,1
+DT.HPC.MDRI.PV,"Debt relief delivered in full under MDRI initiative, cumulative US$ in end-2012 NPV terms",millenium-development-goals,2012,2012,1
+DT.HPC.STTS,Status under enhanced HIPC initiative,millenium-development-goals,2006,2011,6
+DT.HPC.TOTL.PV,"Debt relief committed under HIPC and MDRI initiatives, cumulative US$ in end-2012 NPV terms",millenium-development-goals,2012,2012,1
+DT.NFL.BLAT.CD,"Net financial flows, bilateral (NFL, current US$)",external-debt,1970,2021,52
+DT.NFL.DPNG.CD,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",external-debt,2013,2021,8
+DT.NFL.IMFC.CD,"Net financial flows, IMF concessional (NFL, current US$)",external-debt,1971,2007,31
+DT.NFL.IMFN.CD,"Net financial flows, IMF nonconcessional (NFL, current US$)",external-debt,1980,2021,31
+DT.NFL.MIDA.CD,"Net financial flows, IDA (NFL, current US$)",external-debt,1972,2010,38
+DT.NFL.MLAT.CD,"Net financial flows, multilateral (NFL, current US$)",external-debt,1970,2021,52
+DT.NFL.MOTH.CD,"Net financial flows, others (NFL, current US$)",external-debt,1977,2021,43
+DT.NFL.NIFC.CD,"IFC, private nonguaranteed (NFL, current US$)",external-debt,1970,2021,52
+DT.NFL.OFFT.CD,"PPG, official creditors (NFL, current US$)",external-debt,1970,2021,52
+DT.NFL.PCBK.CD,"PPG, commercial banks (NFL, current US$)",external-debt,1977,2021,17
+DT.NFL.PCBO.CD,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",external-debt,1977,2021,17
+DT.NFL.PNGC.CD,"PNG, commercial banks and other creditors (NFL, current US$)",external-debt,2013,2021,8
+DT.NFL.PROP.CD,"PPG, other private creditors (NFL, current US$)",external-debt,1970,1988,19
+DT.NFL.PRVT.CD,"PPG, private creditors (NFL, current US$)",external-debt,1970,2021,26
+DT.NFL.RDBC.CD,"Net financial flows, RDB concessional (NFL, current US$)",external-debt,1970,2010,39
+DT.NFL.RDBN.CD,"Net financial flows, RDB nonconcessional (NFL, current US$)",external-debt,2018,2018,1
+DT.ODA.ODAT.CD,Net official development assistance received (current US$),economy-and-growth;external-debt,1960,2021,62
+DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI),economy-and-growth;external-debt,1980,2021,42
+DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$),economy-and-growth;external-debt,1960,2021,62
+DT.TDS.DECT.CD,"Debt service on external debt, total (TDS, current US$)",external-debt,1970,2021,52
+DT.TDS.DECT.EX.ZS,"Total debt service (% of exports of goods, services and primary income)",economy-and-growth;external-debt,1971,2021,51
+DT.TDS.DECT.GN.ZS,Total debt service (% of GNI),economy-and-growth;external-debt,1980,2021,42
+DT.TDS.DIMF.CD,"IMF repurchases and charges (TDS, current US$)",external-debt,1971,2021,49
+DT.TDS.DPPF.XP.ZS,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",external-debt,1971,2021,51
+DT.TDS.DPPG.CD,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",external-debt,1970,2021,52
+DT.TDS.DPPG.GN.ZS,Public and publicly guaranteed debt service (% of GNI),external-debt,1980,2021,42
+DT.TDS.DPPG.XP.ZS,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",external-debt,1971,2021,51
+DT.TDS.MLAT.CD,"Multilateral debt service (TDS, current US$)",external-debt,1970,2021,52
+DT.TDS.MLAT.PG.ZS,Multilateral debt service (% of public and publicly guaranteed debt service),external-debt,1970,2021,52
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",agriculture-and-rural-development,1995,2020,25
+EN.ATM.METH.AG.KT.CE,Agricultural methane emissions (thousand metric tons of CO2 equivalent),agriculture-and-rural-development,1990,2019,30
+EN.ATM.METH.AG.ZS,Agricultural methane emissions (% of total),agriculture-and-rural-development,1970,2008,39
+EN.ATM.NOXE.AG.KT.CE,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),agriculture-and-rural-development,1990,2019,30
+EN.ATM.NOXE.AG.ZS,Agricultural nitrous oxide emissions (% of total),agriculture-and-rural-development,1970,2008,39
+EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),agriculture-and-rural-development,1990,2015,3
+ER.H2O.FWAG.ZS,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",agriculture-and-rural-development,1991,2020,30
+FB.ATM.TOTL.P5,"Automated teller machines (ATMs) (per 100,000 adults)",financial-sector,2014,2019,6
+FB.CBK.BRCH.P5,"Commercial bank branches (per 100,000 adults)",financial-sector,2004,2020,17
+FB.CBK.BRWR.P3,"Borrowers from commercial banks (per 1,000 adults)",financial-sector,2004,2020,16
+FB.CBK.DPTR.P3,"Depositors with commercial banks (per 1,000 adults)",financial-sector,2004,2020,17
+FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP),financial-sector,1960,2021,62
+FD.RES.LIQU.AS.ZS,Bank liquid reserves to bank assets ratio (%),financial-sector,2001,2022,22
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",economy-and-growth;external-debt;financial-sector,1960,2022,63
+FI.RES.TOTL.DT.ZS,Total reserves (% of total external debt),external-debt;financial-sector,1971,2021,51
+FI.RES.TOTL.MO,Total reserves in months of imports,external-debt;financial-sector,1971,2021,51
+FI.RES.XGLD.CD,Total reserves minus gold (current US$),economy-and-growth;financial-sector,1960,2022,63
+FM.AST.CGOV.ZG.M3,Claims on central government (annual growth as % of broad money),financial-sector,1961,2022,62
+FM.AST.DOMO.ZG.M3,Claims on other sectors of the domestic economy (annual growth as % of broad money),financial-sector,2002,2022,21
+FM.AST.DOMS.CN,Net domestic credit (current LCU),financial-sector,1960,2022,63
+FM.AST.NFRG.CN,Net foreign assets (current LCU),financial-sector,1960,2022,63
+FM.AST.PRVT.GD.ZS,Monetary Sector credit to private sector (% GDP),financial-sector,1960,2021,62
+FM.AST.PRVT.ZG.M3,Claims on private sector (annual growth as % of broad money),financial-sector,1961,2022,62
+FM.LBL.BMNY.CN,Broad money (current LCU),financial-sector,1960,2021,62
+FM.LBL.BMNY.GD.ZS,Broad money (% of GDP),financial-sector,1960,2021,62
+FM.LBL.BMNY.IR.ZS,Broad money to total reserves ratio,financial-sector,1960,2021,62
+FM.LBL.BMNY.ZG,Broad money growth (annual %),financial-sector,1961,2021,61
+FP.CPI.TOTL,Consumer price index (2010 = 100),financial-sector,1960,2022,63
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",economy-and-growth;financial-sector,1960,2022,63
+FR.INR.DPST,Deposit interest rate (%),financial-sector,2005,2021,17
+FR.INR.LEND,Lending interest rate (%),financial-sector,1994,2021,28
+FR.INR.LNDP,"Interest rate spread (lending rate minus deposit rate, %)",financial-sector,2005,2021,17
+FR.INR.RINR,Real interest rate (%),financial-sector,1994,2021,28
+FS.AST.CGOV.GD.ZS,"Claims on central government, etc. (% GDP)",financial-sector,1960,2021,62
+FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),financial-sector;private-sector,1960,2021,62
+FX.OWN.TOTL.40.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",financial-sector,2014,2017,2
+FX.OWN.TOTL.60.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",financial-sector,2014,2017,2
+FX.OWN.TOTL.FE.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",financial-sector,2011,2017,3
+FX.OWN.TOTL.MA.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",financial-sector,2011,2017,3
+FX.OWN.TOTL.OL.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",financial-sector,2011,2017,3
+FX.OWN.TOTL.PL.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",financial-sector,2011,2017,3
+FX.OWN.TOTL.SO.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",financial-sector,2011,2017,3
+FX.OWN.TOTL.YG.ZS,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",financial-sector,2011,2017,3
+FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),financial-sector,2011,2017,3
+GF.XPD.BUDG.ZS,Primary government expenditures as a proportion of original approved budget (%),public-sector,2008,2021,14
+GFDD.AI.01,"Bank accounts per 1,000 adults",financial-sector,2004,2020,17
+GFDD.AI.02,"Bank branches per 100,000 adults",financial-sector,2004,2020,17
+GFDD.AI.05,Account at a formal financial institution (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.06,Saved at a financial institution in the past year (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.07,Loan from a financial institution in the past year (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.08,Account used for business purposes (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.10,Account used to receive remittances (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.12,Saved any money in the past year (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.13,Saved using a savings club in the past year (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.14,Loan in the past year (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.15,Loan from a private lender in the past year (% age 15+),financial-sector,2011,2014,2
+GFDD.AI.16,Loan from an employer in the past year (% age 15+),financial-sector,2011,2011,1
+GFDD.AI.17,Loan through store credit in the past year (% age 15+),financial-sector,2011,2014,2
+GFDD.AI.18,Loan from family or friends in the past year (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.19,Checks used to make payments (% age 15+),financial-sector,2011,2011,1
+GFDD.AI.20,Credit card (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.21,Debit card (% age 15+),financial-sector,2011,2017,3
+GFDD.AI.22,Electronic payments used to make payments (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.23,Mobile phone used to pay bills (% age 15+),financial-sector,2017,2017,1
+GFDD.AI.24,Mobile phone used to send money (% age 15+),financial-sector,2014,2017,2
+GFDD.AI.25,"ATMs per 100,000 adults",financial-sector,2014,2019,6
+GFDD.AI.26,Depositing/withdrawing at least once in a typical month (% age 15+),financial-sector,2014,2017,2
+GFDD.DI.01,Private credit by deposit money banks to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.02,Deposit money banks'' assets to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.04,Deposit money bank assets to deposit money bank assets and central bank assets (%),financial-sector,1960,2021,62
+GFDD.DI.05,Liquid liabilities to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.06,Central bank assets to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.08,Financial system deposits to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.09,Life insurance premium volume to GDP (%),financial-sector,2005,2017,11
+GFDD.DI.10,Non-life insurance premium volume to GDP (%),financial-sector,2005,2017,11
+GFDD.DI.12,Private credit by deposit money banks and other financial institutions to GDP (%),financial-sector,1960,2021,62
+GFDD.DI.14,Domestic credit to private sector (% of GDP),financial-sector,1960,2020,61
+GFDD.EI.01,Bank net interest margin (%),financial-sector,2004,2021,18
+GFDD.EI.02,Bank lending-deposit spread,financial-sector,2005,2019,15
+GFDD.EI.03,Bank noninterest income to total income (%),financial-sector,2003,2021,19
+GFDD.EI.04,Bank overhead costs to total assets (%),financial-sector,2004,2021,18
+GFDD.EI.05,"Bank return on assets (%, after tax)",financial-sector,2004,2021,18
+GFDD.EI.06,"Bank return on equity (%, after tax)",financial-sector,2004,2021,18
+GFDD.EI.07,Bank cost to income ratio (%),financial-sector,2003,2021,19
+GFDD.EI.08,Credit to government and state-owned enterprises to GDP (%),financial-sector,1980,2020,41
+GFDD.EI.09,"Bank return on assets (%, before tax)",financial-sector,2004,2021,18
+GFDD.EI.10,"Bank return on equity (%, before tax)",financial-sector,2004,2021,18
+GFDD.OI.01,Bank concentration (%),financial-sector,2003,2021,19
+GFDD.OI.02,Bank deposits to GDP (%),financial-sector,1960,2021,62
+GFDD.OI.06,5-bank asset concentration,financial-sector,2008,2021,12
+GFDD.OI.07,Liquid liabilities in millions USD (2000 constant),financial-sector,1960,2021,62
+GFDD.OI.10,External loans and deposits of reporting banks vis-à-vis the banking sector (% of domestic bank deposits),financial-sector,1995,2021,27
+GFDD.OI.11,External loans and deposits of reporting banks vis-à-vis the nonbanking sectors (% of domestic bank deposits),financial-sector,1995,2021,27
+GFDD.OI.12,External loans and deposits of reporting banks vis-à-vis all sectors (% of domestic bank deposits),financial-sector,1995,2021,27
+GFDD.OI.13,Remittance inflows to GDP (%),financial-sector,1971,2020,42
+GFDD.OI.14,Consolidated foreign claims of BIS reporting banks to GDP (%),financial-sector,1983,2020,38
+GFDD.OI.15,Foreign banks among total banks (%),financial-sector,1995,2013,19
+GFDD.OI.16,Foreign bank assets among total bank assets (%),financial-sector,2005,2013,9
+GFDD.OI.19,"Banking crisis dummy (1=banking crisis, 0=none)",financial-sector,1970,2017,48
+GFDD.SI.01,Bank Z-score,financial-sector,2003,2021,19
+GFDD.SI.04,Bank credit to bank deposits (%),financial-sector,1960,2021,62
+GFDD.SI.06,Liquid assets to deposits and short term funding (%),financial-sector,2003,2021,19
+HD.HCI.OVRL,Human Capital Index (HCI) (scale 0-1),public-sector,2017,2020,3
+HD.HCI.OVRL.FE,"Human Capital Index (HCI), Female (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.LB,"Human Capital Index (HCI), Lower Bound (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.LB.FE,"Human Capital Index (HCI), Female, Lower Bound (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.LB.MA,"Human Capital Index (HCI), Male, Lower Bound (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.MA,"Human Capital Index (HCI), Male (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.UB,"Human Capital Index (HCI), Upper Bound (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.UB.FE,"Human Capital Index (HCI), Female, Upper Bound (scale 0-1)",public-sector,2017,2020,3
+HD.HCI.OVRL.UB.MA,"Human Capital Index (HCI), Male, Upper Bound (scale 0-1)",public-sector,2017,2020,3
+IC.BUS.DFRN.XQ,Ease of doing business score (0 = lowest performance to 100 = best performance),private-sector,2015,2019,5
+IC.BUS.DISC.XQ,Business extent of disclosure index (0=less disclosure to 10=more disclosure),private-sector,2005,2019,15
+IC.BUS.EASE.XQ,Ease of doing business rank (1=most business-friendly regulations),private-sector,2019,2019,1
+IC.BUS.NDNS.ZS,"New business density (new registrations per 1,000 people ages 15-64)",private-sector,2006,2010,5
+IC.BUS.NREG,New businesses registered (number),private-sector,2006,2010,5
+IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),financial-sector;private-sector,2013,2019,7
+IC.CRD.PRVT.ZS,Private credit bureau coverage (% of adults),financial-sector;private-sector,2004,2019,16
+IC.CRD.PUBL.ZS,Public credit registry coverage (% of adults),financial-sector;private-sector;public-sector,2004,2019,16
+IC.ELC.TIME,Time required to get electricity (days),private-sector,2009,2019,11
+IC.EXP.CSBC.CD,"Cost to export, border compliance (US$)",private-sector;trade,2014,2019,6
+IC.EXP.CSDC.CD,"Cost to export, documentary compliance (US$)",private-sector;trade,2014,2019,6
+IC.EXP.TMBC,"Time to export, border compliance (hours)",private-sector;trade,2014,2019,6
+IC.EXP.TMDC,"Time to export, documentary compliance (hours)",private-sector;trade,2014,2019,6
+IC.IMP.CSBC.CD,"Cost to import, border compliance (US$)",private-sector;trade,2014,2019,6
+IC.IMP.CSDC.CD,"Cost to import, documentary compliance (US$)",private-sector;trade,2014,2019,6
+IC.IMP.TMBC,"Time to import, border compliance (hours)",private-sector;trade,2014,2019,6
+IC.IMP.TMDC,"Time to import, documentary compliance (hours)",private-sector;trade,2014,2019,6
+IC.LGL.CRED.XQ,Strength of legal rights index (0=weak to 12=strong),financial-sector;private-sector;public-sector,2013,2019,7
+IC.LGL.DURS,Time required to enforce a contract (days),private-sector,2003,2019,17
+IC.PRP.DURS,Time required to register property (days),private-sector,2004,2019,16
+IC.PRP.PROC,Procedures to register property (number),private-sector,2004,2019,16
+IC.REG.COST.PC.FE.ZS,"Cost of business start-up procedures, female (% of GNI per capita)",private-sector,2003,2019,17
+IC.REG.COST.PC.MA.ZS,"Cost of business start-up procedures, male (% of GNI per capita)",private-sector,2003,2019,17
+IC.REG.COST.PC.ZS,Cost of business start-up procedures (% of GNI per capita),private-sector,2003,2019,17
+IC.REG.DURS,Time required to start a business (days),private-sector,2003,2019,17
+IC.REG.DURS.FE,"Time required to start a business, female (days)",private-sector,2003,2019,17
+IC.REG.DURS.MA,"Time required to start a business, male (days)",private-sector,2003,2019,17
+IC.REG.PROC,Start-up procedures to register a business (number),private-sector,2003,2019,17
+IC.REG.PROC.FE,"Start-up procedures to register a business, female (number)",private-sector,2003,2019,17
+IC.REG.PROC.MA,"Start-up procedures to register a business, male (number)",private-sector,2003,2019,17
+IC.TAX.DURS,Time to prepare and pay taxes (hours),private-sector;public-sector,2005,2019,15
+IC.TAX.LABR.CP.ZS,Labor tax and contributions (% of commercial profits),private-sector,2005,2019,15
+IC.TAX.OTHR.CP.ZS,Other taxes payable by businesses (% of commercial profits),private-sector,2005,2019,15
+IC.TAX.PAYM,Tax payments (number),private-sector;public-sector,2005,2019,15
+IC.TAX.PRFT.CP.ZS,Profit tax (% of commercial profits),private-sector,2005,2019,15
+IC.TAX.TOTL.CP.ZS,Total tax and contribution rate (% of profit),private-sector;public-sector,2005,2019,15
+IC.WRH.DURS,Time required to build a warehouse (days),private-sector,2005,2019,15
+IC.WRH.PROC,Procedures to build a warehouse (number),private-sector,2005,2019,15
+IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),private-sector,1995,2009,3
+IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),private-sector,2014,2014,1
+IE.PPI.WATR.CD,Investment in water and sanitation with private participation (current US$),private-sector,2009,2009,1
+IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),public-sector,2005,2021,17
+IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",public-sector,2005,2021,17
+IQ.SCI.MTHD,Methodology assessment of statistical capacity (scale 0 - 100),public-sector,2004,2020,17
+IQ.SCI.OVRL,Statistical Capacity Score (Overall Average) (scale 0 - 100),public-sector,2004,2020,17
+IQ.SCI.PRDC,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),public-sector,2004,2020,17
+IQ.SCI.SRCE,Source data assessment of statistical capacity (scale 0 - 100),public-sector,2004,2020,17
+IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),public-sector,2016,2019,4
+IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),public-sector,2004,2019,16
+IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),public-sector,2016,2019,4
+IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),public-sector,2005,2019,15
+IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),public-sector,2016,2019,4
+IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),public-sector,2016,2019,4
+LP.EXP.DURS.MD,"Lead time to export, median case (days)",private-sector;trade,2007,2016,4
+LP.IMP.DURS.MD,"Lead time to import, median case (days)",private-sector;trade,2007,2016,4
+LP.LPI.CUST.XQ,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.INFR.XQ,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.ITRN.XQ,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.LOGS.XQ,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.OVRL.XQ,Logistics performance index: Overall (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.TIME.XQ,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),private-sector;trade,2007,2022,7
+LP.LPI.TRAC.XQ,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),private-sector;trade,2007,2022,7
+MS.MIL.MPRT.KD,Arms imports (SIPRI trend indicator values),public-sector;trade,1960,1985,13
+MS.MIL.TOTL.P1,"Armed forces personnel, total",public-sector,1985,2019,26
+MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),public-sector,1990,2019,24
+MS.MIL.XPND.CD,Military expenditure (current USD),public-sector,1988,2021,34
+MS.MIL.XPND.CN,Military expenditure (current LCU),public-sector,1988,2021,34
+MS.MIL.XPND.GD.ZS,Military expenditure (% of GDP),public-sector,1988,2021,17
+MS.MIL.XPND.ZS,Military expenditure (% of general government expenditure),public-sector,2013,2021,9
+NE.CON.GOVT.CD,General government final consumption expenditure (current US$),economy-and-growth,2000,2021,22
+NE.CON.GOVT.CN,General government final consumption expenditure (current LCU),economy-and-growth,2000,2021,22
+NE.CON.GOVT.KD,General government final consumption expenditure (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth),economy-and-growth,1989,2021,33
+NE.CON.GOVT.KN,General government final consumption expenditure (constant LCU),economy-and-growth,1988,2021,34
+NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP),economy-and-growth,2000,2021,22
+NE.CON.PRVT.CD,Households and NPISHs Final consumption expenditure (current US$),economy-and-growth,2000,2021,22
+NE.CON.PRVT.CN,Households and NPISHs Final consumption expenditure (current LCU),economy-and-growth,2000,2021,22
+NE.CON.PRVT.CN.AD,Households and NPISHs final consumption expenditure: linked series (current LCU),economy-and-growth,2000,2021,22
+NE.CON.PRVT.KD,Households and NPISHs Final consumption expenditure (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure (annual % growth),economy-and-growth,1989,2021,33
+NE.CON.PRVT.KN,Households and NPISHs Final consumption expenditure (constant LCU),economy-and-growth,1988,2021,34
+NE.CON.PRVT.PC.KD,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth (annual %),economy-and-growth,1989,2021,33
+NE.CON.PRVT.PP.CD,"Households and NPISHs Final consumption expenditure, PPP (current international $)",economy-and-growth,2000,2021,22
+NE.CON.PRVT.PP.KD,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",economy-and-growth,1990,2021,32
+NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure (% of GDP),economy-and-growth,2000,2021,22
+NE.CON.TOTL.CD,Final consumption expenditure (current US$),economy-and-growth,1988,2021,34
+NE.CON.TOTL.CN,Final consumption expenditure (current LCU),economy-and-growth,1988,2021,34
+NE.CON.TOTL.KD,Final consumption expenditure (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.CON.TOTL.KD.ZG,Final consumption expenditure (annual % growth),economy-and-growth,1989,2021,33
+NE.CON.TOTL.KN,Final consumption expenditure (constant LCU),economy-and-growth,1988,2021,34
+NE.CON.TOTL.ZS,Final consumption expenditure (% of GDP),economy-and-growth,1988,2021,34
+NE.DAB.DEFL.ZS,Gross national expenditure deflator (base year varies by country),economy-and-growth,1988,2021,34
+NE.DAB.TOTL.CD,Gross national expenditure (current US$),economy-and-growth,1988,2021,34
+NE.DAB.TOTL.CN,Gross national expenditure (current LCU),economy-and-growth,1988,2021,34
+NE.DAB.TOTL.KD,Gross national expenditure (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.DAB.TOTL.KN,Gross national expenditure (constant LCU),economy-and-growth,1988,2021,34
+NE.DAB.TOTL.ZS,Gross national expenditure (% of GDP),economy-and-growth,1988,2021,34
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),economy-and-growth;trade,1988,2021,34
+NE.EXP.GNFS.CN,Exports of goods and services (current LCU),economy-and-growth,1988,2021,34
+NE.EXP.GNFS.KD,Exports of goods and services (constant 2015 US$),economy-and-growth;trade,1988,2021,34
+NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth),economy-and-growth;trade,1989,2021,33
+NE.EXP.GNFS.KN,Exports of goods and services (constant LCU),economy-and-growth,1988,2021,34
+NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),economy-and-growth;trade,1988,2021,34
+NE.GDI.FPRV.CN,"Gross fixed capital formation, private sector (current LCU)",economy-and-growth,2000,2021,22
+NE.GDI.FPRV.ZS,"Gross fixed capital formation, private sector (% of GDP)",economy-and-growth,2000,2021,22
+NE.GDI.FTOT.CD,Gross fixed capital formation (current US$),economy-and-growth,2000,2021,22
+NE.GDI.FTOT.CN,Gross fixed capital formation (current LCU),economy-and-growth,2000,2021,22
+NE.GDI.FTOT.KD,Gross fixed capital formation (constant 2015 US$),economy-and-growth,2000,2021,22
+NE.GDI.FTOT.KD.ZG,Gross fixed capital formation (annual % growth),economy-and-growth,2001,2021,21
+NE.GDI.FTOT.KN,Gross fixed capital formation (constant LCU),economy-and-growth,2000,2021,22
+NE.GDI.FTOT.ZS,Gross fixed capital formation (% of GDP),economy-and-growth,2000,2021,22
+NE.GDI.STKB.CD,Changes in inventories (current US$),economy-and-growth,2012,2012,1
+NE.GDI.STKB.CN,Changes in inventories (current LCU),economy-and-growth,2012,2012,1
+NE.GDI.STKB.KN,Changes in inventories (constant LCU),economy-and-growth,2010,2018,9
+NE.GDI.TOTL.CD,Gross capital formation (current US$),economy-and-growth,1988,2021,34
+NE.GDI.TOTL.CN,Gross capital formation (current LCU),economy-and-growth,1988,2021,34
+NE.GDI.TOTL.KD,Gross capital formation (constant 2015 US$),economy-and-growth,1988,2021,34
+NE.GDI.TOTL.KD.ZG,Gross capital formation (annual % growth),economy-and-growth,1989,2021,33
+NE.GDI.TOTL.KN,Gross capital formation (constant LCU),economy-and-growth,1988,2021,34
+NE.GDI.TOTL.ZS,Gross capital formation (% of GDP),economy-and-growth,1988,2021,34
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),economy-and-growth;trade,1988,2021,34
+NE.IMP.GNFS.CN,Imports of goods and services (current LCU),economy-and-growth,1988,2021,34
+NE.IMP.GNFS.KD,Imports of goods and services (constant 2015 US$),economy-and-growth;trade,1988,2021,34
+NE.IMP.GNFS.KD.ZG,Imports of goods and services (annual % growth),economy-and-growth;trade,1989,2021,33
+NE.IMP.GNFS.KN,Imports of goods and services (constant LCU),economy-and-growth,1988,2021,34
+NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),economy-and-growth;trade,1988,2021,34
+NE.RSB.GNFS.CD,External balance on goods and services (current US$),economy-and-growth;trade,1988,2021,34
+NE.RSB.GNFS.CN,External balance on goods and services (current LCU),economy-and-growth,1988,2021,34
+NE.RSB.GNFS.KN,External balance on goods and services (constant LCU),economy-and-growth,2013,2021,9
+NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP),economy-and-growth;trade,1988,2021,34
+NE.TRD.GNFS.ZS,Trade (% of GDP),economy-and-growth;trade,1988,2021,34
+NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",economy-and-growth,1991,2019,29
+NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)",agriculture-and-rural-development;economy-and-growth,1988,2021,34
+NV.AGR.TOTL.CN,"Agriculture, forestry, and fishing, value added (current LCU)",economy-and-growth,1988,2021,34
+NV.AGR.TOTL.KD,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",economy-and-growth,1988,2021,34
+NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",economy-and-growth,1989,2021,33
+NV.AGR.TOTL.KN,"Agriculture, forestry, and fishing, value added (constant LCU)",economy-and-growth,1988,2021,34
+NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",agriculture-and-rural-development;economy-and-growth,1988,2021,34
+NV.FSM.TOTL.CN,Financial intermediary services indirectly Measured (FISIM) (current LCU),economy-and-growth,1988,1999,12
+NV.IND.EMPL.KD,"Industry (including construction), value added per worker (constant 2015 US$)",economy-and-growth,1991,2019,29
+NV.IND.MANF.CD,"Manufacturing, value added (current US$)",economy-and-growth,1988,2021,34
+NV.IND.MANF.CN,"Manufacturing, value added (current LCU)",economy-and-growth,1988,2021,34
+NV.IND.MANF.KD,"Manufacturing, value added (constant 2015 US$)",economy-and-growth,1988,2021,34
+NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",economy-and-growth,1989,2021,33
+NV.IND.MANF.KN,"Manufacturing, value added (constant LCU)",economy-and-growth,1988,2021,34
+NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",economy-and-growth,1988,2021,34
+NV.IND.TOTL.CD,"Industry (including construction), value added (current US$)",economy-and-growth,1988,2021,34
+NV.IND.TOTL.CN,"Industry (including construction), value added (current LCU)",economy-and-growth,1988,2021,34
+NV.IND.TOTL.KD,"Industry (including construction), value added (constant 2015 US$)",economy-and-growth,1988,2021,34
+NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)",economy-and-growth,1989,2021,33
+NV.IND.TOTL.KN,"Industry (including construction), value added (constant LCU)",economy-and-growth,1988,2021,34
+NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",economy-and-growth,1988,2021,34
+NV.MNF.TECH.ZS.UN,Medium and high-tech manufacturing value added (% manufacturing value added),economy-and-growth,1990,2020,31
+NV.SRV.EMPL.KD,"Services, value added per worker (constant 2015 US$)",economy-and-growth,1991,2019,29
+NV.SRV.TOTL.CD,"Services, value added (current US$)",economy-and-growth,1988,2021,34
+NV.SRV.TOTL.CN,"Services, value added (current LCU)",economy-and-growth,1988,2021,34
+NV.SRV.TOTL.KD,"Services, value added (constant 2015 US$)",economy-and-growth,1988,2021,34
+NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)",economy-and-growth,1989,2021,33
+NV.SRV.TOTL.KN,"Services, value added (constant LCU)",economy-and-growth,1988,2021,34
+NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",economy-and-growth,1988,2021,34
+NY.ADJ.AEDU.CD,Adjusted savings: education expenditure (current US$),economy-and-growth,1980,2021,42
+NY.ADJ.AEDU.GN.ZS,Adjusted savings: education expenditure (% of GNI),economy-and-growth,1970,2021,52
+NY.ADJ.DCO2.CD,Adjusted savings: carbon dioxide damage (current US$),economy-and-growth,1990,2021,32
+NY.ADJ.DCO2.GN.ZS,Adjusted savings: carbon dioxide damage (% of GNI),economy-and-growth,1990,2021,32
+NY.ADJ.DFOR.CD,Adjusted savings: net forest depletion (current US$),economy-and-growth,1970,2021,52
+NY.ADJ.DFOR.GN.ZS,Adjusted savings: net forest depletion (% of GNI),economy-and-growth,1980,2021,42
+NY.ADJ.DKAP.CD,Adjusted savings: consumption of fixed capital (current US$),economy-and-growth,1970,2021,52
+NY.ADJ.DKAP.GN.ZS,Adjusted savings: consumption of fixed capital (% of GNI),economy-and-growth,1980,2021,42
+NY.ADJ.DMIN.CD,Adjusted savings: mineral depletion (current US$),economy-and-growth,1970,2021,52
+NY.ADJ.DMIN.GN.ZS,Adjusted savings: mineral depletion (% of GNI),economy-and-growth,1980,2021,42
+NY.ADJ.DNGY.CD,Adjusted savings: energy depletion (current US$),economy-and-growth,1971,2021,51
+NY.ADJ.DNGY.GN.ZS,Adjusted savings: energy depletion (% of GNI),economy-and-growth,1980,2021,42
+NY.ADJ.DPEM.CD,Adjusted savings: particulate emission damage (current US$),economy-and-growth,1990,2021,32
+NY.ADJ.DPEM.GN.ZS,Adjusted savings: particulate emission damage (% of GNI),economy-and-growth,1990,2021,32
+NY.ADJ.DRES.GN.ZS,Adjusted savings: natural resources depletion (% of GNI),economy-and-growth,1980,2021,42
+NY.ADJ.ICTR.GN.ZS,Adjusted savings: gross savings (% of GNI),economy-and-growth,1988,2021,34
+NY.ADJ.NNAT.CD,Adjusted savings: net national savings (current US$),economy-and-growth,1988,2021,34
+NY.ADJ.NNAT.GN.ZS,Adjusted savings: net national savings (% of GNI),economy-and-growth,1988,2021,34
+NY.ADJ.NNTY.CD,Adjusted net national income (current US$),economy-and-growth,1980,2021,42
+NY.ADJ.NNTY.KD,Adjusted net national income (constant 2015 US$),economy-and-growth,1988,2020,33
+NY.ADJ.NNTY.KD.ZG,Adjusted net national income (annual % growth),economy-and-growth,1989,2020,32
+NY.ADJ.NNTY.PC.CD,Adjusted net national income per capita (current US$),economy-and-growth,1980,2021,42
+NY.ADJ.NNTY.PC.KD,Adjusted net national income per capita (constant 2015 US$),economy-and-growth,1988,2020,33
+NY.ADJ.NNTY.PC.KD.ZG,Adjusted net national income per capita (annual % growth),economy-and-growth,1989,2020,32
+NY.ADJ.SVNG.CD,"Adjusted net savings, including particulate emission damage (current US$)",economy-and-growth,1990,2021,32
+NY.ADJ.SVNG.GN.ZS,"Adjusted net savings, including particulate emission damage (% of GNI)",economy-and-growth,1990,2021,32
+NY.ADJ.SVNX.CD,"Adjusted net savings, excluding particulate emission damage (current US$)",economy-and-growth,1990,2021,32
+NY.ADJ.SVNX.GN.ZS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",economy-and-growth,1990,2021,32
+NY.EXP.CAPM.KN,Exports as a capacity to import (constant LCU),economy-and-growth;trade,1988,2021,34
+NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",economy-and-growth,1961,2021,61
+NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series (annual %)",financial-sector,1990,2021,32
+NY.GDP.DEFL.ZS,GDP deflator (base year varies by country),economy-and-growth,1960,2021,62
+NY.GDP.DEFL.ZS.AD,GDP deflator: linked series (base year varies by country),financial-sector,1990,2021,32
+NY.GDP.DISC.CN,Discrepancy in expenditure estimate of GDP (current LCU),economy-and-growth,1988,2021,34
+NY.GDP.DISC.KN,Discrepancy in expenditure estimate of GDP (constant LCU),economy-and-growth,2013,2021,9
+NY.GDP.FCST.CD,Gross value added at basic prices (GVA) (current US$),economy-and-growth,1988,2021,34
+NY.GDP.FCST.CN,Gross value added at basic prices (GVA) (current LCU),economy-and-growth,1988,2021,34
+NY.GDP.FCST.KD,Gross value added at basic prices (GVA) (constant 2015 US$),economy-and-growth,1988,2021,34
+NY.GDP.FCST.KN,Gross value added at basic prices (GVA) (constant LCU),economy-and-growth,1988,2021,34
+NY.GDP.MKTP.CD,GDP (current US$),economy-and-growth,1960,2021,62
+NY.GDP.MKTP.CN,GDP (current LCU),economy-and-growth,1960,2021,62
+NY.GDP.MKTP.CN.AD,GDP: linked series (current LCU),economy-and-growth,1990,2021,32
+NY.GDP.MKTP.KD,GDP (constant 2015 US$),economy-and-growth,1960,2021,62
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),economy-and-growth,1961,2021,61
+NY.GDP.MKTP.KN,GDP (constant LCU),economy-and-growth,1960,2021,62
+NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)",economy-and-growth,1990,2021,32
+NY.GDP.MKTP.PP.KD,"GDP, PPP (constant 2017 international $)",economy-and-growth,1990,2021,32
+NY.GDP.PCAP.CD,GDP per capita (current US$),economy-and-growth,1960,2021,62
+NY.GDP.PCAP.CN,GDP per capita (current LCU),economy-and-growth,1960,2021,62
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),economy-and-growth,1960,2021,62
+NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),economy-and-growth,1961,2021,61
+NY.GDP.PCAP.KN,GDP per capita (constant LCU),economy-and-growth,1960,2021,62
+NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",economy-and-growth,1990,2021,32
+NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2017 international $)",economy-and-growth,1990,2021,32
+NY.GDS.TOTL.CD,Gross domestic savings (current US$),economy-and-growth,1988,2021,34
+NY.GDS.TOTL.CN,Gross domestic savings (current LCU),economy-and-growth,1988,2021,34
+NY.GDS.TOTL.ZS,Gross domestic savings (% of GDP),economy-and-growth,1988,2021,34
+NY.GDY.TOTL.KN,Gross domestic income (constant LCU),economy-and-growth,1988,2021,34
+NY.GNP.ATLS.CD,"GNI, Atlas method (current US$)",economy-and-growth,1980,2021,42
+NY.GNP.MKTP.CD,GNI (current US$),economy-and-growth;external-debt,1980,2021,42
+NY.GNP.MKTP.CN,GNI (current LCU),economy-and-growth,1980,2021,42
+NY.GNP.MKTP.CN.AD,GNI: linked series (current LCU),economy-and-growth,1990,2021,32
+NY.GNP.MKTP.KD,GNI (constant 2015 US$),economy-and-growth,1988,2021,34
+NY.GNP.MKTP.KD.ZG,GNI growth (annual %),economy-and-growth,1989,2021,33
+NY.GNP.MKTP.KN,GNI (constant LCU),economy-and-growth,1988,2021,34
+NY.GNP.MKTP.PP.CD,"GNI, PPP (current international $)",economy-and-growth,1990,2021,32
+NY.GNP.MKTP.PP.KD,"GNI, PPP (constant 2017 international $)",economy-and-growth,1990,2021,32
+NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",economy-and-growth,1980,2021,42
+NY.GNP.PCAP.CN,GNI per capita (current LCU),economy-and-growth,1980,2021,42
+NY.GNP.PCAP.KD,GNI per capita (constant 2015 US$),economy-and-growth,1988,2021,34
+NY.GNP.PCAP.KD.ZG,GNI per capita growth (annual %),economy-and-growth,1989,2021,33
+NY.GNP.PCAP.KN,GNI per capita (constant LCU),economy-and-growth,1988,2021,34
+NY.GNP.PCAP.PP.CD,"GNI per capita, PPP (current international $)",economy-and-growth,1990,2021,32
+NY.GNP.PCAP.PP.KD,"GNI per capita, PPP (constant 2017 international $)",economy-and-growth,1990,2021,32
+NY.GNS.ICTR.CD,Gross savings (current US$),economy-and-growth,1988,2021,34
+NY.GNS.ICTR.CN,Gross savings (current LCU),economy-and-growth,1988,2021,34
+NY.GNS.ICTR.GN.ZS,Gross savings (% of GNI),economy-and-growth,1988,2021,34
+NY.GNS.ICTR.ZS,Gross savings (% of GDP),economy-and-growth,1988,2021,34
+NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$),economy-and-growth,1980,2021,42
+NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU),economy-and-growth,1980,2021,42
+NY.TAX.NIND.CD,Taxes less subsidies on products (current US$),economy-and-growth,1988,2021,34
+NY.TAX.NIND.CN,Taxes less subsidies on products (current LCU),economy-and-growth,1988,2021,34
+NY.TAX.NIND.KN,Taxes less subsidies on products (constant LCU),economy-and-growth,2000,2021,22
+NY.TRF.NCTR.CD,Net secondary income (Net current transfers from abroad) (current US$),economy-and-growth,1980,2021,42
+NY.TRF.NCTR.CN,Net secondary income (Net current transfers from abroad) (current LCU),economy-and-growth,1980,2021,42
+NY.TTF.GNFS.KN,Terms of trade adjustment (constant LCU),economy-and-growth,1988,2021,34
+PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$),economy-and-growth;financial-sector,1960,2021,62
+PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",financial-sector,1960,2022,63
+PA.NUS.PPP,"PPP conversion factor, GDP (LCU per international $)",economy-and-growth,1990,2021,32
+PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate,economy-and-growth,1990,2021,32
+PA.NUS.PRVT.PP,"PPP conversion factor, private consumption (LCU per international $)",economy-and-growth,1990,2022,33
+SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),public-sector,1997,2019,22
+SG.LAW.EQRM.WK,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),public-sector,1970,2022,53
+SG.LAW.NODC.HR,The law prohibits discrimination in employment based on gender (1=yes; 0=no),public-sector,1970,2022,53
+SG.LEG.DVAW,There is legislation specifically addressing domestic violence (1=yes; 0=no),public-sector,1970,2022,53
+SH.MLR.NETS.Q1.ZS,Mosquito net use by children (insecticide-treated net) (% of children under 5): Q1 (lowest),millenium-development-goals,2012,2017,2
+SH.MLR.NETS.Q5.ZS,Mosquito net use by children (insecticide-treated net) (% of children under 5): Q5 (highest),millenium-development-goals,2012,2017,2
+SI.RMT.COST.IB.ZS,Average transaction cost of sending remittances to a specific country (%),financial-sector,2011,2020,10
+SL.AGR.EMPL.FE.ZS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",agriculture-and-rural-development,1991,2021,31
+SL.AGR.EMPL.MA.ZS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",agriculture-and-rural-development,1991,2021,31
+SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),agriculture-and-rural-development,1991,2021,31
+SM.POP.NETM,Net migration,financial-sector,1960,2022,63
+SM.POP.TOTL,"International migrant stock, total",financial-sector,1960,2015,12
+SM.POP.TOTL.ZS,International migrant stock (% of population),financial-sector,1990,2015,6
+SP.RUR.TOTL,Rural population,agriculture-and-rural-development,1960,2021,62
+SP.RUR.TOTL.ZG,Rural population growth (annual %),agriculture-and-rural-development,1961,2021,61
+SP.RUR.TOTL.ZS,Rural population (% of total population),agriculture-and-rural-development,1960,2021,62
+ST.INT.ARVL,"International tourism, number of arrivals",private-sector;trade,1995,2019,25
+ST.INT.RCPT.CD,"International tourism, receipts (current US$)",private-sector;trade,1995,2018,24
+ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",private-sector;trade,1995,2018,24
+ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",private-sector;trade,1998,2019,22
+ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",private-sector;trade,1995,2019,25
+ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",private-sector;trade,1995,2019,23
+ST.INT.XPND.CD,"International tourism, expenditures (current US$)",private-sector;trade,2000,2019,20
+ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",private-sector;trade,2000,2019,20
+TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP),private-sector;trade,1960,2021,62
+TM.QTY.MRCH.XD.WD,Import volume index (2000 = 100),private-sector;trade,1980,2020,41
+TM.TAX.MANF.BC.ZS,"Binding coverage, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.IP.ZS,"Share of tariff lines with international peaks, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.SM.AR.ZS,"Tariff rate, applied, simple mean, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.SR.ZS,"Share of tariff lines with specific rates, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.WM.AR.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MANF.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.BC.ZS,"Binding coverage, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.BR.ZS,"Bound rate, simple mean, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.IP.ZS,"Share of tariff lines with international peaks, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.SM.AR.ZS,"Tariff rate, applied, simple mean, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.SR.ZS,"Share of tariff lines with specific rates, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.WM.AR.ZS,"Tariff rate, applied, weighted mean, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.MRCH.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, all products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.BC.ZS,"Binding coverage, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.BR.ZS,"Bound rate, simple mean, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.IP.ZS,"Share of tariff lines with international peaks, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.SM.AR.ZS,"Tariff rate, applied, simple mean, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.SR.ZS,"Share of tariff lines with specific rates, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.WM.AR.ZS,"Tariff rate, applied, weighted mean, primary products (%)",private-sector;trade,2001,2020,13
+TM.TAX.TCOM.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, primary products (%)",private-sector;trade,2001,2020,13
+TM.UVI.MRCH.XD.WD,Import unit value index (2015 = 100),private-sector;trade,1980,2021,42
+TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports),agriculture-and-rural-development;private-sector;trade,1970,1981,11
+TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports),private-sector;trade,1970,1981,11
+TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports),private-sector;trade,1970,1981,11
+TM.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service imports),private-sector;trade,1971,2021,45
+TM.VAL.MANF.ZS.UN,Manufactures imports (% of merchandise imports),private-sector;trade,1970,1981,11
+TM.VAL.MMTL.ZS.UN,Ores and metals imports (% of merchandise imports),private-sector;trade,1970,1981,11
+TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports),private-sector;trade,1960,2020,46
+TM.VAL.MRCH.CD.WT,Merchandise imports (current US$),private-sector;trade,1960,2022,63
+TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports),private-sector;trade,1960,2020,61
+TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),private-sector;trade,1960,2020,60
+TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),private-sector;trade,1960,2020,58
+TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),private-sector;trade,1960,2020,52
+TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),private-sector;trade,1960,2020,61
+TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),private-sector;trade,1960,2020,43
+TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),private-sector;trade,1960,2020,59
+TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),private-sector;trade,1960,2020,59
+TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",private-sector;trade,1960,2020,61
+TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$),private-sector;trade,1960,2020,61
+TM.VAL.MRCH.WR.ZS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),private-sector;trade,1960,2020,61
+TM.VAL.MRCH.XD.WD,Import value index (2000 = 100),private-sector;trade,1980,2020,41
+TM.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service imports)",private-sector;trade,1971,2021,51
+TM.VAL.SERV.CD.WT,Commercial service imports (current US$),private-sector;trade,1971,2021,51
+TM.VAL.TRAN.ZS.WT,Transport services (% of commercial service imports),private-sector;trade,1971,2021,51
+TM.VAL.TRVL.ZS.WT,Travel services (% of commercial service imports),private-sector;trade,1971,2021,47
+TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2000 = 100),private-sector;trade,1980,2020,41
+TX.MNF.TECH.ZS.UN,Medium and high-tech exports (% manufactured exports),private-sector;trade,1990,2020,31
+TX.QTY.MRCH.XD.WD,Export volume index (2000 = 100),private-sector;trade,1980,2020,41
+TX.UVI.MRCH.XD.WD,Export unit value index (2015 = 100),private-sector;trade,1980,2021,42
+TX.VAL.AGRI.ZS.UN,Agricultural raw materials exports (% of merchandise exports),agriculture-and-rural-development;private-sector;trade,1970,1997,21
+TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports),private-sector;trade,1970,1997,21
+TX.VAL.FUEL.ZS.UN,Fuel exports (% of merchandise exports),private-sector;trade,1990,1996,3
+TX.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service exports),private-sector;trade,1971,2021,48
+TX.VAL.MANF.ZS.UN,Manufactures exports (% of merchandise exports),private-sector;trade,1970,1997,21
+TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports),private-sector;trade,1970,1997,20
+TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports),private-sector;trade,1960,2020,50
+TX.VAL.MRCH.CD.WT,Merchandise exports (current US$),private-sector;trade,1960,2022,63
+TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports),private-sector;trade,1960,2020,61
+TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),private-sector;trade,1960,2020,55
+TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),private-sector;trade,1966,2020,41
+TX.VAL.MRCH.R2.ZS,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),private-sector;trade,1978,2020,24
+TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),private-sector;trade,1960,2020,61
+TX.VAL.MRCH.R4.ZS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),private-sector;trade,1960,2020,49
+TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),private-sector;trade,1967,2020,29
+TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),private-sector;trade,1970,2020,34
+TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",private-sector;trade,1960,2020,61
+TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$),private-sector;trade,1960,2020,61
+TX.VAL.MRCH.WR.ZS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),private-sector;trade,1960,2020,61
+TX.VAL.MRCH.XD.WD,Export value index (2000 = 100),private-sector;trade,1980,2020,41
+TX.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service exports)",private-sector;trade,1971,2021,51
+TX.VAL.SERV.CD.WT,Commercial service exports (current US$),private-sector;trade,1971,2021,51
+TX.VAL.TRAN.ZS.WT,Transport services (% of commercial service exports),private-sector;trade,1971,2021,33
+TX.VAL.TRVL.ZS.WT,Travel services (% of commercial service exports),private-sector;trade,1971,2021,51
+VC.BTL.DETH,Battle-related deaths (number of people),public-sector,1989,2004,3
+VC.IDP.NWCV,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",public-sector,2019,2021,3
+VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",public-sector,2008,2021,14
+VC.IDP.TOCV,"Internally displaced persons, total displaced by conflict and violence (number of people)",public-sector,2019,2021,3
+VC.IHR.PSRC.FE.P5,"Intentional homicides, female (per 100,000 female)",public-sector,2013,2021,7
+VC.IHR.PSRC.MA.P5,"Intentional homicides, male (per 100,000 male)",public-sector,2013,2021,7
+VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)",public-sector,2007,2021,13
